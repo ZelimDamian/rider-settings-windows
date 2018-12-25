@@ -751,12 +751,12 @@
         <mark key="^" line="242" column="21" />
         <mark key="." line="242" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItemComponent.cs" timestamp="1545773912715">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItemComponent.cs" timestamp="1545774765404">
         <mark key="'" line="70" column="31" />
-        <mark key="[" line="70" column="54" />
-        <mark key="]" line="70" column="53" />
-        <mark key="." line="70" column="53" />
-        <mark key="^" line="70" column="53" />
+        <mark key="[" line="70" column="16" />
+        <mark key="]" line="70" column="23" />
+        <mark key="." line="70" column="23" />
+        <mark key="^" line="70" column="23" />
       </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/WaypointCurves/CollapseHelper.cs" timestamp="1535397005421">
         <mark key="'" line="15" column="12" />
@@ -1247,11 +1247,11 @@
       <jump line="70" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItemComponent.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_itemElementPrefab</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkgICAgICAgIFJlc291cmNlcy5Mb2FkPFRvcE1lbnVJdGVtQ29tcG9uZW50PigiUHJlZmFicy9Ub3BNZW51L1RvcE1lbnVJdGVtIik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_itemElementPrefab</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfaXRlbUVsZW1lbnRQcmVmYWJcPg==</text>
@@ -1260,37 +1260,37 @@
         <text>TopMenuItemComponent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrLkludGVybmFsLkV4ZWN1dGlvbjsK</text>
+        <text encoding="base64">CQkgICAgICAgIFJlc291cmNlcy5Mb2FkPFRvcE1lbnVJdGVtQ29tcG9uZW50PigiUHJlZmFicy9Ub3BNZW51L1RvcE1lbnVJdGVtIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbkVsZW1lbnQub25DbGljay5SZW1vdmVBbGxMaXN0ZW5lcnMoKTsK</text>
+        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrLkludGVybmFsLkV4ZWN1dGlvbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICAgICAgYnV0dG9uRWxlbWVudC5vbkNsaWNrLlJlbW92ZUFsbExpc3RlbmVycygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbkVsZW1lbnQub25DbGljay5SZW1vdmVBbGxMaXN0ZW5lcnMoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkgICAgICAgIAo=</text>
+        <text encoding="base64">CSAgICAgICAgYnV0dG9uRWxlbWVudC5vbkNsaWNrLlJlbW92ZUFsbExpc3RlbmVycygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uRWxlbWVudC5vbkNsaWNrLkFkZExpc3RlbmVyKCgpID0+IGl0ZW0uQWN0aW9uKCkpOwo=</text>
+        <text encoding="base64">CQkgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEdVSVV0aWxpdHkuc3lzdGVtQ29weUJ1ZmZlciA9IHNldHVwVXJsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uRWxlbWVudC5vbkNsaWNrLkFkZExpc3RlbmVyKCgpID0+IGl0ZW0uQWN0aW9uKCkpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEdVSVV0aWxpdHkuc3lzdGVtQ29weUJ1ZmZlciA9IHNldHVwVXJsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChJbnB1dC5HZXRLZXkoS2V5Q29kZS5MZWZ0Q29udHJvbCkgJiYgSW5wdXQuR2V0S2V5VXAoS2V5Q29kZS5WKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEdVSVV0aWxpdHkuc3lzdGVtQ29weUJ1ZmZlciA9IHNldHVwVXJsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggR1VJVXRpbGl0eS5zeXN0ZW1Db3B5QnVmZmVyLkxlbmd0aCA+IDAgKQogICAgICAgICAgICAgICAgICAgIHJldHVybiBhY3RpdmVUZXh0VGFyZ2V0Lk9uQ2hhcmFjdGVycyhHVUlVdGlsaXR5LnN5c3RlbUNvcHlCdWZmZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChJbnB1dC5HZXRLZXkoS2V5Q29kZS5MZWZ0Q29udHJvbCkgJiYgSW5wdXQuR2V0S2V5VXAoS2V5Q29kZS5WKSkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1310,8 +1310,8 @@
       </history-search>
       <history-cmd>
         <entry>qa</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1382,6 +1382,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed BACK_SLASH</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
