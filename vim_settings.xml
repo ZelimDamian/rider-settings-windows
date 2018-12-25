@@ -1302,7 +1302,7 @@
         <text encoding="base64">CQkgICAgICAgIFJlc291cmNlcy5Mb2FkPFRvcE1lbnVJdGVtQ29tcG9uZW50PigiUHJlZmFicy9Ub3BNZW51L1RvcE1lbnVJdGVtIik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1329,6 +1329,7 @@
         <entry>qa</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
