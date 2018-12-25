@@ -398,11 +398,11 @@
         <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="43" />
       </file>
-      <file name="C:/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/Service.cs" timestamp="1545696277636">
-        <mark key="[" line="116" column="9" />
-        <mark key="]" line="116" column="8" />
-        <mark key="^" line="116" column="8" />
-        <mark key="." line="116" column="8" />
+      <file name="C:/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/Service.cs" timestamp="1545729799519">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="115" column="8" />
+        <mark key="." line="12" column="7" />
       </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/ToothTextAttachment.cs" timestamp="1538252085526">
         <mark key="'" line="14" column="24" />
@@ -1214,10 +1214,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF0Zm9ybU1lc2hcPg==</text>
@@ -1226,34 +1226,34 @@
         <text>averageNormal</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uRWxlbWVudC5vbkNsaWNrLkFkZExpc3RlbmVyKGl0ZW0uQWN0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uID0gZ2FtZU9iamVjdC50cmFuc2Zvcm0uRmluZCgiUGFuZWwiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uRWxlbWVudC5vbkNsaWNrLkFkZExpc3RlbmVyKGl0ZW0uQWN0aW9uKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uID0gZ2FtZU9iamVjdC50cmFuc2Zvcm0uRmluZCgiUGFuZWwiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uID0gZ2FtZU9iamVjdC50cmFuc2Zvcm0uRmluZCgiUGFuZWwiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgICAgICAgcGFuZWwuZ2FtZU9iamVjdC5TZXRBY3RpdmUodHJ1ZSk7Cg==</text>
+        <text encoding="base64">CQkgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">CSAgICAgICAgcGFuZWwuZ2FtZU9iamVjdC5TZXRBY3RpdmUodHJ1ZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBPblBvaW50ZXJMZWF2ZShQb2ludGVyRXZlbnREYXRhIGV2ZW50RGF0YSkKCg==</text>
+        <text encoding="base64">CSAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBPblBvaW50ZXJMZWF2ZShQb2ludGVyRXZlbnREYXRhIGV2ZW50RGF0YSkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
