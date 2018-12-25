@@ -446,6 +446,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="59" column="51" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/TopMenuService.cs" timestamp="1545762369414">
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="21" column="24" />
+        <mark key="^" line="21" column="24" />
+        <mark key="." line="21" column="24" />
+      </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/SceneObjects/BracePlatformSO.cs" timestamp="1542909124763">
         <mark key="'" line="16" column="28" />
         <mark key="[" line="18" column="54" />
@@ -729,6 +735,7 @@
         <mark key="^" line="242" column="21" />
         <mark key="." line="242" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItemComponent.cs" timestamp="1545762210101" />
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/WaypointCurves/CollapseHelper.cs" timestamp="1535397005421">
         <mark key="'" line="15" column="12" />
         <mark key="[" line="51" column="101" />
@@ -1214,7 +1221,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bGtqY2NjY2NjCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgQ3JlYXRlTWVudSgpCiAgICAgICAgewogICAgICAgICAgICB2YXIgY2FudmFzID0gVWlTZXJ2aWNlLkNhbnZhczsKICAgICAgICAgICAgdmFyIHRvcE1lbnVJdGVtQ29tcG9uZW50ID0gY2FudmFzLkdldENvbXBvbmVudEluQ2hpbGRyZW48VG9wTWVudUl0ZW1Db21wb25lbnQ+KCk7CgogICAgICAgICAgICB2YXIgaXRlbSA9IENyZWF0ZUl0ZW0oKTsKICAgICAgICAgICAgdG9wTWVudUl0ZW1Db21wb25lbnQuU2V0SXRlbShpdGVtKTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>Name</text>
@@ -1222,11 +1229,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF0Zm9ybU1lc2hcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>averageNormal</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlTWVudSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGtqY2NjY2NjCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgQ3JlYXRlTWVudSgpCiAgICAgICAgewogICAgICAgICAgICB2YXIgY2FudmFzID0gVWlTZXJ2aWNlLkNhbnZhczsKICAgICAgICAgICAgdmFyIHRvcE1lbnVJdGVtQ29tcG9uZW50ID0gY2FudmFzLkdldENvbXBvbmVudEluQ2hpbGRyZW48VG9wTWVudUl0ZW1Db21wb25lbnQ+KCk7CgogICAgICAgICAgICB2YXIgaXRlbSA9IENyZWF0ZUl0ZW0oKTsKICAgICAgICAgICAgdG9wTWVudUl0ZW1Db21wb25lbnQuU2V0SXRlbShpdGVtKTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1235,28 +1242,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bGtqY2NjY2NjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIE5hbWUgPT4gR2V0VHlwZSgpLk5hbWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIE5hbWUgPT4gR2V0VHlwZSgpLk5hbWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uRWxlbWVudC5vbkNsaWNrLkFkZExpc3RlbmVyKGl0ZW0uQWN0aW9uKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uID0gZ2FtZU9iamVjdC50cmFuc2Zvcm0uRmluZCgiUGFuZWwiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uID0gZ2FtZU9iamVjdC50cmFuc2Zvcm0uRmluZCgiUGFuZWwiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uRWxlbWVudC5vbkNsaWNrLkFkZExpc3RlbmVyKGl0ZW0uQWN0aW9uKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1271,8 +1278,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
