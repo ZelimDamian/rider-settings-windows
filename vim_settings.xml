@@ -398,11 +398,11 @@
         <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="43" />
       </file>
-      <file name="C:/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/Service.cs" timestamp="1545731745438">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="13" column="11" />
-        <mark key="." line="8" column="0" />
+      <file name="C:/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/Service.cs" timestamp="1545740964685">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="4" />
+        <mark key="^" line="17" column="4" />
+        <mark key="." line="17" column="4" />
       </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/ToothTextAttachment.cs" timestamp="1538252085526">
         <mark key="'" line="14" column="24" />
@@ -1214,7 +1214,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bGtqY2NjY2NjCg==</text>
       </register>
       <register name="-" type="4">
         <text>Name</text>
@@ -1226,34 +1226,34 @@
         <text>averageNormal</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bGtqY2NjY2NjCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIE5hbWUgPT4gR2V0VHlwZSgpLk5hbWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIE5hbWUgPT4gR2V0VHlwZSgpLk5hbWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uRWxlbWVudC5vbkNsaWNrLkFkZExpc3RlbmVyKGl0ZW0uQWN0aW9uKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uID0gZ2FtZU9iamVjdC50cmFuc2Zvcm0uRmluZCgiUGFuZWwiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uID0gZ2FtZU9iamVjdC50cmFuc2Zvcm0uRmluZCgiUGFuZWwiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uRWxlbWVudC5vbkNsaWNrLkFkZExpc3RlbmVyKGl0ZW0uQWN0aW9uKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uID0gZ2FtZU9iamVjdC50cmFuc2Zvcm0uRmluZCgiUGFuZWwiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAgICAgICAgcGFuZWwuZ2FtZU9iamVjdC5TZXRBY3RpdmUodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uID0gZ2FtZU9iamVjdC50cmFuc2Zvcm0uRmluZCgiUGFuZWwiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
