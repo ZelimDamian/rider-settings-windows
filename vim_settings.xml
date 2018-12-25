@@ -558,11 +558,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="7" column="105" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/FPlatform.cs" timestamp="1545763370448">
-        <mark key="[" line="192" column="26" />
-        <mark key="]" line="192" column="27" />
-        <mark key="^" line="192" column="27" />
-        <mark key="." line="192" column="27" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/FPlatform.cs" timestamp="1545765175473">
+        <mark key="[" line="192" column="34" />
+        <mark key="]" line="192" column="46" />
+        <mark key="^" line="192" column="46" />
+        <mark key="." line="192" column="46" />
       </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Gizmos/AxisScaleTransformGizmo/UniformScaleWidget.cs" timestamp="1535204026645">
         <mark key="'" line="38" column="59" />
@@ -1241,11 +1241,11 @@
       <jump line="42" column="61" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformSegmentationService.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEdVSVV0aWxpdHkuc3lzdGVtQ29weUJ1ZmZlciA9IHNldHVwVXJsOwo=</text>
+      <register name="&quot;" type="4">
+        <text>XRSettings.enabled;</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>XRSettings.enabled;</text>
       </register>
       <register name="/" type="4">
         <text>Xr</text>
@@ -1284,7 +1284,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1302,9 +1302,9 @@
         <entry>Xr</entry>
       </history-search>
       <history-cmd>
-        <entry>wa</entry>
-        <entry>qa</entry>
         <entry>w</entry>
+        <entry>qa</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
