@@ -398,6 +398,12 @@
         <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="43" />
       </file>
+      <file name="C:/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/Service.cs" timestamp="1545696277636">
+        <mark key="[" line="116" column="9" />
+        <mark key="]" line="116" column="8" />
+        <mark key="^" line="116" column="8" />
+        <mark key="." line="116" column="8" />
+      </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/ToothTextAttachment.cs" timestamp="1538252085526">
         <mark key="'" line="14" column="24" />
         <mark key="[" line="22" column="30" />
@@ -1263,47 +1269,8 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>Camer</entry>
-        <entry>Camera</entry>
-        <entry encoding="base64">XDxDcmVhdGVRdWFkTWVzaFw+</entry>
-        <entry encoding="base64">XDxfZnVsbFNjcmVlbk1lc2hcPg==</entry>
-        <entry encoding="base64">XDxPZmZzZXRcPg==</entry>
-        <entry>_offset</entry>
-        <entry encoding="base64">XDxSQURJQUxfQVNQRUNUX0hFSUdIVF9HUkFESUVOVFw+</entry>
-        <entry encoding="base64">XDxHZXRLZXl3b2RGb3JHcmFkaWVudFR5cGVcPg==</entry>
-        <entry encoding="base64">XDx2ZXJ0XD4=</entry>
-        <entry encoding="base64">XDxVTklUWV9SRVZFUlNFRF9aXD4=</entry>
-        <entry encoding="base64">XDxTZXR1cFJlZmxlY3Rpb25Qcm9iZXNcPg==</entry>
-        <entry encoding="base64">XDxJdGVtXD4=</entry>
-        <entry encoding="base64">XDxwYW5lbFw+</entry>
-        <entry encoding="base64">XDxpdGVtXD4=</entry>
-        <entry encoding="base64">XDxVcGxvYWRTYXZlRmlsZVw+</entry>
-        <entry encoding="base64">XDxPblBvaW50ZXJFbnRlclw+</entry>
-        <entry encoding="base64">XDxPblBvaW50ZXJMZWF2ZVw+</entry>
-        <entry encoding="base64">XDxsYWJlbEVsZW1lbnRcPg==</entry>
-        <entry encoding="base64">XDxidXR0b25FbGVtZW50XD4=</entry>
-        <entry encoding="base64">XDxwbGF0Zm9ybU1lc2hcPg==</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
-        <entry>163</entry>
-        <entry>83</entry>
-        <entry>178</entry>
-        <entry>255</entry>
-        <entry>73</entry>
-        <entry>63</entry>
-        <entry>29</entry>
-        <entry>36</entry>
-        <entry>131</entry>
-        <entry>wq</entry>
-        <entry>q</entry>
-        <entry>e</entry>
-        <entry>679</entry>
-        <entry>b</entry>
-        <entry>28</entry>
-        <entry>qa</entry>
-        <entry>a</entry>
-        <entry>:w</entry>
         <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
@@ -1316,6 +1283,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
@@ -1337,9 +1310,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
