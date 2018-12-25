@@ -751,6 +751,13 @@
         <mark key="^" line="242" column="21" />
         <mark key="." line="242" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItemComponent.cs" timestamp="1545773912715">
+        <mark key="'" line="70" column="31" />
+        <mark key="[" line="70" column="54" />
+        <mark key="]" line="70" column="53" />
+        <mark key="." line="70" column="53" />
+        <mark key="^" line="70" column="53" />
+      </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/WaypointCurves/CollapseHelper.cs" timestamp="1535397005421">
         <mark key="'" line="15" column="12" />
         <mark key="[" line="51" column="101" />
@@ -1032,7 +1039,6 @@
         <mark key="^" line="42" column="64" />
         <mark key="." line="42" column="64" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SettingsService.cs" timestamp="1545772485469" />
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/TextMeshPlacement.cs" timestamp="1535294872744">
         <mark key="'" line="6" column="17" />
         <mark key="[" line="66" column="13" />
@@ -1139,8 +1145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="38" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/WireService.cs" />
-      <jump line="1" column="0" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BracePlatformService.cs" />
       <jump line="193" column="12" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BracePlatformService.cs" />
       <jump line="17" column="0" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
       <jump line="144" column="26" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
@@ -1239,58 +1243,60 @@
       <jump line="53" column="34" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformSegmentationService.cs" />
       <jump line="182" column="15" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Extensions/Extensions.cs" />
       <jump line="42" column="61" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformSegmentationService.cs" />
+      <jump line="16" column="44" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItemComponent.cs" />
+      <jump line="70" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItemComponent.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>XRSettings.enabled;</text>
+        <text>_itemElementPrefab</text>
       </register>
       <register name="-" type="4">
-        <text>XRSettings.enabled;</text>
+        <text>_itemElementPrefab</text>
       </register>
       <register name="/" type="4">
-        <text>Xr</text>
+        <text encoding="base64">XDxfaXRlbUVsZW1lbnRQcmVmYWJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlTWVudSgpOwo=</text>
+      <register name="0" type="4">
+        <text>TopMenuItemComponent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEdVSVV0aWxpdHkuc3lzdGVtQ29weUJ1ZmZlciA9IHNldHVwVXJsOwo=</text>
+        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrLkludGVybmFsLkV4ZWN1dGlvbjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEdVSVV0aWxpdHkuc3lzdGVtQ29weUJ1ZmZlciA9IHNldHVwVXJsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbkVsZW1lbnQub25DbGljay5SZW1vdmVBbGxMaXN0ZW5lcnMoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChJbnB1dC5HZXRLZXkoS2V5Q29kZS5MZWZ0Q29udHJvbCkgJiYgSW5wdXQuR2V0S2V5VXAoS2V5Q29kZS5WKSkgewo=</text>
+        <text encoding="base64">CSAgICAgICAgYnV0dG9uRWxlbWVudC5vbkNsaWNrLlJlbW92ZUFsbExpc3RlbmVycygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggR1VJVXRpbGl0eS5zeXN0ZW1Db3B5QnVmZmVyLkxlbmd0aCA+IDAgKQogICAgICAgICAgICAgICAgICAgIHJldHVybiBhY3RpdmVUZXh0VGFyZ2V0Lk9uQ2hhcmFjdGVycyhHVUlVdGlsaXR5LnN5c3RlbUNvcHlCdWZmZXIpOwo=</text>
+        <text encoding="base64">CQkgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgQ3JlYXRlTWVudSgpCiAgICAgICAgewogICAgICAgICAgICB2YXIgY2FudmFzID0gVWlTZXJ2aWNlLkNhbnZhczsKICAgICAgICAgICAgdmFyIHRvcE1lbnVJdGVtQ29tcG9uZW50ID0gY2FudmFzLkdldENvbXBvbmVudEluQ2hpbGRyZW48VG9wTWVudUl0ZW1Db21wb25lbnQ+KCk7CgogICAgICAgICAgICB2YXIgaXRlbSA9IENyZWF0ZUl0ZW0oKTsKICAgICAgICAgICAgdG9wTWVudUl0ZW1Db21wb25lbnQuU2V0SXRlbShpdGVtKTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uRWxlbWVudC5vbkNsaWNrLkFkZExpc3RlbmVyKCgpID0+IGl0ZW0uQWN0aW9uKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEdVSVV0aWxpdHkuc3lzdGVtQ29weUJ1ZmZlciA9IHNldHVwVXJsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGtqY2NjY2NjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEdVSVV0aWxpdHkuc3lzdGVtQ29weUJ1ZmZlciA9IHNldHVwVXJsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChJbnB1dC5HZXRLZXkoS2V5Q29kZS5MZWZ0Q29udHJvbCkgJiYgSW5wdXQuR2V0S2V5VXAoS2V5Q29kZS5WKSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggR1VJVXRpbGl0eS5zeXN0ZW1Db3B5QnVmZmVyLkxlbmd0aCA+IDAgKQogICAgICAgICAgICAgICAgICAgIHJldHVybiBhY3RpdmVUZXh0VGFyZ2V0Lk9uQ2hhcmFjdGVycyhHVUlVdGlsaXR5LnN5c3RlbUNvcHlCdWZmZXIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Xr</last-search>
+      <last-search encoding="base64">XDxfaXRlbUVsZW1lbnRQcmVmYWJcPg==</last-search>
       <last-offset />
-      <last-pattern>Xr</last-pattern>
+      <last-pattern encoding="base64">XDxfaXRlbUVsZW1lbnRQcmVmYWJcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1300,11 +1306,12 @@
       <history-search>
         <entry>XR</entry>
         <entry>Xr</entry>
+        <entry encoding="base64">XDxfaXRlbUVsZW1lbnRQcmVmYWJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>qa</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
