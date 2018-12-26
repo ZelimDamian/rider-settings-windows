@@ -98,6 +98,9 @@
         <mark key="." line="37" column="51" />
         <mark key="^" line="37" column="51" />
       </file>
+      <file name="/Dummy.cs" timestamp="1545851282596">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/PlaceIrp/PlaceIrpTool.cs" timestamp="1544742690419">
         <mark key="'" line="41" column="18" />
         <mark key="[" line="158" column="0" />
@@ -284,6 +287,12 @@
         <mark key="]" line="19" column="11" />
         <mark key="." line="19" column="11" />
         <mark key="^" line="19" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BlendShapeService.cs" timestamp="1545851972274">
+        <mark key="[" line="124" column="68" />
+        <mark key="]" line="124" column="64" />
+        <mark key="^" line="124" column="64" />
+        <mark key="." line="124" column="64" />
       </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/General/MathUtilities.cs" timestamp="1542229727649">
         <mark key="'" line="11" column="83" />
@@ -490,11 +499,6 @@
         <mark key="]" line="115" column="43" />
         <mark key="^" line="115" column="43" />
         <mark key="." line="115" column="43" />
-      </file>
-      <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Extensions/Extensions.cs" timestamp="1545693735688">
-        <mark key="'" line="182" column="15" />
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="53" />
       </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Brace.cs" timestamp="1543010615523">
         <mark key="'" line="9" column="48" />
@@ -840,6 +844,9 @@
         <mark key="." line="106" column="34" />
         <mark key="^" line="106" column="31" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/ToothContour.cs" timestamp="1545851690364">
+        <mark key="'" line="13" column="19" />
+      </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawPlatformContour/DrawWaypointSurfaceCurveTool.cs" timestamp="1543436085738">
         <mark key="'" line="30" column="17" />
         <mark key="[" line="88" column="73" />
@@ -1178,7 +1185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="28" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
       <jump line="179" column="54" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
       <jump line="223" column="30" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
       <jump line="15" column="27" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Shaders/GradientBackground.shader" />
@@ -1278,6 +1284,7 @@
       <jump line="420" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="424" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="270" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="13" column="19" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/ToothContour.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1287,7 +1294,7 @@
         <text>loop</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZXJ0aWNlc1w+</text>
+        <text encoding="base64">XDxQb3NUb290aE51bWJlclw+</text>
       </register>
       <register name="0" type="4">
         <text>edgeLoop</text>
@@ -1327,9 +1334,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2ZXJ0aWNlc1w+</last-search>
+      <last-search encoding="base64">XDxQb3NUb290aE51bWJlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZXJ0aWNlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxQb3NUb290aE51bWJlclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1352,6 +1359,7 @@
         <entry encoding="base64">XDxGaWxsVG9vdGhIb2xlc1w+</entry>
         <entry encoding="base64">XDxGaWxsSG9sZVw+</entry>
         <entry encoding="base64">XDx2ZXJ0aWNlc1w+</entry>
+        <entry encoding="base64">XDxQb3NUb290aE51bWJlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
