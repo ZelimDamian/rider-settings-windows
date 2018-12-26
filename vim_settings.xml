@@ -576,8 +576,8 @@
         <mark key="." line="14" column="68" />
         <mark key="^" line="14" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" timestamp="1545855283154">
-        <mark key="'" line="249" column="41" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" timestamp="1545857903031">
+        <mark key="'" line="81" column="28" />
         <mark key="[" line="60" column="16" />
         <mark key="]" line="60" column="19" />
         <mark key="^" line="60" column="19" />
@@ -1202,8 +1202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="8" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Shaders/GradientBackgroundCore.cginc" />
-      <jump line="16" column="56" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Patient.cs" />
       <jump line="112" column="21" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Lighting/SceneLightingSetup.cs" />
       <jump line="14" column="27" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItemComponent.cs" />
       <jump line="47" column="45" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItemComponent.cs" />
@@ -1302,6 +1300,8 @@
       <jump line="132" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="137" column="33" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="251" column="41" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
+      <jump line="63" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
+      <jump line="81" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1311,7 +1311,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNYXBFZGdlc1ZpYVZlcnRleE1hcFw+</text>
+        <text encoding="base64">XDxleHRydWRlX2dyb3VwXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBpbnRbXSBGaWxsSG9sZUNsb3N1cmUoRE1lc2gzIG1lc2gsIEVkZ2VMb29wIGxvb3ApCg==</text>
@@ -1351,9 +1351,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNYXBFZGdlc1ZpYVZlcnRleE1hcFw+</last-search>
+      <last-search encoding="base64">XDxleHRydWRlX2dyb3VwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNYXBFZGdlc1ZpYVZlcnRleE1hcFw+</last-pattern>
+      <last-pattern encoding="base64">XDxleHRydWRlX2dyb3VwXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1379,6 +1379,7 @@
         <entry encoding="base64">XDxGaWxsVG9vdGhIb2xlc1w+</entry>
         <entry>FillHole</entry>
         <entry encoding="base64">XDxNYXBFZGdlc1ZpYVZlcnRleE1hcFw+</entry>
+        <entry encoding="base64">XDxleHRydWRlX2dyb3VwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
