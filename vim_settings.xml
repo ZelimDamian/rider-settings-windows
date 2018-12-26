@@ -245,6 +245,7 @@
         <mark key="." line="109" column="84" />
         <mark key="^" line="109" column="84" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceCreation/Controllers/BraceCreationCockpit.cs" timestamp="1545859935987" />
       <file name="D:/Projects/Unity/BankPerformance/Assets/BankPerformance/Scripts/Services/ScoreService.cs" timestamp="1542959378947">
         <mark key="'" line="21" column="12" />
         <mark key="[" line="43" column="53" />
@@ -340,6 +341,7 @@
         <mark key="." line="33" column="30" />
         <mark key="^" line="33" column="30" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupCockpit.cs" timestamp="1545859493635" />
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/UI/VisibilityPanelComponent.cs" timestamp="1543015064288">
         <mark key="'" line="102" column="28" />
         <mark key="[" line="103" column="0" />
@@ -403,6 +405,7 @@
         <mark key="." line="43" column="33" />
         <mark key="^" line="43" column="33" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationCockpit.cs" timestamp="1545859541548" />
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/PlaneCuttingTool/PlaneCuttingToolBehaviour.cs" timestamp="1534100400776">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="33" column="0" />
@@ -596,6 +599,7 @@
         <mark key="^" line="192" column="46" />
         <mark key="." line="192" column="46" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/TeethOrigins/Controllers/TeethOriginsCockpit.cs" timestamp="1545859359050" />
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Gizmos/AxisScaleTransformGizmo/UniformScaleWidget.cs" timestamp="1535204026645">
         <mark key="'" line="38" column="59" />
         <mark key="[" line="18" column="15" />
@@ -812,6 +816,7 @@
         <mark key="." line="108" column="48" />
         <mark key="^" line="108" column="48" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/OriginSetup/Controllers/OriginSetupCockpit.cs" timestamp="1545859569527" />
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Grid.cs" timestamp="1542234100957">
         <mark key="'" line="45" column="30" />
         <mark key="[" line="14" column="48" />
@@ -1037,6 +1042,7 @@
         <mark key="." line="160" column="46" />
         <mark key="^" line="160" column="46" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/GumCreationCockpit.cs" timestamp="1545859586758" />
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BraceTypeService.cs" timestamp="1543010425556">
         <mark key="'" line="52" column="27" />
         <mark key="[" line="65" column="0" />
@@ -1172,6 +1178,7 @@
         <mark key="." line="30" column="40" />
         <mark key="^" line="30" column="40" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BracePlatformCreation/Controllers/BracePlatformCreationCockpit.cs" timestamp="1545859912997" />
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Previews/BoxPreview.cs" timestamp="1544828626710">
         <mark key="'" line="12" column="24" />
         <mark key="[" line="50" column="24" />
