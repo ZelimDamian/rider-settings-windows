@@ -1322,7 +1322,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGdlbiA9IG5ldyBTcGhlcmUzR2VuZXJhdG9yX05vcm1hbGl6ZWRDdWJlIHtSYWRpdXMgPSAxLjBmLCBFZGdlVmVydGljZXMgPSA1fTsKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -1353,10 +1353,10 @@
         <entry encoding="base64">XDx2ZXJ0aWNlc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>qa</entry>
-        <entry>wa</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wa</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
