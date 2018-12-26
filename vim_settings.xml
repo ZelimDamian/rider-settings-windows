@@ -10,6 +10,12 @@
         <mark key="." line="54" column="20" />
         <mark key="^" line="45" column="15" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/RegionRemesher.cs" timestamp="1545855040337">
+        <mark key="[" line="133" column="70" />
+        <mark key="]" line="133" column="7" />
+        <mark key="^" line="133" column="7" />
+        <mark key="." line="133" column="7" />
+      </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Gizmos/TransformGizmos/Factories/TransformAxisGizmoBuilder.cs" timestamp="1539616284320">
         <mark key="'" line="23" column="45" />
         <mark key="[" line="9" column="15" />
@@ -431,12 +437,12 @@
         <mark key="^" line="17" column="4" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1545853238382">
-        <mark key="'" line="270" column="20" />
-        <mark key="[" line="422" column="8" />
-        <mark key="]" line="422" column="11" />
-        <mark key="." line="422" column="11" />
-        <mark key="^" line="422" column="11" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1545854229508">
+        <mark key="'" line="404" column="41" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="424" column="8" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/ToothTextAttachment.cs" timestamp="1538252085526">
         <mark key="'" line="14" column="24" />
@@ -570,8 +576,12 @@
         <mark key="." line="14" column="68" />
         <mark key="^" line="14" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" timestamp="1545781499494">
-        <mark key="'" line="110" column="18" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" timestamp="1545855283154">
+        <mark key="'" line="249" column="41" />
+        <mark key="[" line="60" column="16" />
+        <mark key="]" line="60" column="19" />
+        <mark key="^" line="60" column="19" />
+        <mark key="." line="60" column="19" />
       </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Lighting/EnvironmentLighting.cs" timestamp="1534266081318">
         <mark key="'" line="7" column="21" />
@@ -1020,6 +1030,13 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1545854004142">
+        <mark key="'" line="158" column="33" />
+        <mark key="[" line="160" column="46" />
+        <mark key="]" line="160" column="46" />
+        <mark key="." line="160" column="46" />
+        <mark key="^" line="160" column="46" />
+      </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BraceTypeService.cs" timestamp="1543010425556">
         <mark key="'" line="52" column="27" />
         <mark key="[" line="65" column="0" />
@@ -1185,10 +1202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="54" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
-      <jump line="223" column="30" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
-      <jump line="15" column="27" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Shaders/GradientBackground.shader" />
-      <jump line="120" column="27" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Shaders/GradientBackground.shader" />
       <jump line="17" column="8" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Shaders/GradientBackgroundCore.cginc" />
       <jump line="16" column="56" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Patient.cs" />
       <jump line="112" column="21" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Lighting/SceneLightingSetup.cs" />
@@ -1279,64 +1292,68 @@
       <jump line="295" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="419" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="423" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
-      <jump line="405" column="41" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="296" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="420" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="424" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="270" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="13" column="19" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/ToothContour.cs" />
+      <jump line="405" column="41" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="51" column="34" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
+      <jump line="132" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
+      <jump line="137" column="33" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
+      <jump line="251" column="41" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBpbnRbXSBGaWxsSG9sZShETWVzaDMgbWVzaCwgRWRnZUxvb3AgbG9vcCkK</text>
+        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>loop</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQb3NUb290aE51bWJlclw+</text>
+        <text encoding="base64">XDxNYXBFZGdlc1ZpYVZlcnRleE1hcFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>edgeLoop</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBpbnRbXSBGaWxsSG9sZUNsb3N1cmUoRE1lc2gzIG1lc2gsIEVkZ2VMb29wIGxvb3ApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBpbnRbXSBGaWxsSG9sZShETWVzaDMgbWVzaCwgRWRnZUxvb3AgbG9vcCkK</text>
+        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmV0dXJuCg==</text>
+        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgaW50W10gRmlsbEhvbGVDbG9zdXJlKERNZXNoMyBtZXNoLCBFZGdlTG9vcCBsb29wKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIG1lc2hMb29wQ2xvc3VyZSA9IG5ldyBNZXNoTG9vcENsb3N1cmUobWVzaCwgbG9vcCk7CgogICAgICAgICAgICBtZXNoTG9vcENsb3N1cmUuQ2xvc2UoKTsKCiAgICAgICAgICAgIHZhciBnaWQgPSBtZXNoTG9vcENsb3N1cmUuRmlsbEdyb3VwOwoKICAgICAgICAgICAgdmFyIG5ld0ZhY2VJZHMgPSBuZXcgTGlzdDxpbnQ+KCk7CgogICAgICAgICAgICBmb3JlYWNoICh2YXIgdGlkIGluIG1lc2hMb29wQ2xvc3VyZS5NZXNoLlRyaWFuZ2xlSW5kaWNlcygpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAobWVzaC5HZXRUcmlhbmdsZUdyb3VwKHRpZCkgPT0gZ2lkKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIG5ld0ZhY2VJZHMuQWRkKHRpZCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBuZXdGYWNlSWRzLlRvQXJyYXkoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmV0dXJuIAo=</text>
+        <text encoding="base64">Ly8JCQl2YXIgdHJpYW5nbGVzID0gUGxhdGZvcm1JbXByaW50U2VydmljZS5HZXRGYWNlc0luQ3VydmUobWVzaCwgbG9vcCwgMSkuVG9BcnJheSgpOwovLyAgICAgICAgICAgIHJldHVybiB0cmlhbmdsZXMuVG9BcnJheSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBuZXcgaW50WzBdOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsb29wID0gRWRnZUxvb3AuRnJvbVZlcnRpY2VzKHRvb3RoTWVzaCwgdmVydGljZXMuVG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5ld1RyaWFuZ2xlcyA9IG5ldyBMaXN0PAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvb3AgPSBFZGdlTG9vcC5Gcm9tVmVydGljZXMobWVzaCwgaW5WZXJ0aWNlcy5Ub0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZhY2VzID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQb3NUb290aE51bWJlclw+</last-search>
+      <last-search encoding="base64">XDxNYXBFZGdlc1ZpYVZlcnRleE1hcFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQb3NUb290aE51bWJlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxNYXBFZGdlc1ZpYVZlcnRleE1hcFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1356,10 +1373,12 @@
         <entry encoding="base64">XDx0cmlhbmdsZV9ncm91cHNcPg==</entry>
         <entry encoding="base64">XDxuZXdfcm9pXD4=</entry>
         <entry encoding="base64">XDxHZXRGYWNlc0luQ3VydmVcPg==</entry>
-        <entry encoding="base64">XDxGaWxsVG9vdGhIb2xlc1w+</entry>
         <entry encoding="base64">XDxGaWxsSG9sZVw+</entry>
         <entry encoding="base64">XDx2ZXJ0aWNlc1w+</entry>
         <entry encoding="base64">XDxQb3NUb290aE51bWJlclw+</entry>
+        <entry encoding="base64">XDxGaWxsVG9vdGhIb2xlc1w+</entry>
+        <entry>FillHole</entry>
+        <entry encoding="base64">XDxNYXBFZGdlc1ZpYVZlcnRleE1hcFw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
