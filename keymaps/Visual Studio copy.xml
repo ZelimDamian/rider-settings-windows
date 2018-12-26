@@ -114,6 +114,7 @@
   <action id="RiderUnitTestDotMemoryUnitAction" />
   <action id="RiderUnitTestDotMemoryUnitContextAction" />
   <action id="RiderUnitTestDotMemoryUnitSolutionAction" />
+  <action id="RiderUnitTestFocusExplorerAction" />
   <action id="RiderUnitTestNewSessionAction" />
   <action id="RiderUnitTestRepeatPreviousRunAction" />
   <action id="RiderUnitTestRunContextAction" />

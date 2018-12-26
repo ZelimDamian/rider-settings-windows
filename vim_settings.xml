@@ -125,6 +125,9 @@
         <mark key="^" line="37" column="44" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformImprintService.cs" timestamp="1545781696912">
+        <mark key="'" line="20" column="28" />
+      </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformSegmentationService.cs" timestamp="1545693760548">
         <mark key="'" line="42" column="61" />
         <mark key="[" line="46" column="78" />
@@ -419,11 +422,12 @@
         <mark key="^" line="17" column="4" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1545780764087">
-        <mark key="[" line="425" column="12" />
-        <mark key="]" line="430" column="39" />
-        <mark key="^" line="430" column="39" />
-        <mark key="." line="430" column="39" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1545783032531">
+        <mark key="'" line="270" column="20" />
+        <mark key="[" line="295" column="36" />
+        <mark key="]" line="295" column="43" />
+        <mark key="^" line="295" column="43" />
+        <mark key="." line="295" column="43" />
       </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/ToothTextAttachment.cs" timestamp="1538252085526">
         <mark key="'" line="14" column="24" />
@@ -561,6 +565,9 @@
         <mark key="]" line="14" column="68" />
         <mark key="." line="14" column="68" />
         <mark key="^" line="14" column="68" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" timestamp="1545781499494">
+        <mark key="'" line="110" column="18" />
       </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Lighting/EnvironmentLighting.cs" timestamp="1534266081318">
         <mark key="'" line="7" column="21" />
@@ -720,7 +727,6 @@
         <mark key="." line="175" column="73" />
         <mark key="^" line="175" column="73" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshIsoCurves.cs" timestamp="1545780355546" />
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/DTC/Controllers/DTCController.cs" timestamp="1539451375650">
         <mark key="'" line="70" column="56" />
         <mark key="[" line="74" column="28" />
@@ -882,6 +888,9 @@
         <mark key="." line="52" column="91" />
         <mark key="^" line="52" column="90" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" timestamp="1545781417549">
+        <mark key="'" line="1313" column="12" />
+      </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshSmoothRegion.cs" timestamp="1535490233721">
         <mark key="'" line="10" column="38" />
         <mark key="[" line="20" column="26" />
@@ -916,6 +925,10 @@
         <mark key="]" line="197" column="13" />
         <mark key="." line="220" column="82" />
         <mark key="^" line="220" column="82" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BracePlatformService.cs" timestamp="1545781747035">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="107" />
       </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/TwoPointMarking/TwoPointMarkingTool.cs" timestamp="1537223375498">
         <mark key="'" line="121" column="12" />
@@ -1058,7 +1071,6 @@
         <mark key="." line="67" column="29" />
         <mark key="^" line="67" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/curve/CurveUtils.cs" timestamp="1545780028583" />
       <file name="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs" timestamp="1545522938988">
         <mark key="[" line="117" column="43" />
         <mark key="]" line="117" column="43" />
@@ -1165,66 +1177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="21" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/GumCreationController.cs" />
-      <jump line="158" column="0" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/GumCreationController.cs" />
-      <jump line="31" column="0" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/GumCreationController.cs" />
-      <jump line="33" column="21" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/GumCreationController.cs" />
-      <jump line="27" column="0" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/GumCreationController.cs" />
-      <jump line="108" column="48" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/StageService.cs" />
-      <jump line="126" column="48" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/StageService.cs" />
-      <jump line="238" column="17" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/StageService.cs" />
-      <jump line="240" column="42" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/StageService.cs" />
-      <jump line="242" column="15" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/StageService.cs" />
-      <jump line="258" column="42" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/StageService.cs" />
-      <jump line="106" column="49" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/StageService.cs" />
-      <jump line="39" column="0" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/GumCreationController.cs" />
-      <jump line="38" column="38" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/GumCreationController.cs" />
-      <jump line="68" column="16" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/GumCreationController.cs" />
-      <jump line="81" column="16" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/GumCreationController.cs" />
-      <jump line="84" column="26" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/GumCreationController.cs" />
-      <jump line="384" column="22" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/Reducer.cs" />
-      <jump line="484" column="31" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/Reducer.cs" />
-      <jump line="486" column="20" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/Reducer.cs" />
-      <jump line="497" column="16" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/Reducer.cs" />
-      <jump line="498" column="44" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/Reducer.cs" />
-      <jump line="48" column="12" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="150" column="35" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="157" column="16" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="169" column="20" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="174" column="20" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="186" column="26" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="194" column="16" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="196" column="34" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="197" column="34" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="235" column="20" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="247" column="39" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="253" column="16" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="254" column="38" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="263" column="16" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="264" column="23" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="269" column="20" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="270" column="16" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="10" column="34" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="42" column="25" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshRefinerBase.cs" />
-      <jump line="70" column="30" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/Reducer.cs" />
-      <jump line="99" column="21" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/Reducer.cs" />
-      <jump line="152" column="12" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/Reducer.cs" />
-      <jump line="144" column="12" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/Reducer.cs" />
-      <jump line="136" column="12" filename="D:/Projects/Unity/Tzergity/Assets/geometry3Sharp/mesh/Reducer.cs" />
-      <jump line="363" column="12" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
-      <jump line="364" column="12" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
-      <jump line="67" column="23" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
-      <jump line="163" column="103" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
-      <jump line="164" column="110" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
-      <jump line="180" column="38" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
-      <jump line="354" column="21" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
-      <jump line="33" column="31" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Lighting/SceneLightingSetup.cs" />
-      <jump line="101" column="67" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Lighting/SceneLightingSetup.cs" />
-      <jump line="190" column="12" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
-      <jump line="213" column="40" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
-      <jump line="69" column="21" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
-      <jump line="209" column="77" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
-      <jump line="29" column="40" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
       <jump line="236" column="28" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
       <jump line="179" column="54" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
       <jump line="223" column="30" filename="D:/Projects/Unity/Tzergity/Assets/GradientBackground/Scripts/GradientBackground.cs" />
@@ -1265,58 +1217,118 @@
       <jump line="48" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Controllers/SceneController.cs" />
       <jump line="140" column="66" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Controllers/SceneController.cs" />
       <jump line="36" column="66" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Controllers/SceneController.cs" />
+      <jump line="609" column="8" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="635" column="30" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="640" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="649" column="35" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1307" column="34" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1309" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1318" column="35" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1801" column="22" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1804" column="46" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1806" column="46" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1820" column="22" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1823" column="46" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1825" column="46" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1851" column="22" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1854" column="46" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1856" column="46" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1881" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1887" column="53" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1889" column="53" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1914" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1917" column="56" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1919" column="56" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1934" column="37" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1936" column="24" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="2185" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="2259" column="41" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="47" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="48" column="61" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="144" column="110" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="161" column="25" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="170" column="92" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="241" column="67" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="295" column="47" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="312" column="67" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="368" column="22" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="375" column="53" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="383" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="636" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="637" column="54" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="641" column="17" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="643" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1153" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1154" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1224" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1225" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1315" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1311" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="1313" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
+      <jump line="119" column="56" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
+      <jump line="110" column="18" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
+      <jump line="24" column="40" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformImprintService.cs" />
+      <jump line="20" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformImprintService.cs" />
+      <jump line="295" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="419" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="423" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="405" column="41" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="296" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="420" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="424" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="270" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdlbiA9IG5ldyBTcGhlcmUzR2VuZXJhdG9yX05vcm1hbGl6ZWRDdWJlIHtSYWRpdXMgPSAxLjBmLCBFZGdlVmVydGljZXMgPSA1fTsKCg==</text>
+      <register name="&quot;" type="4">
+        <text>loop</text>
       </register>
       <register name="-" type="4">
-        <text>/ }</text>
+        <text>loop</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUb29sTWFuYWdlck9uT25Ub29sQWN0aXZhdGlvbkNoYW5nZWRIYW5kbGVyXD4=</text>
+        <text encoding="base64">XDx2ZXJ0aWNlc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>ButtonElement</text>
+        <text>edgeLoop</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdlbiA9IG5ldyBTcGhlcmUzR2VuZXJhdG9yX05vcm1hbGl6ZWRDdWJlIHtSYWRpdXMgPSAxLjBmLCBFZGdlVmVydGljZXMgPSA1fTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsb29wID0gRWRnZUxvb3AuRnJvbVZlcnRpY2VzKHRvb3RoTWVzaCwgdmVydGljZXMuVG9MaXN0KCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNwaGVyZU1lc2ggPSBnZW4uR2VuZXJhdGUoKS5NYWtlRE1lc2goKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBtYWluID0gQ2FtZXJhLm1haW47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvb3AgPSBFZGdlTG9vcC5Gcm9tVmVydGljZXMobWVzaCwgaW5WZXJ0aWNlcy5Ub0xpc3QoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5Ob3RpZnlTY2VuZUNoYW5nZSh0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uRWxlbWVudCA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlbGVjdGlvbiA9IG5ldyBNZXNoRmFjZVNlbGVjdGlvbihtZXNoKTsKICAgICAgICAgICAgcmV0dXJuIHNlbGVjdGlvbi5Ub0FycmF5KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICAgICAgdmFyIGdvID0gSW5zdGFudGlhdGUoZ2FtZU9iamVjdCwgcGFuZWwpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkgICAgICAgIFJlc291cmNlcy5Mb2FkPFRvcE1lbnVJdGVtQ29tcG9uZW50PigiUHJlZmFicy9Ub3BNZW51L1RvcE1lbnVJdGVtIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdlbiA9IG5ldyBTcGhlcmUzR2VuZXJhdG9yX05vcm1hbGl6ZWRDdWJlIHtSYWRpdXMgPSAxLjBmLCBFZGdlVmVydGljZXMgPSA1fTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUb29sTWFuYWdlck9uT25Ub29sQWN0aXZhdGlvbkNoYW5nZWRIYW5kbGVyXD4=</last-search>
+      <last-search encoding="base64">XDx2ZXJ0aWNlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUb29sTWFuYWdlck9uT25Ub29sQWN0aXZhdGlvbkNoYW5nZWRIYW5kbGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx2ZXJ0aWNlc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1332,11 +1344,18 @@
         <entry encoding="base64">XDxCdXR0b25FbGVtZW50XD4=</entry>
         <entry>button</entry>
         <entry encoding="base64">XDxUb29sTWFuYWdlck9uT25Ub29sQWN0aXZhdGlvbkNoYW5nZWRIYW5kbGVyXD4=</entry>
+        <entry>Group</entry>
+        <entry encoding="base64">XDx0cmlhbmdsZV9ncm91cHNcPg==</entry>
+        <entry encoding="base64">XDxuZXdfcm9pXD4=</entry>
+        <entry encoding="base64">XDxHZXRGYWNlc0luQ3VydmVcPg==</entry>
+        <entry encoding="base64">XDxGaWxsVG9vdGhIb2xlc1w+</entry>
+        <entry encoding="base64">XDxGaWxsSG9sZVw+</entry>
+        <entry encoding="base64">XDx2ZXJ0aWNlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
-        <entry>q</entry>
         <entry>wa</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
