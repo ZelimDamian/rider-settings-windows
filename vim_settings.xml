@@ -99,12 +99,12 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" timestamp="1545865026151">
-        <mark key="'" line="98" column="42" />
-        <mark key="[" line="60" column="16" />
-        <mark key="]" line="60" column="19" />
-        <mark key="^" line="60" column="19" />
-        <mark key="." line="60" column="19" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" timestamp="1545922510882">
+        <mark key="'" line="108" column="37" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="24" />
+        <mark key="^" line="91" column="24" />
+        <mark key="." line="91" column="24" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BlendShapeService.cs" timestamp="1545851972274">
         <mark key="[" line="124" column="68" />
@@ -128,12 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="27" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItemComponent.cs" />
-      <jump line="47" column="45" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItemComponent.cs" />
-      <jump line="9" column="21" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItemComponent.cs" />
-      <jump line="18" column="12" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItemComponent.cs" />
-      <jump line="10" column="26" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItemComponent.cs" />
-      <jump line="57" column="16" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SavingService.cs" />
       <jump line="162" column="63" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Controllers/SceneController.cs" />
       <jump line="165" column="27" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Controllers/SceneController.cs" />
       <jump line="71" column="20" filename="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItemComponent.cs" />
@@ -226,60 +220,66 @@
       <jump line="137" column="33" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="251" column="41" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
       <jump line="63" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
-      <jump line="81" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
-      <jump line="98" column="42" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
+      <jump line="105" column="30" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
+      <jump line="98" column="65" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
+      <jump line="87" column="68" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
+      <jump line="86" column="26" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
+      <jump line="82" column="50" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
+      <jump line="81" column="14" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
+      <jump line="107" column="38" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
+      <jump line="108" column="37" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5HZXQ8VGVldGhTZXJ2aWNlPigpLkxpbmtUb0phdygpOwo=</text>
+        <text encoding="base64">dgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fill_loop</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTaW1wbGVIb2xlRmlsbGVyXD4=</text>
+        <text encoding="base64">XDxOZXdUcmlhbmdsZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5HZXQ8VGVldGhTZXJ2aWNlPigpLkxpbmtUb0phdygpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmV0dXJuIEZsYXRDbG9zZVBsYW5lLlByb2plY3RUb1BsYW5lKChWZWN0b3IzZil2LCAxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrOwo=</text>
+        <text encoding="base64">dgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9vcF9zbW9vdGguUHJvamVjdEYgPSAodiwgaSkgPT4gewovLyAgICAgICAgICAgICAgICByZXR1cm4gRmxhdENsb3NlUGxhbmUuUHJvamVjdFRvUGxhbmUoKFZlY3RvcjNmKXYsIDEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgaW50W10gRmlsbEhvbGVDbG9zdXJlKERNZXNoMyBtZXNoLCBFZGdlTG9vcCBsb29wKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIG1lc2hMb29wQ2xvc3VyZSA9IG5ldyBNZXNoTG9vcENsb3N1cmUobWVzaCwgbG9vcCk7CgogICAgICAgICAgICBtZXNoTG9vcENsb3N1cmUuQ2xvc2UoKTsKCiAgICAgICAgICAgIHZhciBnaWQgPSBtZXNoTG9vcENsb3N1cmUuRmlsbEdyb3VwOwoKICAgICAgICAgICAgdmFyIG5ld0ZhY2VJZHMgPSBuZXcgTGlzdDxpbnQ+KCk7CgogICAgICAgICAgICBmb3JlYWNoICh2YXIgdGlkIGluIG1lc2hMb29wQ2xvc3VyZS5NZXNoLlRyaWFuZ2xlSW5kaWNlcygpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAobWVzaC5HZXRUcmlhbmdsZUdyb3VwKHRpZCkgPT0gZ2lkKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIG5ld0ZhY2VJZHMuQWRkKHRpZCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBuZXdGYWNlSWRzLlRvQXJyYXkoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JCQl2YXIgdHJpYW5nbGVzID0gUGxhdGZvcm1JbXByaW50U2VydmljZS5HZXRGYWNlc0luQ3VydmUobWVzaCwgbG9vcCwgMSkuVG9BcnJheSgpOwovLyAgICAgICAgICAgIHJldHVybiB0cmlhbmdsZXMuVG9BcnJheSgpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgaW50W10gRmlsbEhvbGVDbG9zdXJlKERNZXNoMyBtZXNoLCBFZGdlTG9vcCBsb29wKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIG1lc2hMb29wQ2xvc3VyZSA9IG5ldyBNZXNoTG9vcENsb3N1cmUobWVzaCwgbG9vcCk7CgogICAgICAgICAgICBtZXNoTG9vcENsb3N1cmUuQ2xvc2UoKTsKCiAgICAgICAgICAgIHZhciBnaWQgPSBtZXNoTG9vcENsb3N1cmUuRmlsbEdyb3VwOwoKICAgICAgICAgICAgdmFyIG5ld0ZhY2VJZHMgPSBuZXcgTGlzdDxpbnQ+KCk7CgogICAgICAgICAgICBmb3JlYWNoICh2YXIgdGlkIGluIG1lc2hMb29wQ2xvc3VyZS5NZXNoLlRyaWFuZ2xlSW5kaWNlcygpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAobWVzaC5HZXRUcmlhbmdsZUdyb3VwKHRpZCkgPT0gZ2lkKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIG5ld0ZhY2VJZHMuQWRkKHRpZCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBuZXdGYWNlSWRzLlRvQXJyYXkoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBuZXcgaW50WzBdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Ly8JCQl2YXIgdHJpYW5nbGVzID0gUGxhdGZvcm1JbXByaW50U2VydmljZS5HZXRGYWNlc0luQ3VydmUobWVzaCwgbG9vcCwgMSkuVG9BcnJheSgpOwovLyAgICAgICAgICAgIHJldHVybiB0cmlhbmdsZXMuVG9BcnJheSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5ld1RyaWFuZ2xlcyA9IG5ldyBMaXN0PAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBuZXcgaW50WzBdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZhY2VzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTaW1wbGVIb2xlRmlsbGVyXD4=</last-search>
+      <last-search encoding="base64">XDxOZXdUcmlhbmdsZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTaW1wbGVIb2xlRmlsbGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxOZXdUcmlhbmdsZXNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -287,8 +287,6 @@
     </search>
     <history>
       <history-search>
-        <entry>XR</entry>
-        <entry>Xr</entry>
         <entry encoding="base64">XDxUb3BNZW51SXRlbVw+</entry>
         <entry encoding="base64">XDxfaXRlbUVsZW1lbnRQcmVmYWJcPg==</entry>
         <entry encoding="base64">XDxidXR0b25FbGVtZW50XD4=</entry>
@@ -307,6 +305,8 @@
         <entry encoding="base64">XDxNYXBFZGdlc1ZpYVZlcnRleE1hcFw+</entry>
         <entry encoding="base64">XDxleHRydWRlX2dyb3VwXD4=</entry>
         <entry encoding="base64">XDxTaW1wbGVIb2xlRmlsbGVyXD4=</entry>
+        <entry encoding="base64">XDxleHRydWRlXD4=</entry>
+        <entry encoding="base64">XDxOZXdUcmlhbmdsZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
