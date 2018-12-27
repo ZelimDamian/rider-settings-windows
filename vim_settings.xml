@@ -65,8 +65,8 @@
         <mark key="^" line="17" column="4" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1545937230936">
-        <mark key="'" line="404" column="41" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1545941481855">
+        <mark key="'" line="292" column="31" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="424" column="8" />
@@ -128,9 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="640" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
-      <jump line="649" column="35" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
-      <jump line="1307" column="34" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
       <jump line="1309" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
       <jump line="1318" column="35" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
       <jump line="1801" column="22" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
@@ -228,6 +225,9 @@
       <jump line="146" column="30" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="145" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="144" column="18" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
+      <jump line="430" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="427" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="292" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -237,7 +237,7 @@
         <text>allNewTriangles</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW1lc2hfcm9pXD4=</text>
+        <text encoding="base64">XDx2ZXJ0aWNlc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW50IGV4dHJ1ZGVfZ3JvdXAgPSAoRXh0cnVkZUdyb3VwID09IC0xKSA/IE1lc2guQWxsb2NhdGVUcmlhbmdsZUdyb3VwKCkgOiBFeHRydWRlR3JvdXA7CiAgICAgICAgICAgIGludCBmaWxsX2dyb3VwID0gKEZpbGxHcm91cCA9PSAtMSkgPyBNZXNoLkFsbG9jYXRlVHJpYW5nbGVHcm91cCgpIDogRmlsbEdyb3VwOwo=</text>
@@ -277,9 +277,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW1lc2hfcm9pXD4=</last-search>
+      <last-search encoding="base64">XDx2ZXJ0aWNlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW1lc2hfcm9pXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx2ZXJ0aWNlc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -291,7 +291,6 @@
         <entry encoding="base64">XDxuZXdfcm9pXD4=</entry>
         <entry encoding="base64">XDxHZXRGYWNlc0luQ3VydmVcPg==</entry>
         <entry encoding="base64">XDxGaWxsSG9sZVw+</entry>
-        <entry encoding="base64">XDx2ZXJ0aWNlc1w+</entry>
         <entry encoding="base64">XDxQb3NUb290aE51bWJlclw+</entry>
         <entry encoding="base64">XDxGaWxsVG9vdGhIb2xlc1w+</entry>
         <entry>FillHole</entry>
@@ -307,6 +306,7 @@
         <entry encoding="base64">XDx0b3BfbG9vcFw+</entry>
         <entry>Submesh</entry>
         <entry encoding="base64">XDxyZW1lc2hfcm9pXD4=</entry>
+        <entry encoding="base64">XDx2ZXJ0aWNlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
