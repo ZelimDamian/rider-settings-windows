@@ -15,6 +15,10 @@
   <action id="BuildSolutionAction" />
   <action id="ChangeSignature" />
   <action id="ChangesView.UnshelveSilently" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="CodeCleanup" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
