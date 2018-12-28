@@ -13,6 +13,9 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" timestamp="1545781417549">
         <mark key="'" line="1313" column="12" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs" timestamp="1546004968004">
+        <mark key="'" line="30" column="12" />
+      </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItem.cs" timestamp="1545671976379">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="11" column="14" />
@@ -49,12 +52,11 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformImprintService.cs" timestamp="1545781696912">
         <mark key="'" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546003993949">
-        <mark key="'" line="177" column="49" />
-        <mark key="[" line="180" column="73" />
-        <mark key="]" line="181" column="15" />
-        <mark key="." line="181" column="15" />
-        <mark key="^" line="181" column="15" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546005149912">
+        <mark key="[" line="247" column="25" />
+        <mark key="]" line="249" column="34" />
+        <mark key="^" line="249" column="34" />
+        <mark key="." line="249" column="34" />
       </file>
       <file name="C:/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/Service.cs" timestamp="1545740964685">
         <mark key="[" line="17" column="0" />
@@ -101,10 +103,10 @@
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" timestamp="1545932450183">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" timestamp="1546004476842">
         <mark key="'" line="226" column="31" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="64" column="90" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="173" column="33" />
         <mark key="^" line="91" column="24" />
         <mark key="." line="91" column="24" />
       </file>
@@ -133,10 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1934" column="37" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
-      <jump line="1936" column="24" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
-      <jump line="2185" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
-      <jump line="2259" column="41" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
       <jump line="47" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
       <jump line="48" column="61" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
       <jump line="144" column="110" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
@@ -233,58 +231,62 @@
       <jump line="30" column="24" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/RegionRemesher.cs" />
       <jump line="29" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/RegionRemesher.cs" />
       <jump line="28" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/RegionRemesher.cs" />
+      <jump line="59" column="38" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs" />
+      <jump line="67" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs" />
+      <jump line="19" column="55" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs" />
+      <jump line="30" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtvCg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZWdpb25cPg==</text>
+        <text encoding="base64">XDxQcm9qZWN0Rlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc2hMb29wQ2xvc3VyZS5zbW9vdGhfcmVnaW9uKG1lc2gsIHIuUmVnaW9uLkJhc2VCb3JkZXJWLCAzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWVzaEZhY2VTZWxlY3Rpb24gcm9pX3QgPSBuZXcgTWVzaEZhY2VTZWxlY3Rpb24obWVzaCk7CiAgICAgICAgICAgIHJvaV90LlNlbGVjdFZlcnRleE9uZVJpbmdzKHZlcnRpY2VzKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBuUmluZ3M7ICsraSkKICAgICAgICAgICAgICAgIHJvaV90LkV4cGFuZFRvT25lUmluZ05laWdoYm91cnMoKTsKICAgICAgICAgICAgcm9pX3QuTG9jYWxPcHRpbWl6ZSh0cnVlLCB0cnVlKTsKCiAgICAgICAgICAgIE1lc2hWZXJ0ZXhTZWxlY3Rpb24gcm9pX3YgPSBuZXcgTWVzaFZlcnRleFNlbGVjdGlvbihtZXNoKTsKICAgICAgICAgICAgcm9pX3YuU2VsZWN0VHJpYW5nbGVWZXJ0aWNlcyhyb2lfdC5Ub0FycmF5KCkpOwoKICAgICAgICAgICAgTWVzaEl0ZXJhdGl2ZVNtb290aCBtZXNoX3Ntb290aCA9IG5ldyBNZXNoSXRlcmF0aXZlU21vb3RoKG1lc2gsIHJvaV92LlRvQXJyYXkoKSwgdHJ1ZSk7CiAgICAgICAgICAgIG1lc2hfc21vb3RoLkFscGhhID0gMC4yZjsKICAgICAgICAgICAgbWVzaF9zbW9vdGguUm91bmRzID0gMTA7CiAgICAgICAgICAgIG1lc2hfc21vb3RoLlNtb290aCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtvCg==</text>
+        <text encoding="base64">CQkgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciB2aWQgaW4gb3JpZ2luYWxNZXNoUm9pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHIuQ29uc3RyYWludHMuU2V0T3JVcGRhdGVWZXJ0ZXhDb25zdHJhaW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciB2aWQgaW4gb3JpZ2luYWxNZXNoUm9pKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgICAgICAKCSAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHIuQ29uc3RyYWludHMuU2V0T3JVcGRhdGVWZXJ0ZXhDb25zdHJhaW50KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc2hDb25zdHJhaW50VXRpbC5GaXgK</text>
+        <text encoding="base64">CSAgICAgICAgICAgICAgICAKCSAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc2hDb25zdHJhaW50VXRpbC5GaXgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgci5CYXNpY1JlbWVzaFBhc3MoKTsK</text>
+        <text encoding="base64">CSAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygkIkluc2VydEN1cnZlM0QgYXZlcmFnZToge3N3LkVsYXBzZWRNaWxsaXNlY29uZHMgLyBjb250b3VyQ291bnR9Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgci5CYXNpY1JlbWVzaFBhc3MoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgICAgICB2aWQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygkIkluc2VydEN1cnZlM0QgYXZlcmFnZToge3N3LkVsYXBzZWRNaWxsaXNlY29uZHMgLyBjb250b3VyQ291bnR9Iik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZWdpb25cPg==</last-search>
+      <last-search encoding="base64">XDxQcm9qZWN0Rlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZWdpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9qZWN0Rlw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -292,7 +294,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxOZXdUcmlhbmdsZXNcPg==</entry>
         <entry encoding="base64">XDxzbW9vdGhfbG9vcFw+</entry>
         <entry>Closure</entry>
         <entry encoding="base64">XDxGaWxsSG9sZUNsb3N1cmVcPg==</entry>
@@ -312,6 +313,7 @@
         <entry>Region</entry>
         <entry>region</entry>
         <entry encoding="base64">XDxSZWdpb25cPg==</entry>
+        <entry encoding="base64">XDxQcm9qZWN0Rlw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
