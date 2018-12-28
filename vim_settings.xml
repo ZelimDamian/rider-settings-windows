@@ -52,12 +52,12 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformImprintService.cs" timestamp="1545781696912">
         <mark key="'" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546010873228">
-        <mark key="'" line="190" column="20" />
-        <mark key="[" line="195" column="80" />
-        <mark key="]" line="195" column="95" />
-        <mark key="." line="195" column="95" />
-        <mark key="^" line="195" column="95" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546012085241">
+        <mark key="'" line="255" column="67" />
+        <mark key="[" line="106" column="61" />
+        <mark key="]" line="106" column="62" />
+        <mark key="." line="106" column="62" />
+        <mark key="^" line="106" column="59" />
       </file>
       <file name="C:/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/Service.cs" timestamp="1545740964685">
         <mark key="[" line="17" column="0" />
@@ -136,7 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="92" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
       <jump line="241" column="67" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
       <jump line="295" column="47" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
       <jump line="312" column="67" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
@@ -236,10 +235,11 @@
       <jump line="249" column="35" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="191" column="43" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="190" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
+      <jump line="257" column="67" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>FullyConstrained</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>FullyConstrained</text>
@@ -251,37 +251,37 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gZXh0cmFjdCB0aGUgZWRnZXMgd2UgdGFnZ2VkICh0aGV5IGFyZSB1bm9yZGVyZWQpCiAgICAgICAgICAgIExpc3Q8aW50PiBuZXdfbG9vcF9lZGdlcyA9IHIuQ29uc3RyYWludHMuRmluZENvbnN0cmFpbmVkRWRnZXNCeVNldElEKDEwMCk7CiAgICAgICAgICAgIC8vZm9yZWFjaCAoaW50IGVpZCBpbiBuZXdfbG9vcF9lZGdlcykKICAgICAgICAgICAgLy8gICAgRGVidWcuQXNzZXJ0KHIuUmVnaW9uLlN1Yk1lc2guSXNCb3VuZGFyeUVkZ2UoZWlkKSk7CgogICAgICAgICAgICByLkJhY2tQcm9wcm9wYWdhdGUoKTsKCiAgICAgICAgICAgIC8vIG1hcCB0aGUgZXh0cmFjdGVkIGVkZ2VzIGJhY2sgdG8gdGhlIGJhY2twcm9wcGVkIGlucHV0IG1lc2gKICAgICAgICAgICAgcmVzdWx0X2VkZ2VzID0gTWVzaEluZGV4VXRpbC5NYXBFZGdlc1ZpYVZlcnRleE1hcChyLlJlaW5zZXJ0U3ViVG9CYXNlTWFwViwgci5SZWdpb24uU3ViTWVzaCwgci5CYXNlTWVzaCwgbmV3X2xvb3BfZWRnZXMpOwogICAgICAgICAgICAvL2ZvcmVhY2ggKGludCBlaWQgaW4gcmVzdWx0X2VkZ2VzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlJ1bnRpbWUuQ29tcGlsZXJTZXJ2aWNlczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIHZhciBvcmlnaW5hbE1lc2hSb2kgPSBtZXNoLlZlcnRleEluZGljZXMoKS5Ub0FycmF5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIHZhciBvcmlnaW5hbE1lc2hSb2kgPSBtZXNoLlZlcnRleEluZGljZXMoKS5Ub0FycmF5KCk7CiAgICAgICAgICAgICAgICB2YXIgcGlubmVkVmVydHMgPSBsb29wLlZlcnRpY2VzLlRvRGljdGlvbmFyeSh2aWQgPT4gdmlkLCB2aWQgPT4gbWVzaC5HZXRWZXJ0ZXhmKHZpZCkpOwoJICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CSAgICAgICAgICAgIHZhciBvcmlnaW5hbE1lc2hSb2kgPSBtZXNoLlZlcnRleEluZGljZXMoKS5Ub0FycmF5KCk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICB2YXIgcGlubmVkVmVydHMgPSBsb29wLlZlcnRpY2VzLlRvRGljdGlvbmFyeSh2aWQgPT4gdmlkLCB2aWQgPT4gbWVzaC5HZXRWZXJ0ZXhmKHZpZCkpOwo=</text>
+        <text encoding="base64">CSAgICAgICAgICAgIHZhciBvcmlnaW5hbE1lc2hSb2kgPSBtZXNoLlZlcnRleEluZGljZXMoKS5Ub0FycmF5KCk7CiAgICAgICAgICAgICAgICB2YXIgcGlubmVkVmVydHMgPSBsb29wLlZlcnRpY2VzLlRvRGljdGlvbmFyeSh2aWQgPT4gdmlkLCB2aWQgPT4gbWVzaC5HZXRWZXJ0ZXhmKHZpZCkpOwoJICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGV4dHJhY3QgdGhlIGVkZ2VzIHdlIHRhZ2dlZCAodGhleSBhcmUgdW5vcmRlcmVkKQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICB2YXIgcGlubmVkVmVydHMgPSBsb29wLlZlcnRpY2VzLlRvRGljdGlvbmFyeSh2aWQgPT4gdmlkLCB2aWQgPT4gbWVzaC5HZXRWZXJ0ZXhmKHZpZCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -320,8 +320,8 @@
         <entry>qa</entry>
         <entry>wa</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
