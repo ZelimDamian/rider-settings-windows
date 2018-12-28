@@ -49,12 +49,12 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformImprintService.cs" timestamp="1545781696912">
         <mark key="'" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546003069850">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546003993949">
         <mark key="'" line="177" column="49" />
-        <mark key="[" line="224" column="74" />
-        <mark key="]" line="224" column="75" />
-        <mark key="." line="224" column="75" />
-        <mark key="^" line="224" column="74" />
+        <mark key="[" line="180" column="73" />
+        <mark key="]" line="181" column="15" />
+        <mark key="." line="181" column="15" />
+        <mark key="^" line="181" column="15" />
       </file>
       <file name="C:/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/Service.cs" timestamp="1545740964685">
         <mark key="[" line="17" column="0" />
@@ -236,7 +236,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc2hMb29wQ2xvc3VyZS5zbW9vdGhfcmVnaW9uKG1lc2gsIHIuUmVnaW9uLkJhc2VCb3JkZXJWLCAzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtvCg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -248,34 +248,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc2hMb29wQ2xvc3VyZS5zbW9vdGhfcmVnaW9uKG1lc2gsIHIuUmVnaW9uLkJhc2VCb3JkZXJWLCAzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHIuQ29uc3RyYWludHMuU2V0T3JVcGRhdGVWZXJ0ZXhDb25zdHJhaW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtvCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgICAgICAKCSAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciB2aWQgaW4gb3JpZ2luYWxNZXNoUm9pKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc2hDb25zdHJhaW50VXRpbC5GaXgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHIuQ29uc3RyYWludHMuU2V0T3JVcGRhdGVWZXJ0ZXhDb25zdHJhaW50KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CSAgICAgICAgICAgICAgICAKCSAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgci5CYXNpY1JlbWVzaFBhc3MoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc2hDb25zdHJhaW50VXRpbC5GaXgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygkIkluc2VydEN1cnZlM0QgYXZlcmFnZToge3N3LkVsYXBzZWRNaWxsaXNlY29uZHMgLyBjb250b3VyQ291bnR9Iik7Cg==</text>
+        <text encoding="base64">CSAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgICAgICB2aWQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgci5CYXNpY1JlbWVzaFBhc3MoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIG1lc2hGYWNlU2VsZWN0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygkIkluc2VydEN1cnZlM0QgYXZlcmFnZToge3N3LkVsYXBzZWRNaWxsaXNlY29uZHMgLyBjb250b3VyQ291bnR9Iik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIG1lc2hWZXJ0ZXhTZWxlY3Rpb24uCg==</text>
+        <text encoding="base64">CSAgICAgICAgICAgICAgICB2aWQuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
