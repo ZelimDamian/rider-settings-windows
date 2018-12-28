@@ -49,11 +49,12 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformImprintService.cs" timestamp="1545781696912">
         <mark key="'" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1545952860882">
-        <mark key="'" line="174" column="49" />
-        <mark key="[" line="201" column="40" />
-        <mark key="]" line="201" column="41" />
-        <mark key="." line="201" column="41" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1545998196158">
+        <mark key="'" line="175" column="49" />
+        <mark key="[" line="253" column="59" />
+        <mark key="]" line="253" column="60" />
+        <mark key="." line="253" column="60" />
+        <mark key="^" line="208" column="39" />
       </file>
       <file name="C:/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/Service.cs" timestamp="1545740964685">
         <mark key="[" line="17" column="0" />
@@ -235,16 +236,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbWVzaF9yb2kuRXhwYW5kVG9PbmVSaW5nTmVpZ2hib3VycygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>totoh</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWdpb25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>radiusFlat</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbWVzaF9yb2kuRXhwYW5kVG9PbmVSaW5nTmVpZ2hib3VycygpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CSAgICAgICAgICAgICAgICAgICAgCg==</text>
