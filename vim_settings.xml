@@ -22,6 +22,10 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BracePlatformService.cs" timestamp="1545781747035">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="107" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Importing/Controllers/ImportingController.cs" timestamp="1545919165130">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="52" />
@@ -52,11 +56,12 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformImprintService.cs" timestamp="1545781696912">
         <mark key="'" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546020019435">
-        <mark key="'" line="234" column="20" />
-        <mark key="[" line="241" column="21" />
-        <mark key="]" line="238" column="0" />
-        <mark key="." line="238" column="0" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546021830598">
+        <mark key="'" line="238" column="20" />
+        <mark key="[" line="238" column="32" />
+        <mark key="]" line="238" column="19" />
+        <mark key="." line="238" column="32" />
+        <mark key="^" line="238" column="19" />
       </file>
       <file name="C:/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/Service.cs" timestamp="1545740964685">
         <mark key="[" line="17" column="0" />
@@ -108,15 +113,19 @@
         <mark key="[" line="287" column="0" />
         <mark key="]" line="289" column="58" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" timestamp="1546008566388">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" timestamp="1546021809004">
         <mark key="'" line="226" column="31" />
-        <mark key="[" line="241" column="0" />
-        <mark key="]" line="250" column="47" />
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="86" />
         <mark key="^" line="91" column="24" />
         <mark key="." line="91" column="24" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/Remesher.cs" timestamp="1545952032167">
         <mark key="'" line="151" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshConstraintUtil.cs" timestamp="1546021712510">
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="37" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BlendShapeService.cs" timestamp="1545851972274">
         <mark key="[" line="124" column="68" />
@@ -255,47 +264,47 @@
       <jump line="10" column="22" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>mesh</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBbHBoYVw+</text>
       </register>
       <register name="0" type="4">
-        <text>loop.Vertices</text>
+        <text>new_loop_edges</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICAgICAgICAgICAgICB2YXIgZWMgPSAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJICAgICAgICAgICAgcmV0dXJuIHIuQmFzZU1lc2guR2V0VmVydGV4Zih2aWQpOwo=</text>
+        <text encoding="base64">CSAgICAgICAgICAgICAgICByLkNvbnN0cmFpbnRzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJICAgICAgICAgICAgdGhyb3c7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoZSk7Cg==</text>
+        <text encoding="base64">CQkJICAgICAgICAgICAgcmV0dXJuIHIuQmFzZU1lc2guR2V0VmVydGV4Zih2aWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgICB0cnkKCQkgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">CQkJICAgICAgICAgICAgdGhyb3c7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CQkJICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgICB9IGNhdGNoIAo=</text>
+        <text encoding="base64">CQkgICAgICAgICAgICB0cnkKCQkgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQkgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgICByZXR1cm4gci5CYXNlTWVzaC5HZXRWZXJ0ZXhmKHZpZCk7Cg==</text>
+        <text encoding="base64">CQkgICAgICAgICAgICB9IGNhdGNoIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
