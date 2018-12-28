@@ -52,12 +52,11 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformImprintService.cs" timestamp="1545781696912">
         <mark key="'" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546019159593">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546020019435">
         <mark key="'" line="234" column="20" />
-        <mark key="[" line="238" column="35" />
-        <mark key="]" line="238" column="50" />
-        <mark key="." line="238" column="50" />
-        <mark key="^" line="238" column="50" />
+        <mark key="[" line="241" column="21" />
+        <mark key="]" line="238" column="0" />
+        <mark key="." line="238" column="0" />
       </file>
       <file name="C:/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/Service.cs" timestamp="1545740964685">
         <mark key="[" line="17" column="0" />
@@ -256,11 +255,11 @@
       <jump line="10" column="22" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r.Region.BaseBorderV</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r.Region.BaseBorderV</text>
+        <text>mesh</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBbHBoYVw+</text>
@@ -275,28 +274,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJICAgICAgICAgICAgcmV0dXJuIHIuQmFzZU1lc2guR2V0VmVydGV4Zih2aWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdG9vdGguQ29udG91ci5Sb290VHJpYW5nbGVzID0gci5SZWdpb24uOwo=</text>
+        <text encoding="base64">CQkJICAgICAgICAgICAgdGhyb3c7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkgICAgCg==</text>
+        <text encoding="base64">CQkgICAgICAgICAgICB0cnkKCQkgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgkJCXRvb3RoLkNvbnRvdXIuUm9vdFRyaWFuZ2xlcyA9IDsK</text>
+        <text encoding="base64">CQkgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHRvUmVtb3ZlICAgCg==</text>
+        <text encoding="base64">CQkgICAgICAgICAgICB9IGNhdGNoIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIC8vIGNvbGxlY3QgCg==</text>
+        <text encoding="base64">CQkJICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkgICAgICAgICAgICByZXR1cm4gci5CYXNlTWVzaC5HZXRWZXJ0ZXhmKHZpZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
