@@ -52,12 +52,12 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformImprintService.cs" timestamp="1545781696912">
         <mark key="'" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546012085241">
-        <mark key="'" line="255" column="67" />
-        <mark key="[" line="106" column="61" />
-        <mark key="]" line="106" column="62" />
-        <mark key="." line="106" column="62" />
-        <mark key="^" line="106" column="59" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546016455973">
+        <mark key="'" line="234" column="20" />
+        <mark key="[" line="237" column="20" />
+        <mark key="]" line="237" column="24" />
+        <mark key="." line="237" column="24" />
+        <mark key="^" line="237" column="24" />
       </file>
       <file name="C:/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/Service.cs" timestamp="1545740964685">
         <mark key="[" line="17" column="0" />
@@ -99,10 +99,15 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/Helpers/SegmentationHelper.cs" timestamp="1545952749908">
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/Helpers/SegmentationHelper.cs" timestamp="1546016249355">
+        <mark key="[" line="307" column="12" />
+        <mark key="]" line="308" column="20" />
+        <mark key="." line="308" column="20" />
+        <mark key="^" line="308" column="20" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/StorageService.cs" timestamp="1546014804678">
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="289" column="58" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" timestamp="1546008566388">
         <mark key="'" line="226" column="31" />
@@ -134,10 +139,21 @@
         <mark key="^" line="192" column="46" />
         <mark key="." line="192" column="46" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/DebugDrawService.cs" timestamp="1546015799124">
+        <mark key="'" line="18" column="20" />
+        <mark key="[" line="48" column="36" />
+        <mark key="]" line="48" column="36" />
+        <mark key="." line="48" column="36" />
+        <mark key="^" line="48" column="36" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/AlignerNumberService.cs" timestamp="1546014882485">
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="160" column="50" />
+        <mark key="." line="160" column="34" />
+        <mark key="^" line="160" column="34" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="67" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
-      <jump line="295" column="47" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
       <jump line="312" column="67" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
       <jump line="368" column="22" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
       <jump line="375" column="53" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
@@ -236,58 +252,60 @@
       <jump line="191" column="43" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="190" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="257" column="67" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
+      <jump line="18" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/DebugDrawService.cs" />
+      <jump line="234" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>flase</text>
       </register>
       <register name="-" type="4">
-        <text>FullyConstrained</text>
+        <text>flase</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b3BfbG9vcF9lZGdlc1w+</text>
+        <text encoding="base64">XDxwaW5uZWRWZXJ0c1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZXh0cmFjdCB0aGUgZWRnZXMgd2UgdGFnZ2VkICh0aGV5IGFyZSB1bm9yZGVyZWQpCiAgICAgICAgICAgIExpc3Q8aW50PiBuZXdfbG9vcF9lZGdlcyA9IHIuQ29uc3RyYWludHMuRmluZENvbnN0cmFpbmVkRWRnZXNCeVNldElEKDEwMCk7CiAgICAgICAgICAgIC8vZm9yZWFjaCAoaW50IGVpZCBpbiBuZXdfbG9vcF9lZGdlcykKICAgICAgICAgICAgLy8gICAgRGVidWcuQXNzZXJ0KHIuUmVnaW9uLlN1Yk1lc2guSXNCb3VuZGFyeUVkZ2UoZWlkKSk7CgogICAgICAgICAgICByLkJhY2tQcm9wcm9wYWdhdGUoKTsKCiAgICAgICAgICAgIC8vIG1hcCB0aGUgZXh0cmFjdGVkIGVkZ2VzIGJhY2sgdG8gdGhlIGJhY2twcm9wcGVkIGlucHV0IG1lc2gKICAgICAgICAgICAgcmVzdWx0X2VkZ2VzID0gTWVzaEluZGV4VXRpbC5NYXBFZGdlc1ZpYVZlcnRleE1hcChyLlJlaW5zZXJ0U3ViVG9CYXNlTWFwViwgci5SZWdpb24uU3ViTWVzaCwgci5CYXNlTWVzaCwgbmV3X2xvb3BfZWRnZXMpOwogICAgICAgICAgICAvL2ZvcmVhY2ggKGludCBlaWQgaW4gcmVzdWx0X2VkZ2VzKQo=</text>
+      <register name="0" type="4">
+        <text>toRemove</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlJ1bnRpbWUuQ29tcGlsZXJTZXJ2aWNlczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdG9vdGguQ29udG91ci5Sb290VHJpYW5nbGVzID0gci5SZWdpb24uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQkgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIHZhciBvcmlnaW5hbE1lc2hSb2kgPSBtZXNoLlZlcnRleEluZGljZXMoKS5Ub0FycmF5KCk7Cg==</text>
+        <text encoding="base64">CgkJCXRvb3RoLkNvbnRvdXIuUm9vdFRyaWFuZ2xlcyA9IDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHRvUmVtb3ZlICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIHZhciBvcmlnaW5hbE1lc2hSb2kgPSBtZXNoLlZlcnRleEluZGljZXMoKS5Ub0FycmF5KCk7CiAgICAgICAgICAgICAgICB2YXIgcGlubmVkVmVydHMgPSBsb29wLlZlcnRpY2VzLlRvRGljdGlvbmFyeSh2aWQgPT4gdmlkLCB2aWQgPT4gbWVzaC5HZXRWZXJ0ZXhmKHZpZCkpOwoJICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIC8vIGNvbGxlY3QgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICB2YXIgcGlubmVkVmVydHMgPSBsb29wLlZlcnRpY2VzLlRvRGljdGlvbmFyeSh2aWQgPT4gdmlkLCB2aWQgPT4gbWVzaC5HZXRWZXJ0ZXhmKHZpZCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b3BfbG9vcF9lZGdlc1w+</last-search>
+      <last-search encoding="base64">XDxwaW5uZWRWZXJ0c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b3BfbG9vcF9lZGdlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxwaW5uZWRWZXJ0c1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -295,7 +313,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGaWxsSG9sZUNsb3N1cmVcPg==</entry>
         <entry encoding="base64">XDxNZXNoTG9vcENsb3N1cmVcPg==</entry>
         <entry encoding="base64">XDxleHRydWRlX2dyb3VwXD4=</entry>
         <entry encoding="base64">XDx0b3BfbG9vcFw+</entry>
@@ -313,14 +330,15 @@
         <entry>region</entry>
         <entry encoding="base64">XDxSZWdpb25cPg==</entry>
         <entry encoding="base64">XDxQcm9qZWN0Rlw+</entry>
-        <entry encoding="base64">XDxwaW5uZWRWZXJ0c1w+</entry>
         <entry encoding="base64">XDx0b3BfbG9vcF9lZGdlc1w+</entry>
+        <entry encoding="base64">XDxBZGRPbmNlXD4=</entry>
+        <entry encoding="base64">XDxwaW5uZWRWZXJ0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
-        <entry>wa</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
