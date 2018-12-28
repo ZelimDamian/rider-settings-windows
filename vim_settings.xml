@@ -52,11 +52,11 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformImprintService.cs" timestamp="1545781696912">
         <mark key="'" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546007219373">
-        <mark key="[" line="178" column="61" />
-        <mark key="]" line="178" column="72" />
-        <mark key="." line="178" column="72" />
-        <mark key="^" line="178" column="72" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546009141913">
+        <mark key="[" line="231" column="20" />
+        <mark key="]" line="231" column="23" />
+        <mark key="." line="231" column="23" />
+        <mark key="^" line="231" column="23" />
       </file>
       <file name="C:/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/Service.cs" timestamp="1545740964685">
         <mark key="[" line="17" column="0" />
@@ -103,10 +103,10 @@
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" timestamp="1546004476842">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" timestamp="1546008566388">
         <mark key="'" line="226" column="31" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="173" column="33" />
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="250" column="47" />
         <mark key="^" line="91" column="24" />
         <mark key="." line="91" column="24" />
       </file>
@@ -238,46 +238,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Select</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>Select</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm9qZWN0Rlw+</text>
       </register>
-      <register name="0" type="4">
-        <text>pinnedVerts</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZXh0cmFjdCB0aGUgZWRnZXMgd2UgdGFnZ2VkICh0aGV5IGFyZSB1bm9yZGVyZWQpCiAgICAgICAgICAgIExpc3Q8aW50PiBuZXdfbG9vcF9lZGdlcyA9IHIuQ29uc3RyYWludHMuRmluZENvbnN0cmFpbmVkRWRnZXNCeVNldElEKDEwMCk7CiAgICAgICAgICAgIC8vZm9yZWFjaCAoaW50IGVpZCBpbiBuZXdfbG9vcF9lZGdlcykKICAgICAgICAgICAgLy8gICAgRGVidWcuQXNzZXJ0KHIuUmVnaW9uLlN1Yk1lc2guSXNCb3VuZGFyeUVkZ2UoZWlkKSk7CgogICAgICAgICAgICByLkJhY2tQcm9wcm9wYWdhdGUoKTsKCiAgICAgICAgICAgIC8vIG1hcCB0aGUgZXh0cmFjdGVkIGVkZ2VzIGJhY2sgdG8gdGhlIGJhY2twcm9wcGVkIGlucHV0IG1lc2gKICAgICAgICAgICAgcmVzdWx0X2VkZ2VzID0gTWVzaEluZGV4VXRpbC5NYXBFZGdlc1ZpYVZlcnRleE1hcChyLlJlaW5zZXJ0U3ViVG9CYXNlTWFwViwgci5SZWdpb24uU3ViTWVzaCwgci5CYXNlTWVzaCwgbmV3X2xvb3BfZWRnZXMpOwogICAgICAgICAgICAvL2ZvcmVhY2ggKGludCBlaWQgaW4gcmVzdWx0X2VkZ2VzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CSAgICAgICAgICAgIHZhciBvcmlnaW5hbE1lc2hSb2kgPSBtZXNoLlZlcnRleEluZGljZXMoKS5Ub0FycmF5KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENhbGxDb252VGhpc2NhbGwga2V5Ym9hcmQgcmVhbGx5IGZlZWxzIGxpa2UgaXQgc2hvdWxkIGJlIGZyb20gdGhlIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENhbGxDb252VGhpc2NhbGwga2V5Ym9hcmQK</text>
+        <text encoding="base64">CSAgICAgICAgICAgIHZhciBvcmlnaW5hbE1lc2hSb2kgPSBtZXNoLlZlcnRleEluZGljZXMoKS5Ub0FycmF5KCk7CiAgICAgICAgICAgICAgICB2YXIgcGlubmVkVmVydHMgPSBsb29wLlZlcnRpY2VzLlRvRGljdGlvbmFyeSh2aWQgPT4gdmlkLCB2aWQgPT4gbWVzaC5HZXRWZXJ0ZXhmKHZpZCkpOwoJICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtvCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICB2YXIgcGlubmVkVmVydHMgPSBsb29wLlZlcnRpY2VzLlRvRGljdGlvbmFyeSh2aWQgPT4gdmlkLCB2aWQgPT4gbWVzaC5HZXRWZXJ0ZXhmKHZpZCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciB2aWQgaW4gb3JpZ2luYWxNZXNoUm9pKQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHIuQ29uc3RyYWludHMuU2V0T3JVcGRhdGVWZXJ0ZXhDb25zdHJhaW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGV4dHJhY3QgdGhlIGVkZ2VzIHdlIHRhZ2dlZCAodGhleSBhcmUgdW5vcmRlcmVkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgICAgICAKCSAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8aW50PiBuZXdfbG9vcF9lZGdlcyA9IHIuQ29uc3RyYWludHMuRmluZENvbnN0cmFpbmVkRWRnZXNCeVNldElEKDEwMCk7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc2hDb25zdHJhaW50VXRpbC5GaXgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZm9yZWFjaCAoaW50IGVpZCBpbiBuZXdfbG9vcF9lZGdlcykKICAgICAgICAgICAgICAgIC8vICAgIERlYnVnLkFzc2VydChyLlJlZ2lvbi5TdWJNZXNoLklzQm91bmRhcnlFZGdlKGVpZCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -316,9 +316,9 @@
         <entry encoding="base64">XDxQcm9qZWN0Rlw+</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry>wa</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
