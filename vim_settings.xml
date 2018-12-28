@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/RegionRemesher.cs" timestamp="1545855040337">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/RegionRemesher.cs" timestamp="1545952143305">
+        <mark key="'" line="28" column="12" />
         <mark key="[" line="133" column="70" />
         <mark key="]" line="133" column="7" />
         <mark key="^" line="133" column="7" />
@@ -17,10 +18,6 @@
         <mark key="]" line="11" column="14" />
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BracePlatformService.cs" timestamp="1545781747035">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="107" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Importing/Controllers/ImportingController.cs" timestamp="1545919165130">
         <mark key="[" line="119" column="0" />
@@ -40,7 +37,7 @@
         <mark key="." line="161" column="16" />
         <mark key="^" line="161" column="16" />
       </file>
-      <file name="/Dummy.cs" timestamp="1545851282596">
+      <file name="/Dummy.cs" timestamp="1545953193114">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/TopMenuService.cs" timestamp="1545679683938">
@@ -52,12 +49,11 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformImprintService.cs" timestamp="1545781696912">
         <mark key="'" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1545950789437">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1545952860882">
         <mark key="'" line="174" column="49" />
-        <mark key="[" line="199" column="42" />
-        <mark key="]" line="200" column="19" />
-        <mark key="." line="200" column="19" />
-        <mark key="^" line="200" column="19" />
+        <mark key="[" line="201" column="40" />
+        <mark key="]" line="201" column="41" />
+        <mark key="." line="201" column="41" />
       </file>
       <file name="C:/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/Service.cs" timestamp="1545740964685">
         <mark key="[" line="17" column="0" />
@@ -99,12 +95,20 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/Helpers/SegmentationHelper.cs" timestamp="1545952749908">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshLoopClosure.cs" timestamp="1545932450183">
         <mark key="'" line="226" column="31" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="64" column="90" />
         <mark key="^" line="91" column="24" />
         <mark key="." line="91" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/Remesher.cs" timestamp="1545952032167">
+        <mark key="'" line="151" column="28" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BlendShapeService.cs" timestamp="1545851972274">
         <mark key="[" line="124" column="68" />
@@ -128,10 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1889" column="53" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
-      <jump line="1914" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
-      <jump line="1917" column="56" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
-      <jump line="1919" column="56" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
       <jump line="1934" column="37" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
       <jump line="1936" column="24" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
       <jump line="2185" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3.cs" />
@@ -228,58 +228,62 @@
       <jump line="206" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="165" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="174" column="49" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
+      <jump line="151" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/Remesher.cs" />
+      <jump line="30" column="24" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/RegionRemesher.cs" />
+      <jump line="29" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/RegionRemesher.cs" />
+      <jump line="28" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/RegionRemesher.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>totoh</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdfcm9pXD4=</text>
+        <text encoding="base64">XDxSZWdpb25cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>meshFaceSelection</text>
+        <text>radiusFlat</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgICAgICB2aWQuCg==</text>
+        <text encoding="base64">CSAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIG1lc2hGYWNlU2VsZWN0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgci5CYXNpY1JlbWVzaFBhc3MoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIG1lc2hWZXJ0ZXhTZWxlY3Rpb24uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygkIkluc2VydEN1cnZlM0QgYXZlcmFnZToge3N3LkVsYXBzZWRNaWxsaXNlY29uZHMgLyBjb250b3VyQ291bnR9Iik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CSAgICAgICAgICAgICAgICB2aWQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIGZvcmVhY2ggKHZhciB0aWQgaW4gbmV3VHJpYW5nbGVzKQoJICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">CSAgICAgICAgICAgIG1lc2hGYWNlU2VsZWN0aW9uLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgICBWZWN0b3IzZCB2MCA9IFZlY3RvcjNkLk9uZSwgdjEgPSB2MCwgdjIgPSB2MTsKCQkgICAgICAgICAgICBtZXNoLkdldFRyaVZlcnRpY2VzKHRpZCwgcmVmIHYwLCByZWYgdjEsIHJlZiB2Mik7CgkJICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAzOyBpKyspCgkJICAgICAgICAgICAgewoJCQkgICAgICAgICAgICAKCQkgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CSAgICAgICAgICAgIG1lc2hWZXJ0ZXhTZWxlY3Rpb24uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CSAgICAgICAgICAgIGZvcmVhY2ggKHZhciB0aWQgaW4gbmV3VHJpYW5nbGVzKQoJICAgICAgICAgICAgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQkgICAgICAgICAgICBWZWN0b3IzZCB2MCA9IFZlY3RvcjNkLk9uZSwgdjEgPSB2MCwgdjIgPSB2MTsKCQkgICAgICAgICAgICBtZXNoLkdldFRyaVZlcnRpY2VzKHRpZCwgcmVmIHYwLCByZWYgdjEsIHJlZiB2Mik7CgkJICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAzOyBpKyspCgkJICAgICAgICAgICAgewoJCQkgICAgICAgICAgICAKCQkgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdfcm9pXD4=</last-search>
+      <last-search encoding="base64">XDxSZWdpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdfcm9pXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxSZWdpb25cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -287,9 +291,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNYXBFZGdlc1ZpYVZlcnRleE1hcFw+</entry>
-        <entry encoding="base64">XDxTaW1wbGVIb2xlRmlsbGVyXD4=</entry>
-        <entry encoding="base64">XDxleHRydWRlXD4=</entry>
         <entry encoding="base64">XDxOZXdUcmlhbmdsZXNcPg==</entry>
         <entry encoding="base64">XDxzbW9vdGhfbG9vcFw+</entry>
         <entry>Closure</entry>
@@ -307,6 +308,9 @@
         <entry encoding="base64">XDxGaWxsVG9vdGhTaWRlSG9sZXNcPg==</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZVJpZGdlXD4=</entry>
         <entry encoding="base64">XDxuZXdfcm9pXD4=</entry>
+        <entry>Region</entry>
+        <entry>region</entry>
+        <entry encoding="base64">XDxSZWdpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
