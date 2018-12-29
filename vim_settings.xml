@@ -28,6 +28,10 @@
         <mark key="^" line="22" column="27" />
         <mark key="." line="27" column="78" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/PlaceIrp/PlaceIrpTool.cs" timestamp="1546085638118">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="28" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Importing/Controllers/ImportingController.cs" timestamp="1545919165130">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="52" />
@@ -93,12 +97,12 @@
         <mark key="^" line="17" column="4" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1546081076569">
-        <mark key="'" line="366" column="43" />
-        <mark key="[" line="366" column="43" />
-        <mark key="]" line="366" column="43" />
-        <mark key="." line="375" column="30" />
-        <mark key="^" line="366" column="37" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1546085118846">
+        <mark key="'" line="156" column="28" />
+        <mark key="[" line="459" column="0" />
+        <mark key="]" line="459" column="32" />
+        <mark key="." line="459" column="32" />
+        <mark key="^" line="425" column="35" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/DTC/Controllers/DTCController.cs" timestamp="1546048819345">
         <mark key="[" line="13" column="15" />
@@ -231,9 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
-      <jump line="143" column="18" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
-      <jump line="146" column="30" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="145" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="144" column="18" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="430" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
@@ -331,19 +332,22 @@
       <jump line="220" column="17" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
       <jump line="225" column="17" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
       <jump line="366" column="43" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="704" column="40" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="381" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="156" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>w</text>
+        <text>PlaceIrpTool</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>Select</text>
+        <text>Apply</text>
       </register>
       <register name="0" type="4">
-        <text>tooth</text>
+        <text>PlaceIrpTool</text>
       </register>
       <register name="1" type="8">
         <text>toothContour.Jaw
@@ -382,9 +386,9 @@ toothContour.Jaw
       </register>
     </registers>
     <search>
-      <last-search>Select</last-search>
+      <last-search>Apply</last-search>
       <last-offset />
-      <last-pattern>Select</last-pattern>
+      <last-pattern>Apply</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -392,8 +396,6 @@ toothContour.Jaw
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVbmlmb3JtXD4=</entry>
-        <entry encoding="base64">XDxNZWFuVmFsdWVcPg==</entry>
         <entry encoding="base64">XDxMYXllckxpc3RDb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxSZXNvdXJjZXNcPg==</entry>
         <entry encoding="base64">XDxHbG9iYWxpemF0aW9uXD4=</entry>
@@ -412,11 +414,13 @@ toothContour.Jaw
         <entry>DrawVertices</entry>
         <entry encoding="base64">XDxEcmF3UG9pbnRzQXNMaW5lc1w+</entry>
         <entry>Select</entry>
+        <entry>Smooth</entry>
+        <entry>Apply</entry>
       </history-search>
       <history-cmd>
-        <entry>qa</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>qa</entry>
         <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
