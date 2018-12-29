@@ -56,11 +56,11 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformImprintService.cs" timestamp="1545781696912">
         <mark key="'" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546045874043">
-        <mark key="[" line="297" column="81" />
-        <mark key="]" line="297" column="89" />
-        <mark key="^" line="297" column="89" />
-        <mark key="." line="297" column="89" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546047579000">
+        <mark key="[" line="151" column="16" />
+        <mark key="]" line="151" column="19" />
+        <mark key="^" line="151" column="19" />
+        <mark key="." line="151" column="19" />
       </file>
       <file name="C:/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/Service.cs" timestamp="1545740964685">
         <mark key="[" line="17" column="0" />
@@ -272,10 +272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Cotan</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>Cotan</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNZWFuVmFsdWVcPg==</text>
