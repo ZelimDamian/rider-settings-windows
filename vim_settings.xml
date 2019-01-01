@@ -102,8 +102,8 @@
         <mark key="^" line="17" column="4" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1546305565234">
-        <mark key="'" line="445" column="93" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1546344062356">
+        <mark key="'" line="586" column="87" />
         <mark key="[" line="445" column="0" />
         <mark key="]" line="445" column="0" />
         <mark key="." line="445" column="0" />
@@ -245,8 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Behaviours/MouseViewRotateBehaviour.cs" />
-      <jump line="4" column="45" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Behaviours/MouseViewRotateBehaviour.cs" />
       <jump line="103" column="46" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Controllers/BaseCockpit.cs" />
       <jump line="33" column="15" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Controllers/SceneConfig.cs" />
       <jump line="7" column="1" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/FScene.cs" />
@@ -345,6 +343,8 @@
       <jump line="324" column="77" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="323" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="445" column="93" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="400" column="0" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="586" column="87" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -354,7 +354,7 @@
         <text>if UNITY_EDITOR</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyaWRnZVNwYW5TZXRJZFw+</text>
+        <text>SelectSegmentSpan</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgI2lmIFVOSVRZX0VESVRPUgo=</text>
@@ -394,9 +394,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyaWRnZVNwYW5TZXRJZFw+</last-search>
+      <last-search>SelectSegmentSpan</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyaWRnZVNwYW5TZXRJZFw+</last-pattern>
+      <last-pattern>SelectSegmentSpan</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -404,7 +404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Smooth</entry>
         <entry>Apply</entry>
         <entry>VIdeoRed</entry>
         <entry>Video</entry>
@@ -424,6 +423,7 @@
         <entry encoding="base64">XDxmdWxsTG9vcFNldElkXD4=</entry>
         <entry encoding="base64">XDxyaWRnZUVkZ2VcPg==</entry>
         <entry encoding="base64">XDxyaWRnZVNwYW5TZXRJZFw+</entry>
+        <entry>SelectSegmentSpan</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
