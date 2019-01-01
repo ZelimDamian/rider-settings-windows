@@ -108,10 +108,10 @@
         <mark key="^" line="17" column="4" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1546373739203">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1546375255897">
         <mark key="'" line="476" column="67" />
-        <mark key="[" line="494" column="52" />
-        <mark key="]" line="494" column="53" />
+        <mark key="[" line="431" column="28" />
+        <mark key="]" line="431" column="39" />
         <mark key="." line="494" column="53" />
         <mark key="^" line="380" column="36" />
       </file>
@@ -345,7 +345,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>subRidgeSpanEdges</text>
+        <text>newLoopEdges</text>
       </register>
       <register name="-" type="4">
         <text>ridgeSpan.Edges</text>
@@ -354,7 +354,7 @@
         <text encoding="base64">XDxFZGdlc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>subRidgeSpanEdges</text>
+        <text>newLoopEdges</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
