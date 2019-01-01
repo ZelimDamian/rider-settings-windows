@@ -108,12 +108,11 @@
         <mark key="^" line="17" column="4" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1546375255897">
-        <mark key="'" line="476" column="67" />
-        <mark key="[" line="431" column="28" />
-        <mark key="]" line="431" column="39" />
-        <mark key="." line="494" column="53" />
-        <mark key="^" line="380" column="36" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1546377407010">
+        <mark key="'" line="473" column="32" />
+        <mark key="[" line="496" column="53" />
+        <mark key="]" line="496" column="54" />
+        <mark key="." line="496" column="54" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/DTC/Controllers/DTCController.cs" timestamp="1546048819345">
         <mark key="[" line="13" column="15" />
@@ -242,8 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
-      <jump line="110" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="118" column="83" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="30" column="61" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="132" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
@@ -338,62 +335,64 @@
       <jump line="586" column="87" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="476" column="43" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="515" column="47" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
-      <jump line="451" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="473" column="67" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="124" column="19" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshConstraints.cs" />
       <jump line="109" column="40" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshConstraints.cs" />
+      <jump line="451" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="478" column="75" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="477" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>newLoopEdges</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>ridgeSpan.Edges</text>
+        <text>newRidgeEdges</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFZGdlc1w+</text>
+        <text encoding="base64">XDxuZXdMb29wVmVydGljZXNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>newLoopEdges</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyaWRnZUVkZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG5ld0xvb3BFZGdlc1N1YiA9IHIuQ29uc3RyYWludHMuRmluZENvbnN0cmFpbmVkRWRnZXNCeVNldElEKGZ1bGxMb29wU2V0SWQpOwogICAgICAgICAgICAgICAgICAgICAgICB2YXIgbmV3TG9vcEVkZ2VzID0gTWVzaEluZGV4VXRpbC5NYXBFZGdlc1ZpYVZlcnRleE1hcChyLlJlaW5zZXJ0U3ViVG9CYXNlTWFwViwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHIuUmVnaW9uLlN1Yk1lc2gsIHIuQmFzZU1lc2gsIG5ld0xvb3BFZGdlc1N1Yik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgZnJhbWVXID0gdG9vdGguTWVzaFNvLkdldExvY2FsRnJhbWUoQ29vcmRTcGFjZS5Xb3JsZENvb3Jkcyk7Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyaWRnZUVkZ2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZWMgPSBuZXcgRWRnZUNvbnN0cmFpbnQoRWRnZVJlZmluZUZsYWdzLk5vQ29sbGFwc2UgJiBFZGdlUmVmaW5lRmxhZ3MuTm9GbGlwKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgVHJhY2tpbmdTZXRJRCA9IGZ1bGxMb29wU2V0SWQKICAgICAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgICAgIHIuQ29uc3RyYWludHMuU2V0T3JVcGRhdGVFZGdlQ29uc3RyYWludChlaWQsIGVjKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBuZXdMb29wRWRnZXMgPSBNZXNoSW5kZXhVdGlsLk1hcEVkZ2VzVmlhVmVydGV4TWFwKHIuUmVpbnNlcnRTdWJUb0Jhc2VNYXBWLCByLlJlZ2lvbi5TdWJNZXNoLCByLkJhc2VNZXNoLCBuZXdMb29wRWRnZXNTdWIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgZnJhbWVXID0gdG9vdGguTWVzaFNvLkdldExvY2FsRnJhbWUoQ29vcmRTcGFjZS5Xb3JsZENvb3Jkcyk7Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJpZGdlU3Bhbi5FZGdlcwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG5ld0xvb3BFZGdlc1N1YiA9IHIuQ29uc3RyYWludHMuRmluZENvbnN0cmFpbmVkRWRnZXNCeVNldElEKHRyYWNraW5nU2V0SWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZWMgPSBuZXcgRWRnZUNvbnN0cmFpbnQoRWRnZVJlZmluZUZsYWdzLk5vQ29sbGFwc2UgJiBFZGdlUmVmaW5lRmxhZ3MuTm9GbGlwKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgVHJhY2tpbmdTZXRJRCA9IGZ1bGxMb29wU2V0SWQKICAgICAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgICAgIHIuQ29uc3RyYWludHMuU2V0T3JVcGRhdGVFZGdlQ29uc3RyYWludChlaWQsIGVjKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFZGdlc1w+</last-search>
+      <last-search encoding="base64">XDxuZXdMb29wVmVydGljZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFZGdlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdMb29wVmVydGljZXNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -413,7 +412,6 @@
         <entry encoding="base64">XDxtZXNoUmVnaW9uQm91bmRhcnlMb29wc1w+</entry>
         <entry encoding="base64">XDxlZGdlTG9vcFw+</entry>
         <entry encoding="base64">XDxsb29wXD4=</entry>
-        <entry encoding="base64">XDxuZXdMb29wVmVydGljZXNcPg==</entry>
         <entry encoding="base64">XDxwaW5uZWRWZXJ0c1w+</entry>
         <entry encoding="base64">XDxmdWxsTG9vcFNldElkXD4=</entry>
         <entry encoding="base64">XDxyaWRnZUVkZ2VcPg==</entry>
@@ -421,6 +419,7 @@
         <entry>SelectSegmentSpan</entry>
         <entry encoding="base64">XDxwaW5uZWRWZXJ0aWNlc1w+</entry>
         <entry encoding="base64">XDxFZGdlc1w+</entry>
+        <entry encoding="base64">XDxuZXdMb29wVmVydGljZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
