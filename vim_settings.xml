@@ -82,12 +82,12 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformImprintService.cs" timestamp="1545781696912">
         <mark key="'" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546384512843">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546385699902">
         <mark key="'" line="131" column="31" />
-        <mark key="[" line="228" column="39" />
-        <mark key="]" line="228" column="40" />
-        <mark key="." line="228" column="40" />
-        <mark key="^" line="197" column="52" />
+        <mark key="[" line="350" column="68" />
+        <mark key="]" line="350" column="69" />
+        <mark key="." line="350" column="69" />
+        <mark key="^" line="350" column="69" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Controllers/SceneConfig.cs" timestamp="1546049210839">
         <mark key="'" line="36" column="15" />
@@ -344,10 +344,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fullLoopSetId</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>fullLoopSetId</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdMb29wRWRnZXNcPg==</text>
