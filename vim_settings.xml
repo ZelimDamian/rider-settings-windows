@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshIterativeSmooth.cs" timestamp="1546045773123">
         <mark key="'" line="14" column="28" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/GumCreationController.cs" timestamp="1546438471354">
+        <mark key="'" line="11" column="17" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItem.cs" timestamp="1545671976379">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="11" column="14" />
@@ -269,7 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
       <jump line="159" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
       <jump line="162" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
       <jump line="98" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
@@ -369,10 +374,11 @@
       <jump line="84" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="13" column="23" filename="/Dummy.txt" />
       <jump line="26" column="24" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Gizmos/ViewCubeGizmos/ViewCubeGizmo.cs" />
+      <jump line="15" column="17" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/GumCreationController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgVHplcmdpdHkuTW9kdWxlcy5Db21tb24uVG9vbHMuR2VuZXJpY1Rvb3RoVG9vbDsK</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
@@ -384,34 +390,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGVjID0gbmV3IEVkZ2VDb25zdHJhaW50KEVkZ2VSZWZpbmVGbGFncy5GdWxseUNvbnN0cmFpbmVkKQogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUcmFja2luZ1NldElEID0gZnVsbExvb3BTZXRJZAogICAgICAgICAgICAgICAgICAgICAgICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TWVyZ2UgcmVtb3RlLXRyYWNraW5nIGJyYW5jaCAnb3JpZ2luL05ld0JyYW5jaDInIGludG8gTmV3QnJhbmNoMgoKIyBDb25mbGljdHM6CiMJQXNzZXRzL1BsdWdpbnMvRWRpdG9yLm1ldGEKIwlBc3NldHMvUGx1Z2lucy9FZGl0b3IvSmV0QnJhaW5zLm1ldGEKIwlBc3NldHMvVHplcmdpdHkvRGF0YS9Nb2RlbHMvQnJhY2VzL0NvbXBvdW5kL1NtdWRnZXMubWV0YQojCUFzc2V0cy9UemVyZ2l0eS9EYXRhL01vZGVscy9CcmFjZXMvQ29tcG91bmQvU211ZGdlcy5tZXRhfkhFQUQubWV0YQojCUFzc2V0cy9UemVyZ2l0eS9EYXRhL01vZGVscy9CcmFjZXMvQ29tcG91bmQvU211ZGdlcy5tZXRhfm1hc3Rlci5tZXRhCiMJQXNzZXRzL1R6ZXJnaXR5L0RhdGEvTW9kZWxzL0JyYWNlcy9Db21wb3VuZC9TbXVkZ2VzL2JyYWNlX3NtdWRnZV8xMV9Eb3duLnN0bC5tZXRhfkhFQUQubWV0YQojCUFzc2V0cy9UemVyZ2l0eS9EYXRhL01vZGVscy9CcmFjZXMvQ29tcG91bmQvU211ZGdlcy9icmFjZV9zbXVkZ2VfMTFfVXAuc3RsLm1ldGF+SEVBRC5tZXRhCiMJQXNzZXRzL1R6ZXJnaXR5L0RhdGEvTW9kZWxzL0JyYWNlcy9Db21wb3VuZC9TbXVkZ2VzL2JyYWNlX3NtdWRnZV8xMl9Eb3duLnN0bC5tZXRhfkhFQUQubWV0YQojCUFzc2V0cy9UemVyZ2l0eS9Nb2R1bGVzL0JyYWNlUGxhdGZvcm1DcmVhdGlvbi9SZXNvdXJjZXMvTWF0ZXJpYWxzLm1ldGF+bWFzdGVyLm1ldGEKIwlBc3NldHMvVHplcmdpdHkvTW9kdWxlcy9CcmFjZVBsYXRmb3JtQ3JlYXRpb24vUmVzb3VyY2VzL1NoYWRlcnMubWV0YX5tYXN0ZXIubWV0YQojCUFzc2V0cy9UemVyZ2l0eS9Nb2R1bGVzL0NvbW1vbgojCUFzc2V0cy9UemVyZ2l0eS9Nb2R1bGVzL0d1bUNyZWF0aW9uL0d1bUNyZWF0aW9uLnVuaXR5CiMJQXNzZXRzL1R6ZXJnaXR5L01vZHVsZXMvR3VtQ3JlYXRpb24vUmVzb3VyY2VzLm1ldGEKIwlBc3NldHMvVHplcmdpdHkvTW9kdWxlcy9JbXBvcnRpbmcvSW1wb3J0aW5nLnVuaXR5CiMJQXNzZXRzL1R6ZXJnaXR5L01vZHVsZXMvT3JpZ2luU2V0dXAvT3JpZ2luU2V0dXAudW5pdHkK</text>
+        <text encoding="base64">dXNpbmcgVHplcmdpdHkuTW9kdWxlcy5Db21tb24uVG9vbHMuR2VuZXJpY1Rvb3RoVG9vbDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR2VuZXJhdGVSaWRnZShqYXdTbywgdG9vdGhDb250b3VyLCB0b290aE1lc2gpOwo=</text>
+        <text encoding="base64">dXNpbmcgVHplcmdpdHkuTW9kdWxlcy5Db21tb24uU2NlbmVPYmplY3RzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgSmV0QnJhaW5zLkFubm90YXRpb25zOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5MaW5xOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgVHplcmdpdHkuTW9kdWxlcy5Db21tb24uVXRpbGl0aWVzLk1lc2hPcHM7Cg==</text>
+        <text encoding="base64">TWVyZ2UgcmVtb3RlLXRyYWNraW5nIGJyYW5jaCAnb3JpZ2luL05ld0JyYW5jaDInIGludG8gTmV3QnJhbmNoMgoKIyBDb25mbGljdHM6CiMJQXNzZXRzL1BsdWdpbnMvRWRpdG9yLm1ldGEKIwlBc3NldHMvUGx1Z2lucy9FZGl0b3IvSmV0QnJhaW5zLm1ldGEKIwlBc3NldHMvVHplcmdpdHkvRGF0YS9Nb2RlbHMvQnJhY2VzL0NvbXBvdW5kL1NtdWRnZXMubWV0YQojCUFzc2V0cy9UemVyZ2l0eS9EYXRhL01vZGVscy9CcmFjZXMvQ29tcG91bmQvU211ZGdlcy5tZXRhfkhFQUQubWV0YQojCUFzc2V0cy9UemVyZ2l0eS9EYXRhL01vZGVscy9CcmFjZXMvQ29tcG91bmQvU211ZGdlcy5tZXRhfm1hc3Rlci5tZXRhCiMJQXNzZXRzL1R6ZXJnaXR5L0RhdGEvTW9kZWxzL0JyYWNlcy9Db21wb3VuZC9TbXVkZ2VzL2JyYWNlX3NtdWRnZV8xMV9Eb3duLnN0bC5tZXRhfkhFQUQubWV0YQojCUFzc2V0cy9UemVyZ2l0eS9EYXRhL01vZGVscy9CcmFjZXMvQ29tcG91bmQvU211ZGdlcy9icmFjZV9zbXVkZ2VfMTFfVXAuc3RsLm1ldGF+SEVBRC5tZXRhCiMJQXNzZXRzL1R6ZXJnaXR5L0RhdGEvTW9kZWxzL0JyYWNlcy9Db21wb3VuZC9TbXVkZ2VzL2JyYWNlX3NtdWRnZV8xMl9Eb3duLnN0bC5tZXRhfkhFQUQubWV0YQojCUFzc2V0cy9UemVyZ2l0eS9Nb2R1bGVzL0JyYWNlUGxhdGZvcm1DcmVhdGlvbi9SZXNvdXJjZXMvTWF0ZXJpYWxzLm1ldGF+bWFzdGVyLm1ldGEKIwlBc3NldHMvVHplcmdpdHkvTW9kdWxlcy9CcmFjZVBsYXRmb3JtQ3JlYXRpb24vUmVzb3VyY2VzL1NoYWRlcnMubWV0YX5tYXN0ZXIubWV0YQojCUFzc2V0cy9UemVyZ2l0eS9Nb2R1bGVzL0NvbW1vbgojCUFzc2V0cy9UemVyZ2l0eS9Nb2R1bGVzL0d1bUNyZWF0aW9uL0d1bUNyZWF0aW9uLnVuaXR5CiMJQXNzZXRzL1R6ZXJnaXR5L01vZHVsZXMvR3VtQ3JlYXRpb24vUmVzb3VyY2VzLm1ldGEKIwlBc3NldHMvVHplcmdpdHkvTW9kdWxlcy9JbXBvcnRpbmcvSW1wb3J0aW5nLnVuaXR5CiMJQXNzZXRzL1R6ZXJnaXR5L01vZHVsZXMvT3JpZ2luU2V0dXAvT3JpZ2luU2V0dXAudW5pdHkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgVHplcmdpdHkuTW9kdWxlcy5Db21tb24uVXRpbGl0aWVzLkhlbHBlcnMuQ29udG91cnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgR2VuZXJhdGVSaWRnZShqYXdTbywgdG9vdGhDb250b3VyLCB0b290aE1lc2gpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgVHplcmdpdHkuTW9kdWxlcy5Db21tb24uU3RhdGVzOwo=</text>
+        <text encoding="base64">dXNpbmcgSmV0QnJhaW5zLkFubm90YXRpb25zOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrczsK</text>
+        <text encoding="base64">dXNpbmcgVHplcmdpdHkuTW9kdWxlcy5Db21tb24uVXRpbGl0aWVzLk1lc2hPcHM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
+        <text encoding="base64">dXNpbmcgVHplcmdpdHkuTW9kdWxlcy5Db21tb24uVXRpbGl0aWVzLkhlbHBlcnMuQ29udG91cnM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgSmV0QnJhaW5zLkFubm90YXRpb25zOwo=</text>
+        <text encoding="base64">dXNpbmcgVHplcmdpdHkuTW9kdWxlcy5Db21tb24uU3RhdGVzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
