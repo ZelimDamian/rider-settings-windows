@@ -111,12 +111,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" timestamp="1546526800930">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" timestamp="1546527531018">
         <mark key="'" line="122" column="43" />
-        <mark key="[" line="304" column="73" />
-        <mark key="]" line="304" column="73" />
-        <mark key="^" line="304" column="73" />
-        <mark key="." line="304" column="73" />
+        <mark key="[" line="142" column="55" />
+        <mark key="]" line="142" column="55" />
+        <mark key="." line="142" column="55" />
+        <mark key="^" line="142" column="55" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/UI/Tools/Parameters/ToolParameterElement.cs" timestamp="1546390343576">
         <mark key="[" line="39" column="0" />
@@ -228,10 +228,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmV2aWV3U29cPg==</text>
@@ -240,34 +240,34 @@
         <text>resultSo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdFNvLlJlcGxhY2VNZXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuU2VsZWN0KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2VTby5DcmVhdGUoYmFzZU1lc2gsIHNvTWF0ZXJpYWwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzb01hdGVyaWFsID0gU09NYXRlcmlhbC5DcmVhdGVGbGF0U2hhZGVkKCQie25hbWVvZihHZW5lcmF0ZUd1bVN0cmV0Y2hDdXJ2ZVRvb2wpfSIsIENvbG9yZi5XaGl0ZSk7CiAgICAgICAgICAgICAgICB2YXIgYmFzZVNvID0gbmV3IERNZXNoU08oKTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgdmFyIHRvb3RoVG9CYXNlRnJhbWUgPSBwcmV2aWV3U28uR2V0U2NlbmVGcmFtZSgpLlRvRnJhbWUodG9vdGguTWVzaFNvLkdldFNjZW5lRnJhbWUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgdmFyIHRvb3RoVG9CYXNlRnJhbWUgPSBwcmV2aWV3U28uR2V0U2NlbmVGcmFtZSgpLlRvRnJhbWUodG9vdGguTWVzaFNvLkdldFNjZW5lRnJhbWUoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNvTWF0ZXJpYWwgPSBTT01hdGVyaWFsLkNyZWF0ZU1lc2goIkJhc2VTb01hdGVyaWFsIiwgQ29sb3JmLldoaXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdFNvLlJlcGxhY2VNZXNoKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2VTby5DcmVhdGUoYmFzZU1lc2gsIHNvTWF0ZXJpYWwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHNvTWF0ZXJpYWwgPSBTT01hdGVyaWFsLkNyZWF0ZUZsYXRTaGFkZWQoJCJ7bmFtZW9mKEdlbmVyYXRlR3VtU3RyZXRjaEN1cnZlVG9vbCl9IiwgQ29sb3JmLldoaXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzb01hdGVyaWFsID0gU09NYXRlcmlhbC5DcmVhdGVGbGF0U2hhZGVkKCQie25hbWVvZihHZW5lcmF0ZUd1bVN0cmV0Y2hDdXJ2ZVRvb2wpfSIsIENvbG9yZi5XaGl0ZSk7CiAgICAgICAgICAgICAgICB2YXIgYmFzZVNvID0gbmV3IERNZXNoU08oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNvTWF0ZXJpYWwgPSBTT01hdGVyaWFsLkNyZWF0ZU1lc2goIkJhc2VTb01hdGVyaWFsIiwgQ29sb3JmLldoaXRlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
