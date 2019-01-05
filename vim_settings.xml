@@ -3,18 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/GumCreationController.cs" timestamp="1546719792707">
-        <mark key="'" line="28" column="50" />
-        <mark key="[" line="95" column="95" />
-        <mark key="]" line="95" column="99" />
-        <mark key="." line="95" column="99" />
-        <mark key="^" line="95" column="99" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/GumCreationController.cs" timestamp="1546722809421">
+        <mark key="'" line="25" column="50" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="16" />
+        <mark key="." line="106" column="16" />
       </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuItem.cs" timestamp="1545671976379">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="11" column="14" />
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
+      </file>
+      <file name="/GenerateGumStretchTool.cs" timestamp="1546721467123">
+        <mark key="'" line="257" column="58" />
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="259" column="21" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Previews/PointsPreview.cs" timestamp="1546049311651">
         <mark key="[" line="27" column="78" />
@@ -177,16 +181,20 @@
         <mark key="." line="18" column="62" />
         <mark key="^" line="18" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationHelper.cs" timestamp="1546714348935">
-        <mark key="'" line="142" column="42" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationHelper.cs" timestamp="1546725041938">
+        <mark key="'" line="102" column="28" />
+        <mark key="[" line="217" column="64" />
+        <mark key="]" line="217" column="69" />
+        <mark key="." line="217" column="69" />
+        <mark key="^" line="217" column="69" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" timestamp="1546556417807">
         <mark key="'" line="225" column="17" />
         <mark key="[" line="140" column="30" />
         <mark key="]" line="140" column="99" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshPlaneCutting.cs" timestamp="1546724358075">
+        <mark key="'" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1546647243235">
         <mark key="'" line="348" column="33" />
@@ -259,25 +267,15 @@
         <mark key="^" line="192" column="46" />
         <mark key="." line="192" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" timestamp="1546719850426">
-        <mark key="[" line="43" column="19" />
-        <mark key="]" line="43" column="32" />
-        <mark key="^" line="43" column="32" />
-        <mark key="." line="43" column="32" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" timestamp="1546721760482">
+        <mark key="'" line="225" column="8" />
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="44" column="30" />
+        <mark key="^" line="44" column="30" />
+        <mark key="." line="44" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="25" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/ToothContour.cs" />
-      <jump line="131" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
-      <jump line="342" column="33" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
-      <jump line="171" column="55" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
-      <jump line="302" column="41" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
-      <jump line="365" column="55" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
-      <jump line="373" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
-      <jump line="382" column="91" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
-      <jump line="394" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
-      <jump line="90" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
-      <jump line="63" column="42" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
       <jump line="61" column="18" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
       <jump line="158" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
       <jump line="69" column="26" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
@@ -307,7 +305,6 @@
       <jump line="117" column="0" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
       <jump line="295" column="36" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
       <jump line="293" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
-      <jump line="220" column="48" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
       <jump line="219" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
       <jump line="64" column="35" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
       <jump line="277" column="43" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
@@ -323,7 +320,6 @@
       <jump line="202" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
       <jump line="209" column="41" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
       <jump line="205" column="44" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
-      <jump line="225" column="72" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
       <jump line="287" column="42" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
       <jump line="102" column="60" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
       <jump line="98" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
@@ -367,58 +363,71 @@
       <jump line="141" column="72" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationHelper.cs" />
       <jump line="81" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationHelper.cs" />
       <jump line="175" column="42" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationHelper.cs" />
+      <jump line="220" column="0" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
+      <jump line="0" column="6" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
+      <jump line="236" column="35" filename="/GenerateGumStretchTool.cs" />
+      <jump line="370" column="32" filename="/GenerateGumStretchTool.cs" />
+      <jump line="239" column="38" filename="/GenerateGumStretchTool.cs" />
+      <jump line="257" column="58" filename="/GenerateGumStretchTool.cs" />
+      <jump line="191" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationHelper.cs" />
+      <jump line="225" column="8" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
+      <jump line="7" column="48" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshPlaneCutting.cs" />
+      <jump line="13" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshPlaneCutting.cs" />
+      <jump line="9" column="24" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshPlaneCutting.cs" />
+      <jump line="12" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshPlaneCutting.cs" />
+      <jump line="83" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationHelper.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text>baseMesh</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>baseMesh</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkN1dEVkZ2VzXD4=</text>
+        <text encoding="base64">XDxsb29wXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZpY2UuR2V0PFRlZXRoU2VydmljZT4oKS5GaW5kQnlTaWRlKEphd1NpZGUuTG93ZXIpLk1pbih0b290aCA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgYm94ID0gdG9vdGguTWVzaFNvLkdldEJvdW5kaW5nQm94KENvb3JkU3BhY2UuU2NlbmVDb29yZHMpOwogICAgICAgICAgICAgICAgcmV0dXJuIGJveC5Ub0FBQkIoKS5NaW4ueTsKICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>meshPlaneCut</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRE1lc2gzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIENvbnRvdXJzRGVidWdSZW5kZXJlci5EcmF3RWRnZXMoc3Bhbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNpZGUgPSBTaWRlOwogICAgICAgICAgICBwcmV2aWV3U28uRWRpdEFuZFVwZGF0ZU1lc2goYmFzZU1lc2ggPT4KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgR2VuZXJhdGVHdW0oYmFzZU1lc2gsIHNpZGUpOwogICAgICAgICAgICB9LCBHZW9tZXRyeUVkaXRUeXBlcy5BcmJpdHJhcnlFZGl0KTsKCiAgICAgICAgICAgIHZhciByZXN1bHRTbyA9IChETWVzaFNPKSBwcmV2aWV3U28uRHVwbGljYXRlKCk7CiAgICAgICAgICAgIFNjZW5lLkFkZFNjZW5lT2JqZWN0KHJlc3VsdFNvKTsKCiAgICAgICAgICAgIFNjZW5lLkhpc3RvcnkuUHVzaENoYW5nZShuZXcgQWRkU09DaGFuZ2Uge3NvID0gcHJldmlld1NvfSwgdHJ1ZSk7CiAgICAgICAgICAgIFNjZW5lLkhpc3RvcnkuUHVzaEludGVyYWN0aW9uQ2hlY2twb2ludCgpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHYyID0gcGxhbmVGcmFtZS5Ub0ZyYW1lUCh2KS54eTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5EaWFnbm9zdGljcy5EZWJ1Zwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5EaWFnbm9zdGljcy5EZWJ1Zy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsb29wID0gbG9vcHM/LkZpcnN0T3JEZWZhdWx0KCk7CiAgICAgICAgICAgICAgICB2YXIgc3BhbnMgPSBvdXRlckluc2VydC5TcGFuczsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGF0dGVtcHQgdG8gcmVjb3ZlciB0aGUgbG9vcCBjdXQgZnJvbSBzcGFucwoK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChsb29wID09IG51bGwgJiYgc3BhbnMgIT0gbnVsbCAmJiBzcGFucy5Db3VudCA+IDApCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgY3V0U3BhbnMgPSBzcGFuczsKICAgICAgICAgICAgICAgICAgICB0cnkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIERlYnVnLkxvZygiSm9pblNwYW5zIGNhbGxlZCIpOwogICAgICAgICAgICAgICAgICAgICAgICBsb29wID0gRWRnZVNwYW5Kb2luaW5nVXRpbGl0aWVzLkpvaW5TcGFucyhiYXNlTWVzaCwgc3BhbnMpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBEZWJ1Zy5Mb2coIkpvaW5TcGFucyBmYWlsZWQiKTsKICAgICAgICAgICAgICAgICAgICAgICAgRGVidWcuTG9nV2FybmluZyhlKTsKICAgICAgICAgICAgICAgICAgICB9CgoKICAgICAgICAgICAgICAgICAgICAvLyBsaW5rIHRoZW0gdG9nZXRoZXIKICAgICAgICAgICAgICAgICAgICBEZWJ1Zy5Mb2coIkxpbmtFZGdlcyBjYWxsZWQiKTsKICAgICAgICAgICAgICAgICAgICB0cnkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGN1dExvb3AgPSBMaW5rRWRnZXMob25DdXRFZGdlcywgYmFzZU1lc2gpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBjYXRjaCAoTGlua0VkZ2VzRmFpbGVkRXhjZXB0aW9uIGUpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBTZXJ2aWNlLkdldDxEZWJ1Z0RyYXdTZXJ2aWNlPigpLkFkZCgoKSA9PgogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAocHJldmlld1NvID09IG51bGwpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbnRvdXJzRGVidWdSZW5kZXJlci5EcmF3RWRnZXMob25DdXRFZGdlcywgcHJldmlld1NvLCBDb2xvcmYuV2hlYXQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29udG91cnNEZWJ1Z1JlbmRlcmVyLkRyYXdQb2ludHNBc0xpbmVzKG5ld1tdIHtiYXNlTWVzaC5HZXRWZXJ0ZXhmKGUuVklkKX0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJldmlld1NvLCBDb2xvcmYuVmlkZW9SZWQpOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICAgICAgICAgIERlYnVnLkxvZ0Vycm9yKGUuTWVzc2FnZSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZSkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIERlYnVnLkxvZ0Vycm9yKCQiRXhjZXB0aW9uIGluIExpbmtFZGdlczogXG4ge2UuTWVzc2FnZX0gXG4ge2UuU3RhY2tUcmFjZX0iKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBsYW5lRnJhbWUgPSBGcmFtZTNmLklkZW50aXR5LlRyYW5zbGF0ZWQoeSwgMSk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkN1dEVkZ2VzXD4=</last-search>
+      <last-search encoding="base64">XDxsb29wXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkN1dEVkZ2VzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb29wXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -426,8 +435,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYXNlTWVzaFw+</entry>
-        <entry encoding="base64">XDxzb01hdGVyaWFsXD4=</entry>
         <entry encoding="base64">XDxiYXNlU29cPg==</entry>
         <entry>RemoveSceneObject</entry>
         <entry encoding="base64">XDxjdXRFZGdlc1w+</entry>
@@ -439,13 +446,15 @@
         <entry>Selection</entry>
         <entry>Visibility</entry>
         <entry encoding="base64">XDxPblZpc2liaWxpdHlDaGFuZ2VkXD4=</entry>
-        <entry encoding="base64">XDxMaW5rRWRnZXNcPg==</entry>
         <entry>Compactify</entry>
         <entry encoding="base64">XDxDb250b3VyTG9vcEVkZ2VzXD4=</entry>
         <entry encoding="base64">XDxXYXlwb2ludENvbnRvdXJQcmV2aWV3XD4=</entry>
         <entry>EndDraw</entry>
         <entry encoding="base64">XDxwcmV2aWV3U29cPg==</entry>
         <entry encoding="base64">XDxvbkN1dEVkZ2VzXD4=</entry>
+        <entry encoding="base64">XDxMaW5rRWRnZXNcPg==</entry>
+        <entry>Original</entry>
+        <entry encoding="base64">XDxsb29wXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -453,8 +462,8 @@
         <entry>b</entry>
         <entry>a</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
