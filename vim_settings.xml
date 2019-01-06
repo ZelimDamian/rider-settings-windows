@@ -72,12 +72,12 @@
         <mark key="^" line="95" column="40" />
         <mark key="." line="95" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" timestamp="1546745631551">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" timestamp="1546812643077">
         <mark key="'" line="3" column="1" />
-        <mark key="[" line="30" column="60" />
-        <mark key="]" line="30" column="66" />
-        <mark key="." line="30" column="66" />
-        <mark key="^" line="30" column="66" />
+        <mark key="[" line="115" column="40" />
+        <mark key="]" line="115" column="40" />
+        <mark key="." line="115" column="40" />
+        <mark key="^" line="115" column="41" />
       </file>
       <file name="D:/Projects/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/TopMenuService.cs" timestamp="1545679683938">
         <mark key="[" line="39" column="0" />
@@ -276,11 +276,11 @@
         <mark key="." line="308" column="20" />
         <mark key="^" line="308" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" timestamp="1546731198524">
-        <mark key="[" line="21" column="35" />
-        <mark key="]" line="21" column="37" />
-        <mark key="." line="21" column="37" />
-        <mark key="^" line="21" column="37" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" timestamp="1546812765260">
+        <mark key="[" line="26" column="77" />
+        <mark key="]" line="26" column="86" />
+        <mark key="." line="26" column="86" />
+        <mark key="^" line="26" column="86" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/VirtualBase/VirtualBaseTool.cs" timestamp="1546442475435">
         <mark key="'" line="19" column="0" />
@@ -413,10 +413,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>edgeLoop.Vertices</text>
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>edgeLoop.Vertices</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGaWxsU2hhcnBCb3R0b21cPg==</text>
