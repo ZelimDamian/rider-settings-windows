@@ -17,12 +17,12 @@
         <mark key="." line="212" column="91" />
         <mark key="^" line="212" column="91" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" timestamp="1546812643077">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" timestamp="1546904576901">
         <mark key="'" line="3" column="1" />
-        <mark key="[" line="115" column="40" />
-        <mark key="]" line="115" column="40" />
-        <mark key="." line="115" column="40" />
-        <mark key="^" line="115" column="41" />
+        <mark key="[" line="30" column="81" />
+        <mark key="]" line="30" column="91" />
+        <mark key="^" line="30" column="91" />
+        <mark key="." line="30" column="91" />
       </file>
       <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/SceneObjects/WaypointContourSo.cs" timestamp="1546884913891" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceModelBuilder/Controllers/BraceModelBuilderController.cs" timestamp="1546893740331">
@@ -240,11 +240,11 @@
       <jump line="55" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEphdy5NZXNoU28uTm90aWZ5TWVzaEVkaXRlZCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>Saving changes</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb21haW5cPg==</text>
