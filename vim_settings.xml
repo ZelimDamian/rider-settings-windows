@@ -122,11 +122,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BlendShapeService.cs" timestamp="1546893864512">
-        <mark key="[" line="28" column="86" />
-        <mark key="]" line="29" column="44" />
-        <mark key="^" line="29" column="44" />
-        <mark key="." line="29" column="44" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BlendShapeService.cs" timestamp="1546961319419">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="40" />
+        <mark key="^" line="19" column="40" />
+        <mark key="." line="19" column="40" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" timestamp="1546916097230">
         <mark key="'" line="55" column="21" />
@@ -147,6 +147,12 @@
         <mark key="]" line="10" column="95" />
         <mark key="." line="10" column="95" />
         <mark key="^" line="10" column="95" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Editor/PostprocessBuild.cs" timestamp="1546960961837">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="38" />
+        <mark key="." line="13" column="38" />
+        <mark key="^" line="13" column="38" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SavingService.cs" timestamp="1546957163996">
         <mark key="'" line="71" column="55" />
@@ -266,10 +272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>OnAfterSave</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>OnAfterSave</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxLZXlEaXJlY3RvcnlcPg==</text>
@@ -278,34 +284,34 @@
         <text encoding="base64">CQkgICAgcmV0dXJuIG5ldyBDZW50ZXJVcCB7IENlbnRlciA9IGNlbnRlckwsIFNlZWRQb2ludCA9IHNlZWRQb2ludEwgfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJdmFyIHVwd2FyZCA9IHRvb3RoLk1hcmsuSW53YXJkLkNyb3NzKHRvb3RoLk1hcmsuRWRnZSk7Cg==</text>
+        <text encoding="base64">dXNpbmcgVW5pdHlFZGl0b3I7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJdmFyIHVwd2FyZCA9IHRvb3RoLk1hcmsuSW53YXJkLkNyb3NzKHRvb3RoLk1hcmsuRWRnZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBHZXRFZGdlKCkK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBHZXRFZGdlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFRhcmdldCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFRhcmdldCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICBwcml2YXRlIHN0YXRpYyBzdHJpbmcgS2V5RGlyZWN0b3J5ID0+IEFwcGxpY2F0aW9uLmRhdGFQYXRoICsgIi9UemVyZ2l0eS9EYXRhL0tleXMiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CSAgICBwcml2YXRlIHN0YXRpYyBzdHJpbmcgS2V5RGlyZWN0b3J5ID0+IEFwcGxpY2F0aW9uLmRhdGFQYXRoICsgIi9UemVyZ2l0eS9EYXRhL0tleXMiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
