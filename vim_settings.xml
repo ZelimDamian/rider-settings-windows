@@ -104,12 +104,12 @@
         <mark key="." line="163" column="19" />
         <mark key="^" line="163" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" timestamp="1546973059750">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" timestamp="1546973863815">
         <mark key="'" line="198" column="21" />
-        <mark key="[" line="209" column="55" />
-        <mark key="]" line="209" column="55" />
-        <mark key="." line="209" column="55" />
-        <mark key="^" line="209" column="55" />
+        <mark key="[" line="284" column="89" />
+        <mark key="]" line="284" column="88" />
+        <mark key="." line="284" column="88" />
+        <mark key="^" line="284" column="88" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" timestamp="1546812765260">
         <mark key="[" line="26" column="77" />
@@ -159,16 +159,17 @@
         <mark key="^" line="207" column="78" />
         <mark key="." line="56" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" timestamp="1546918304238">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" timestamp="1546973660601">
+        <mark key="'" line="86" column="21" />
         <mark key="[" line="220" column="0" />
         <mark key="]" line="247" column="13" />
         <mark key="." line="242" column="12" />
         <mark key="^" line="243" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/AlignerNumberService.cs" timestamp="1546971437852">
-        <mark key="'" line="25" column="82" />
-        <mark key="[" line="90" column="77" />
-        <mark key="]" line="90" column="77" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/AlignerNumberService.cs" timestamp="1546973696624">
+        <mark key="'" line="107" column="16" />
+        <mark key="[" line="111" column="53" />
+        <mark key="]" line="111" column="75" />
         <mark key="." line="82" column="110" />
         <mark key="^" line="78" column="81" />
       </file>
@@ -195,11 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="44" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/LaplacianMeshDeformer.cs" />
-      <jump line="218" column="44" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/LaplacianMeshDeformer.cs" />
-      <jump line="221" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/LaplacianMeshDeformer.cs" />
-      <jump line="25" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Constraints/LaplacianDeformerHelper.cs" />
-      <jump line="24" column="49" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Constraints/LaplacianDeformerHelper.cs" />
       <jump line="69" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Constraints/LaplacianDeformerHelper.cs" />
       <jump line="112" column="37" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Constraints/LaplacianDeformerHelper.cs" />
       <jump line="138" column="42" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Constraints/LaplacianDeformerHelper.cs" />
@@ -295,58 +291,63 @@
       <jump line="94" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceCreation/Controllers/BraceCreationController.cs" />
       <jump line="69" column="0" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
       <jump line="198" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
+      <jump line="35" column="59" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/AlignerNumberService.cs" />
+      <jump line="75" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
+      <jump line="86" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
+      <jump line="111" column="53" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/AlignerNumberService.cs" />
+      <jump line="107" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/AlignerNumberService.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>A</text>
+        <text>RecalculateAlignerNumbers</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>RecalculateAlignerNumbers</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZXR1cExheWVyaW5nU3lzdGVtXD4=</text>
+        <text encoding="base64">XDxHZXRBbmRVcGRhdGVCcmFjZU51bWJlclw+</text>
       </register>
       <register name="0" type="4">
-        <text>endAlignerIndex</text>
+        <text>GetAndUpdateBraceNumber</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgd2lyZSA9IFNlcnZpY2UuR2V0PFdpcmVTZXJ2aWNlPigpLkZpbmRCeUxheWVyU2lkZShsYXllci5JbmRleCwgamF3LlNpZGUpLkZpcnN0T3JEZWZhdWx0KCk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHdpcmU/LkNyb3NzU2VjdGlvbi5UeXBlLlRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxheWVyTGlzdE1hcFtqYXcuU2lkZV0gPSBsaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgd2lyZSA9IFNlcnZpY2UuR2V0PFdpcmVTZXJ2aWNlPigpLkZpbmRCeUxheWVyU2lkZShsYXllci5JbmRleCwgamF3LlNpZGUpLkZpcnN0T3JEZWZhdWx0KCk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHdpcmU/LkNyb3NzU2VjdGlvbi5UeXBlLlRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxheWVyTGlzdE1hcFtqYXcuU2lkZV0gPSBsaXN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfQoJCQl7Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZm9yICh2YXIgaSA9IDA7IGkgPCBsYXllcnMuQ291bnQgLSAxOyBpKyspCg==</text>
+        <text encoding="base64">CQkJfQoJCQl7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJdmFyIGxheWVycyA9IGxheWVyaW5nU2VydmljZS5GaW5kTGF5ZXJzRm9yU2lkZShzaWRlKS5Ub0xpc3QoKTsK</text>
+        <text encoding="base64">CQkJZm9yICh2YXIgaSA9IDA7IGkgPCBsYXllcnMuQ291bnQgLSAxOyBpKyspCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJdmFyIGxheWVycyA9IGxheWVyaW5nU2VydmljZS5GaW5kTGF5ZXJzRm9yU2lkZShzaWRlKS5Ub0xpc3QoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXZhciBmcm9tID0gbGF5ZXJzW2ldOwoJCQkJdmFyIHRvID0gbGF5ZXJzW2kgKyAxXTsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEVuZFBvaW50T2Zmc2V0ICsgU2lkZU9mZnNldAo=</text>
+        <text encoding="base64">CQkJCXZhciBmcm9tID0gbGF5ZXJzW2ldOwoJCQkJdmFyIHRvID0gbGF5ZXJzW2kgKyAxXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTZXR1cExheWVyaW5nU3lzdGVtXD4=</last-search>
+      <last-search encoding="base64">XDxHZXRBbmRVcGRhdGVCcmFjZU51bWJlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZXR1cExheWVyaW5nU3lzdGVtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxHZXRBbmRVcGRhdGVCcmFjZU51bWJlclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -354,9 +355,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CreateDirectory</entry>
-        <entry encoding="base64">XDxkb21haW5cPg==</entry>
-        <entry encoding="base64">XDxGaWxsQ3V0TG9vcFw+</entry>
         <entry encoding="base64">XDxmcmFtZVw+</entry>
         <entry encoding="base64">XDxsb29wXD4=</entry>
         <entry>normal</entry>
@@ -374,6 +372,9 @@
         <entry encoding="base64">XDxDYWxjdWxhdGlvblJlc3VsdHNcPg==</entry>
         <entry encoding="base64">XDxMYXllckxpc3RDb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxTZXR1cExheWVyaW5nU3lzdGVtXD4=</entry>
+        <entry encoding="base64">XDxSZWNhbGN1bGF0ZUFsaWduZXJOdW1iZXJzXD4=</entry>
+        <entry encoding="base64">XDxVcGRhdGVUZXh0QmluZGluZ1w+</entry>
+        <entry encoding="base64">XDxHZXRBbmRVcGRhdGVCcmFjZU51bWJlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
