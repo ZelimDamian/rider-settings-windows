@@ -33,11 +33,11 @@
         <mark key="." line="212" column="91" />
         <mark key="^" line="212" column="91" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" timestamp="1546906730950">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" timestamp="1546908167252">
         <mark key="'" line="3" column="1" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="20" />
-        <mark key="." line="31" column="20" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
         <mark key="^" line="25" column="19" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshPlaneCutting.cs" timestamp="1546724358075">
@@ -238,11 +238,11 @@
       <jump line="55" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIFNlcnZpY2UuR2V0PERlYnVnRHJhd1NlcnZpY2U+KCkuQWRkKCgpID0+CgkgICAgICAgICAgICB7CgkJICAgICAgICAgICAgaWYgKCFTdG9yYWdlU2VydmljZUJhc2UuSXNWaXNpYmxlKGphdy5NZXNoU28pKSByZXR1cm4gZmFsc2U7CgkJICAgICAgICAgICAgQ29udG91cnNEZWJ1Z1JlbmRlcmVyLkRyYXdFZGdlcyhlZGdlTG9vcC5FZGdlcywgamF3Lk1lc2hTbyk7CgkJICAgICAgICAgICAgcmV0dXJuIHRydWU7CgkgICAgICAgICAgICB9KTsK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb21haW5cPg==</text>
