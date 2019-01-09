@@ -21,11 +21,12 @@
         <mark key="^" line="198" column="52" />
         <mark key="." line="198" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumBulgeGenerationHelper.cs" timestamp="1547054167504">
-        <mark key="[" line="34" column="45" />
-        <mark key="]" line="34" column="46" />
-        <mark key="." line="34" column="46" />
-        <mark key="^" line="40" column="82" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumBulgeGenerationHelper.cs" timestamp="1547055826619">
+        <mark key="'" line="48" column="64" />
+        <mark key="[" line="69" column="52" />
+        <mark key="]" line="69" column="51" />
+        <mark key="." line="69" column="51" />
+        <mark key="^" line="69" column="51" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" timestamp="1546918131574">
         <mark key="'" line="218" column="31" />
@@ -180,7 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
       <jump line="231" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
       <jump line="17" column="65" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
       <jump line="102" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
@@ -280,19 +280,20 @@
       <jump line="75" column="48" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Importing/Controllers/ImportingController.cs" />
       <jump line="125" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Importing/Controllers/ImportingController.cs" />
       <jump line="59" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Importing/Controllers/ImportingController.cs" />
+      <jump line="48" column="64" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumBulgeGenerationHelper.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>ExpandToFaceNeighbours();</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>ExpandToFaceNeighbours();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOZXh0U3RlcFw+</text>
+        <text encoding="base64">XDxzbW9vdGhSb2lcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8JICAgICAgICAgICAgdmFyIGRyYXcgPSBHZXQ8RGVidWdEcmF3U2VydmljZT4oKTsK</text>
+      <register name="0" type="4">
+        <text>ignoredFaceSelection</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -329,9 +330,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOZXh0U3RlcFw+</last-search>
+      <last-search encoding="base64">XDxzbW9vdGhSb2lcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOZXh0U3RlcFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzbW9vdGhSb2lcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -339,7 +340,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsYXllcnNcPg==</entry>
         <entry encoding="base64">XDxDYWxjdWxhdGVBbGlnbmVyc051bWJlclJlc3VsdFw+</entry>
         <entry encoding="base64">XDxBbGlnbmVyTnVtYmVyQ2FsY3VsYXRpb25SZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxDYWxjdWxhdGlvblJlc3VsdHNcPg==</entry>
@@ -359,6 +359,7 @@
         <entry encoding="base64">XDxTaG91bGRSZW1lc2hcPg==</entry>
         <entry>Next</entry>
         <entry encoding="base64">XDxOZXh0U3RlcFw+</entry>
+        <entry encoding="base64">XDxzbW9vdGhSb2lcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
