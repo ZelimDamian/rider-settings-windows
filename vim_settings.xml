@@ -81,10 +81,11 @@
         <mark key="." line="192" column="0" />
         <mark key="^" line="192" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546963638697">
+      <file name="/Dummy.txt" timestamp="1546991468889">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="86" />
+        <mark key="." line="0" column="85" />
+        <mark key="^" line="0" column="85" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceModelBuilder/Controllers/BraceModelBuilderController.cs" timestamp="1546920539597">
         <mark key="[" line="161" column="0" />
@@ -104,12 +105,11 @@
         <mark key="." line="163" column="19" />
         <mark key="^" line="163" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" timestamp="1546990156873">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" timestamp="1546991248264">
         <mark key="'" line="331" column="31" />
-        <mark key="[" line="219" column="17" />
-        <mark key="]" line="220" column="15" />
-        <mark key="^" line="220" column="15" />
-        <mark key="." line="220" column="15" />
+        <mark key="[" line="369" column="0" />
+        <mark key="]" line="369" column="71" />
+        <mark key="." line="369" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" timestamp="1546812765260">
         <mark key="[" line="26" column="77" />
@@ -299,7 +299,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">SXJwIExhYmVscyArIExheWVyIGFsaWduZXIgY291bnRzICsgR28gYmFjayB0byB2aXN1YWxpc2F0aW9uIGFmdGVyIHNhdmUgaW4gd2ViZ2wgc2V0dXAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">e3N0YXJ0QWxpZ25lckluZGV4fSA=</text>
@@ -307,38 +307,38 @@
       <register name="/" type="4">
         <text>Deformer</text>
       </register>
-      <register name="0" type="4">
-        <text>braceService</text>
+      <register name="0" type="2">
+        <text encoding="base64">SXJwIExhYmVscyArIExheWVyIGFsaWduZXIgY291bnRzICsgR28gYmFjayB0byB2aXN1YWxpc2F0aW9uIGFmdGVyIHNhdmUgaW4gd2ViZ2wgc2V0dXAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5HZXQ8U3RhZ2VTZXJ2aWNlPigpLlNldFN0YWdlPFZpc3VhbGl6YXRpb25TdGFnZT4oKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdmFyIGJyYWNlU2VydmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJQ2FsY3VsYXRpb25SZXN1bHRzLkNsZWFyKCk7CgkJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlwdWJsaWMgdm9pZCBDbGVhckNhbGN1bGF0aW9uUmVzdWx0cygpCgkJewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdmFyIGJyYWNlU2VydmljZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJQ2FsY3VsYXRpb25SZXN1bHRzLkNsZWFyKCk7CgkJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlwdWJsaWMgdm9pZCBDbGVhckNhbGN1bGF0aW9uUmVzdWx0cygpCgkJewoJCQlDYWxjdWxhdGlvblJlc3VsdHMuQ2xlYXIoKTsKCQl9Cg==</text>
+        <text encoding="base64">CQlwdWJsaWMgdm9pZCBDbGVhckNhbGN1bGF0aW9uUmVzdWx0cygpCgkJewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
