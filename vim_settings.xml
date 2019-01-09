@@ -125,12 +125,12 @@
         <mark key="." line="26" column="86" />
         <mark key="^" line="26" column="86" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547043835269">
-        <mark key="'" line="216" column="55" />
-        <mark key="[" line="39" column="24" />
-        <mark key="]" line="39" column="47" />
-        <mark key="^" line="39" column="47" />
-        <mark key="." line="39" column="47" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547049200659">
+        <mark key="'" line="197" column="59" />
+        <mark key="[" line="197" column="58" />
+        <mark key="]" line="197" column="59" />
+        <mark key="^" line="197" column="59" />
+        <mark key="." line="197" column="59" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/TwoPointMark.cs" timestamp="1546954324638">
         <mark key="[" line="41" column="9" />
@@ -195,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="29" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
       <jump line="333" column="26" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
       <jump line="18" column="23" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
       <jump line="10" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/WebApiService.cs" />
@@ -295,13 +294,14 @@
       <jump line="59" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
       <jump line="47" column="18" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ProgressBarService.cs" />
       <jump line="48" column="19" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ProgressBarService.cs" />
+      <jump line="197" column="59" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTaG91bGRSZW1lc2hcPg==</text>
