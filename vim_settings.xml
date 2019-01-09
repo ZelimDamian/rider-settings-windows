@@ -33,17 +33,23 @@
         <mark key="." line="126" column="41" />
         <mark key="^" line="220" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Controllers/SceneConfig.cs" timestamp="1547066183873">
-        <mark key="[" line="38" column="45" />
-        <mark key="]" line="38" column="63" />
-        <mark key="." line="38" column="63" />
-        <mark key="^" line="38" column="63" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationController.cs" timestamp="1547070899750">
+        <mark key="'" line="148" column="26" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/CameraService.cs" timestamp="1547066431333">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="51" column="50" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Controllers/SceneConfig.cs" timestamp="1547070782325">
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="44" />
+        <mark key="." line="34" column="44" />
+        <mark key="^" line="34" column="44" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/CameraService.cs" timestamp="1547070734336">
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="32" column="37" />
+        <mark key="." line="34" column="37" />
+        <mark key="^" line="34" column="37" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/TopMenu/TopMenuContainerComponent.cs" timestamp="1547064369168">
         <mark key="'" line="7" column="0" />
@@ -98,6 +104,9 @@
         <mark key="]" line="18" column="102" />
         <mark key="^" line="18" column="102" />
         <mark key="." line="18" column="102" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationSceneConfig.cs" timestamp="1547070854556">
+        <mark key="'" line="23" column="17" />
       </file>
       <file name="/LaplacianMeshDeformer.cs" timestamp="1546733490026">
         <mark key="'" line="215" column="12" />
@@ -193,12 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="94" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
-      <jump line="55" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
-      <jump line="220" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" />
-      <jump line="161" column="30" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceModelBuilder/Controllers/BraceModelBuilderController.cs" />
-      <jump line="132" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
-      <jump line="79" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="94" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" />
       <jump line="60" column="30" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SavingService.cs" />
       <jump line="71" column="55" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SavingService.cs" />
@@ -293,58 +296,64 @@
       <jump line="222" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/FContext.cs" />
       <jump line="83" column="25" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/FContext.cs" />
       <jump line="31" column="23" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/FContext.cs" />
+      <jump line="25" column="17" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationController.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationController.cs" />
+      <jump line="154" column="26" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationController.cs" />
+      <jump line="14" column="17" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationSceneConfig.cs" />
+      <jump line="9" column="42" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationSceneConfig.cs" />
+      <jump line="23" column="17" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationSceneConfig.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>children</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgVHplcmdpdHkuTW9kdWxlcy5Db21tb24uVXRpbGl0aWVzLk1lc2hPcHM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>children</text>
+        <text>RecreateAllCameras();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW1UcmFja2VyXD4=</text>
+        <text>Camera</text>
       </register>
-      <register name="0" type="4">
-        <text>MainCameraName</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FtZXJhU2VydmljZS5SZWNyZWF0ZUFsbENhbWVyYXMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIG1lbnUuCg==</text>
+        <text encoding="base64">dXNpbmcgVHplcmdpdHkuTW9kdWxlcy5Db21tb24uVXRpbGl0aWVzLk1lc2hPcHM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrLkNvbnN0cmFpbnRzOwo=</text>
+        <text encoding="base64">dXNpbmcgVHplcmdpdHkuTW9kdWxlcy5Db21tb24uVXRpbGl0aWVzLkhlbHBlcnMuV2F5cG9pbnRDdXJ2ZXM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLy8gVE9ETzogcGljayB0aGUgdHdvIGNhbWVyYXMK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJdmFyIGRlZmF1bHRDYW1lcmEgPSBjYW1lcmFzLkZpcnN0KCkuVmFsdWU7Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkRpYWdub3N0aWNzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlwdWJsaWMgdm9pZCBDcmVhdGVNYWluQ2FtZXJhKCkKCQl7CgkJfQo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">CQkJCgkJCQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjYW1lcmFQcmVmYWIgPSBSZXNvdXJjZXMuTG9hZDxDYW1lcmE+KCJQcmVmYWJzL01haW5DYW1lcmEiKTsKICAgICAgICAgICAgICAgIEluc3RhbnRpYXRlKGNhbWVyYVByZWZhYik7</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJaWYgKENhbWVyYS5tYWluLm5hbWUgPT0gZGVmYXVsdENhbWVyYS5uYW1lKQoJCQl7CgkJCQlDYW1lcmEubWFpbiA9IGVmZmVjdHNDYW1lcmE7CgkJCX0K</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW1UcmFja2VyXD4=</last-search>
+      <last-search>Camera</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW1UcmFja2VyXD4=</last-pattern>
+      <last-pattern>Camera</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -369,9 +378,9 @@
         <entry>Next</entry>
         <entry encoding="base64">XDxOZXh0U3RlcFw+</entry>
         <entry encoding="base64">XDxzbW9vdGhSb2lcPg==</entry>
-        <entry>Camera</entry>
         <entry encoding="base64">XDxtYWluQ2FtZXJhXD4=</entry>
         <entry encoding="base64">XDxjYW1UcmFja2VyXD4=</entry>
+        <entry>Camera</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
