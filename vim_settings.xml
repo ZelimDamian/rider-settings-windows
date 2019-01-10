@@ -128,10 +128,10 @@
         <mark key="^" line="18" column="102" />
         <mark key="." line="18" column="102" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/WebUploadService.cs" timestamp="1547111956046">
-        <mark key="[" line="190" column="67" />
-        <mark key="]" line="190" column="67" />
-        <mark key="." line="190" column="67" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/WebUploadService.cs" timestamp="1547112225941">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
         <mark key="^" line="190" column="67" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SavingService.cs" timestamp="1547111082219" />
@@ -417,11 +417,11 @@
       <jump line="97" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/AttachmentTypeService.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsaWVudC5DaGFuZ2VEaXJlY3RvcnkoZm9sZGVyTmFtZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXJ2aWNlXD4=</text>
