@@ -113,11 +113,12 @@
         <mark key="." line="357" column="68" />
         <mark key="^" line="133" column="85" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" timestamp="1547105423663">
-        <mark key="[" line="79" column="30" />
-        <mark key="]" line="79" column="55" />
-        <mark key="." line="79" column="55" />
-        <mark key="^" line="79" column="55" />
+      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" timestamp="1547106199134">
+        <mark key="'" line="42" column="27" />
+        <mark key="[" line="78" column="55" />
+        <mark key="]" line="78" column="55" />
+        <mark key="." line="78" column="55" />
+        <mark key="^" line="78" column="55" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Controllers/SceneConfig.cs" timestamp="1547070782325">
         <mark key="[" line="34" column="26" />
@@ -237,6 +238,9 @@
         <mark key="." line="53" column="11" />
         <mark key="^" line="53" column="11" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" timestamp="1547106097650">
+        <mark key="'" line="55" column="28" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BlendShapeService.cs" timestamp="1546962998564">
         <mark key="'" line="22" column="69" />
         <mark key="[" line="6" column="0" />
@@ -281,11 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceCreation/Controllers/BraceCreationController.cs" />
-      <jump line="94" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceCreation/Controllers/BraceCreationController.cs" />
-      <jump line="69" column="0" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
-      <jump line="198" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
-      <jump line="35" column="59" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/AlignerNumberService.cs" />
       <jump line="75" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
       <jump line="86" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
       <jump line="111" column="53" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/AlignerNumberService.cs" />
@@ -381,16 +380,21 @@
       <jump line="71" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/PatientList/PatientList.cs" />
       <jump line="77" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/PatientList/PatientList.cs" />
       <jump line="30" column="11" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/Controllers/VisualizationController.cs" />
+      <jump line="78" column="76" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
+      <jump line="314" column="28" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
+      <jump line="55" column="28" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
+      <jump line="27" column="16" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
+      <jump line="42" column="27" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://localhost:5000</text>
+        <text encoding="base64">ICsgIi9VbFV0VlVsTExUQXdNVFV4THpBd01ETXgiOw==</text>
       </register>
       <register name="-" type="4">
-        <text>http://localhost:5000</text>
+        <text encoding="base64">ICsgIi9VbFV0VlVsTExUQXdNVFV4THpBd01ETXgiOw==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQYXRpZW50c1w+</text>
+        <text encoding="base64">XDxKYXdEaXNwbGFjZW1lbnRTZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb21haW4gPSAiaHR0cDovL3Zpc3VhbGlzYXRpb24uM2RtZWQuY29tLyIgKyBkb21haW4gKyAiL1VsVXRWVWxMTFRBd01UVXhMekF3TURNdyI7Cg==</text>
@@ -430,18 +434,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQYXRpZW50c1w+</last-search>
+      <last-search encoding="base64">XDxKYXdEaXNwbGFjZW1lbnRTZXJ2aWNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQYXRpZW50c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxKYXdEaXNwbGFjZW1lbnRTZXJ2aWNlXD4=</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxQbGFjZU9uVGVldGhcPg==</last-substitute>
+      <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXdSb2lcPg==</entry>
-        <entry encoding="base64">XDxTaG91bGRSZW1lc2hcPg==</entry>
         <entry>Next</entry>
         <entry encoding="base64">XDxOZXh0U3RlcFw+</entry>
         <entry encoding="base64">XDxzbW9vdGhSb2lcPg==</entry>
@@ -460,6 +462,8 @@
         <entry encoding="base64">XDxIaWRlU29cPg==</entry>
         <entry encoding="base64">XDxGdWxsUGF0aWVudHNcPg==</entry>
         <entry encoding="base64">XDxQYXRpZW50c1w+</entry>
+        <entry encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</entry>
+        <entry encoding="base64">XDxKYXdEaXNwbGFjZW1lbnRTZXJ2aWNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
