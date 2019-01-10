@@ -189,7 +189,12 @@
         <mark key="." line="357" column="68" />
         <mark key="^" line="133" column="85" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" timestamp="1547102262627" />
+      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" timestamp="1547104258338">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="50" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="79" column="46" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/OriginSetup/Controllers/OriginSetupController.cs" timestamp="1546876947466">
         <mark key="[" line="192" column="0" />
         <mark key="]" line="192" column="0" />
@@ -253,6 +258,12 @@
         <mark key="]" line="9" column="67" />
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="67" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/VisualizationController.cs" timestamp="1547104495493">
+        <mark key="[" line="52" column="60" />
+        <mark key="]" line="53" column="11" />
+        <mark key="." line="53" column="11" />
+        <mark key="^" line="53" column="11" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" timestamp="1547096476939">
         <mark key="'" line="49" column="25" />
@@ -373,43 +384,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>Vector3f.Zero</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQYXRpZW50c1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>FullPatients</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb21haW4gPSAiaHR0cDovL3Zpc3VhbGlzYXRpb24uM2RtZWQuY29tLyIgKyBkb21haW4gKyAiL1VsVXRWVWxMTFRBd01UVXhMekF3TURNdyI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2NlbmUuQWN0aXZlQ2FtZXJhLk1hbmlwdWxhdG9yKCkuU2NlbmVSb3RhdGVBcm91bmQoU2NlbmUsIFF1YXRlcm5pb25mLkF4aXNBbmdsZUQoVmVjdG9yM2YuQXhpc1ksIDkwLjBmKSwgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgU2VydmljZS5HZXQ8QXR0YWNobWVudFNlcnZpY2U+KCkuU2hvd0FsbChTY2VuZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2FtZXJhLm1haW4udHJhbnNmb3JtLlJvdGF0ZUFyb3VuZChWZWN0b3IzLnplcm8sIFZlY3RvcjMudXAsIDkwLjBmKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8VG9vdGhDb250b3VyU2VydmljZT4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB2YWx1ZSA9IE1vZGVsLlRoaWNrbmVzczsKICAgICAgICAgICAgICAgIGxhYmVsTWVzaC5UZXh0ID0gdmFsdWUuVG9TdHJpbmcoIi4wMCIsIG5ldyBOdW1iZXJGb3JtYXRJbmZvIHsgTnVtYmVyRGVjaW1hbFNlcGFyYXRvciA9ICIuIiB9KTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2NlbmUuQWN0aXZlQ2FtZXJhLk1hbmlwdWxhdG9yKCkuU2NlbmVSb3RhdGVBcm91bmQoU2NlbmUsIFF1YXRlcm5pb25mLkF4aXNBbmdsZUQoVmVjdG9yM2YuQXhpc1ksIDkwLjBmKSwgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2FtZXJhLm1haW4udHJhbnNmb3JtLlJvdGF0ZUFyb3VuZChWZWN0b3IzLnplcm8sIFZlY3RvcjMudXAsIDkwLjBmKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxhYmVsTWVzaCAhPSBudWxsICYmIGxhYmVsTWVzaC5nYW1lT2JqZWN0ICE9IG51bGwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB2YWx1ZSA9IE1vZGVsLlRoaWNrbmVzczsKICAgICAgICAgICAgICAgIGxhYmVsTWVzaC5UZXh0ID0gdmFsdWUuVG9TdHJpbmcoIi4wMCIsIG5ldyBOdW1iZXJGb3JtYXRJbmZvIHsgTnVtYmVyRGVjaW1hbFNlcGFyYXRvciA9ICIuIiB9KTsKCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
