@@ -471,7 +471,7 @@
         <text encoding="base64">CQkjcmVnaW9uIFNhdmluZwoKCQlwdWJsaWMgb3ZlcnJpZGUgdm9pZCBPbkFmdGVyU2F2ZShzdHJpbmcgcGF0aCkKCQl7CgkJCWJhc2UuT25BZnRlclNhdmUocGF0aCk7CiAgICAgICAgICAgIFN0b3JlQWxsTW9kZWxzKHBhdGgpOwogICAgICAgICAgICBTZXJ2aWNlLkdldDxMaWdhdHVyZVR5cGVTZXJ2aWNlPigpLlN0b3JlQWxsTW9kZWxzKGZpbGVwYXRoKTsKCQl9CgoJCSNlbmRyZWdpb24K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -513,9 +513,9 @@
         <entry>waa</entry>
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wa</entry>
         <entry>ww</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
