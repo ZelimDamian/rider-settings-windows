@@ -221,6 +221,13 @@
         <mark key="[" line="273" column="0" />
         <mark key="]" line="274" column="72" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" timestamp="1547255165155">
+        <mark key="'" line="98" column="16" />
+        <mark key="[" line="236" column="74" />
+        <mark key="]" line="236" column="77" />
+        <mark key="^" line="236" column="77" />
+        <mark key="." line="236" column="77" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/SceneObjects/IrpSO.cs" timestamp="1547097594207">
         <mark key="'" line="65" column="12" />
         <mark key="[" line="140" column="0" />
@@ -310,12 +317,12 @@
         <mark key="." line="26" column="86" />
         <mark key="^" line="26" column="86" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547252856061">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547255539237">
         <mark key="'" line="126" column="40" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="83" column="87" />
-        <mark key="." line="73" column="0" />
+        <mark key="[" line="81" column="85" />
+        <mark key="]" line="81" column="97" />
+        <mark key="^" line="81" column="97" />
+        <mark key="." line="81" column="97" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshPushVertsAlongNormalsUtility.cs" timestamp="1547052347409">
         <mark key="[" line="9" column="62" />
@@ -357,16 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/view/CameraTracking.cs" />
-      <jump line="119" column="25" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/view/CameraTracking.cs" />
-      <jump line="89" column="25" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/FContext.cs" />
-      <jump line="93" column="25" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/FContext.cs" />
-      <jump line="221" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/FContext.cs" />
-      <jump line="222" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/FContext.cs" />
-      <jump line="83" column="25" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/FContext.cs" />
-      <jump line="31" column="23" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/FContext.cs" />
-      <jump line="25" column="17" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationController.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationController.cs" />
       <jump line="154" column="26" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationController.cs" />
       <jump line="14" column="17" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationSceneConfig.cs" />
       <jump line="9" column="42" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationSceneConfig.cs" />
@@ -457,58 +454,68 @@
       <jump line="601" column="8" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="199" column="49" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="40" column="125" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="260" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
+      <jump line="238" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
+      <jump line="155" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
+      <jump line="152" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
+      <jump line="144" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
+      <jump line="140" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
+      <jump line="136" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
+      <jump line="133" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
+      <jump line="129" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
+      <jump line="98" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>layoutElement</text>
+        <text>Colorf.Cyan</text>
       </register>
       <register name="-" type="4">
-        <text>Edges</text>
+        <text>Colorf.Cyan</text>
       </register>
       <register name="/" type="4">
-        <text>Compact</text>
+        <text encoding="base64">XDxEcmF3UG9pbnRzQXNMaW5lc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>layoutElement</text>
+        <text>color</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIHZvaWQgU2V0UGF0aWVudChQYXRpZW50IHBhdGllbnQpCiAgICAgICAgewogICAgICAgICAgICB0aGlzLlBhdGllbnQgPSBwYXRpZW50OwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Compact</last-search>
+      <last-search encoding="base64">XDxEcmF3UG9pbnRzQXNMaW5lc1w+</last-search>
       <last-offset />
-      <last-pattern>Compact</last-pattern>
+      <last-pattern encoding="base64">XDxEcmF3UG9pbnRzQXNMaW5lc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -516,7 +523,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQYXRpZW50c1w+</entry>
         <entry encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</entry>
         <entry encoding="base64">XDxKYXdEaXNwbGFjZW1lbnRTZXJ2aWNlXD4=</entry>
         <entry>AfterSave</entry>
@@ -536,6 +542,7 @@
         <entry encoding="base64">XDx2ZXJ0aWNlc1w+</entry>
         <entry>Blue</entry>
         <entry>Compact</entry>
+        <entry encoding="base64">XDxEcmF3UG9pbnRzQXNMaW5lc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
@@ -545,8 +552,8 @@
         <entry>qa</entry>
         <entry>ww</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
