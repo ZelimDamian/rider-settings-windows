@@ -42,12 +42,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3_debug.cs" timestamp="1547164905023" />
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" timestamp="1547304651540">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" timestamp="1547305160774">
         <mark key="'" line="247" column="28" />
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="238" column="0" />
-        <mark key="." line="238" column="0" />
-        <mark key="^" line="237" column="21" />
+        <mark key="[" line="230" column="96" />
+        <mark key="]" line="230" column="104" />
+        <mark key="." line="230" column="104" />
+        <mark key="^" line="230" column="104" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationController.cs" timestamp="1547143392739">
         <mark key="'" line="171" column="16" />
@@ -483,17 +483,17 @@
       <jump line="254" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>source</text>
       </register>
       <register name="-" type="4">
-        <text>var closestNeighInSource =</text>
+        <text>source</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXROZXh0VmVydGV4XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>closestNeighInSourceIndex</text>
+        <text>candidates</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -526,7 +526,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobmV4dFZpZCAhPSAwKQogICAgICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -569,8 +569,9 @@
         <entry>qa</entry>
         <entry>ww</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
+        <entry>wwa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
