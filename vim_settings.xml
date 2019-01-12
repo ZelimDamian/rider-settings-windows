@@ -42,12 +42,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3_debug.cs" timestamp="1547164905023" />
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" timestamp="1547306222178">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" timestamp="1547315591718">
         <mark key="'" line="275" column="50" />
-        <mark key="[" line="251" column="57" />
-        <mark key="]" line="251" column="69" />
-        <mark key="." line="251" column="69" />
-        <mark key="^" line="251" column="69" />
+        <mark key="[" line="107" column="48" />
+        <mark key="]" line="107" column="54" />
+        <mark key="." line="107" column="54" />
+        <mark key="^" line="107" column="54" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationController.cs" timestamp="1547143392739">
         <mark key="'" line="171" column="16" />
@@ -484,16 +484,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0.0001f</text>
+        <text>1.0</text>
       </register>
       <register name="-" type="4">
-        <text>0.0001f</text>
+        <text>1.0</text>
       </register>
       <register name="/" type="4">
         <text>Small</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmV2aW91c0lkID0gY3VycmVudElkOwo=</text>
+      <register name="0" type="4">
+        <text>resolution</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByZQo=</text>
