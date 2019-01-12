@@ -345,12 +345,12 @@
         <mark key="." line="26" column="86" />
         <mark key="^" line="26" column="86" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547330842139">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547333857222">
         <mark key="'" line="356" column="21" />
-        <mark key="[" line="332" column="60" />
-        <mark key="]" line="332" column="60" />
-        <mark key="^" line="332" column="60" />
-        <mark key="." line="332" column="60" />
+        <mark key="[" line="119" column="67" />
+        <mark key="]" line="119" column="72" />
+        <mark key="^" line="119" column="72" />
+        <mark key="." line="119" column="72" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshPushVertsAlongNormalsUtility.cs" timestamp="1547052347409">
         <mark key="[" line="9" column="62" />
@@ -364,7 +364,7 @@
         <mark key="." line="53" column="11" />
         <mark key="^" line="53" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" timestamp="1547233495874">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" timestamp="1547333580095">
         <mark key="'" line="26" column="31" />
         <mark key="[" line="82" column="32" />
         <mark key="]" line="82" column="40" />
@@ -494,50 +494,50 @@
       <jump line="178" column="17" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/view/CameraTracking.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKEZQbGF0Zm9ybS5XaWRnZXRDYW1lcmEgPT0gbnVsbCkKICAgICAgICAgICAgewo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>source.First();</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1aUNhbWVyYVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>PickStartPoint</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb250b3Vyc0RlYnVnUmVuZGVyZXIuRHJhd1ZlcnRpY2VzKHVub3JkZXJlZFZlcnRpY2VzLCB0b290aC5NZXNoU28sIENvbG9yZi5WaWRlb1JlZCwgbGVuZ3RoOjAuMjVmKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKEZQbGF0Zm9ybS5XaWRnZXRDYW1lcmEgPT0gbnVsbCkKICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdG9vdGhUb0Jhc2VGcmFtZSA9IGZyYW1lLlRvRnJhbWUodG9vdGguTWVzaFNvLkdldFNjZW5lRnJhbWUoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5NaW5WYWx1ZSh2ID0+IHYuQ291bnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB2ZXJ0aWNlcyA9IHRvb3RoLkNvbnRvdXJMb29wVmVydGljZXM7CiAgICAgICAgICAgICAgICB2YXIgdG9vdGhUb0Jhc2VGcmFtZSA9IGZyYW1lLlRvRnJhbWUodG9vdGguTWVzaFNvLkdldFNjZW5lRnJhbWUoKSk7CiAgICAgICAgICAgICAgICBzcGFuID0gRWRnZVNwYW4uRnJvbVZlcnRpY2VzKHRvb3RoTWVzaCwgdmVydGljZXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -581,8 +581,8 @@
         <entry>ww</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wwa</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
