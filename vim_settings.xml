@@ -333,6 +333,9 @@
         <mark key="." line="163" column="19" />
         <mark key="^" line="163" column="19" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" timestamp="1547292785520">
+        <mark key="'" line="166" column="14" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" timestamp="1546812765260">
         <mark key="[" line="26" column="77" />
         <mark key="]" line="26" column="86" />
@@ -386,9 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="44" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
-      <jump line="418" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
-      <jump line="443" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
       <jump line="18" column="47" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
       <jump line="439" column="90" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
       <jump line="72" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" />
@@ -486,6 +486,9 @@
       <jump line="92" column="44" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/CameraService.cs" />
       <jump line="93" column="20" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/CameraService.cs" />
       <jump line="39" column="25" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/CameraService.cs" />
+      <jump line="292" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
+      <jump line="165" column="14" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
+      <jump line="166" column="14" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -495,7 +498,7 @@
         <text>MainCameraName</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW1lcmFQcmVmYWJcPg==</text>
+        <text encoding="base64">XDxTYXZlTGF5ZXJTdGF0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFyIGNhbWVyYSA9IE9iamVjdC5JbnN0YW50aWF0ZShjYW1lcmFQcmVmYWIpOwovLyAgICAgICAgICAgICAgICBjYW1lcmFzW2NhbWVyYVByZWZhYi5uYW1lXSA9IGNhbWVyYTsKLy8gICAgICAgICAgICAgICAgY2FtZXJhLmdhbWVPYmplY3QuU2V0QWN0aXZlKGZhbHNlKTsK</text>
@@ -535,9 +538,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW1lcmFQcmVmYWJcPg==</last-search>
+      <last-search encoding="base64">XDxTYXZlTGF5ZXJTdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW1lcmFQcmVmYWJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTYXZlTGF5ZXJTdGF0ZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -545,7 +548,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb250b3VyTG9vcFZlcnRpY2VzXD4=</entry>
         <entry encoding="base64">XDxpbnRlcmZhY2VWZXJ0ZXhTZWxlY3Rpb25cPg==</entry>
         <entry>DebugDra</entry>
         <entry encoding="base64">XDxMb2FkU2F2ZUZpbGVcPg==</entry>
@@ -565,6 +567,7 @@
         <entry encoding="base64">XDxSZWNyZWF0ZUFsbENhbWVyYXNcPg==</entry>
         <entry encoding="base64">XDxNYWluQ2FtZXJhRWZmZWN0c1w+</entry>
         <entry encoding="base64">XDxjYW1lcmFQcmVmYWJcPg==</entry>
+        <entry encoding="base64">XDxTYXZlTGF5ZXJTdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
