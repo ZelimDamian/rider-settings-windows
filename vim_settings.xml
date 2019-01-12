@@ -94,7 +94,7 @@
         <mark key="." line="8" column="57" />
         <mark key="^" line="8" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Controllers/SceneConfig.cs" timestamp="1547263148742">
+      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Controllers/SceneConfig.cs" timestamp="1547266155478">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -236,12 +236,12 @@
         <mark key="[" line="273" column="0" />
         <mark key="]" line="274" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/CameraService.cs" timestamp="1547263388388">
-        <mark key="'" line="39" column="25" />
-        <mark key="[" line="104" column="17" />
-        <mark key="]" line="104" column="20" />
-        <mark key="." line="104" column="20" />
-        <mark key="^" line="104" column="20" />
+      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/CameraService.cs" timestamp="1547266343662">
+        <mark key="'" line="41" column="25" />
+        <mark key="[" line="73" column="24" />
+        <mark key="]" line="73" column="39" />
+        <mark key="." line="73" column="39" />
+        <mark key="^" line="73" column="39" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" timestamp="1547258885183">
         <mark key="'" line="140" column="12" />
@@ -489,10 +489,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MainCamera</text>
+        <text>MainCameraName</text>
       </register>
       <register name="-" type="4">
-        <text>MainCamera</text>
+        <text>MainCameraName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW1lcmFQcmVmYWJcPg==</text>
@@ -501,34 +501,34 @@
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFyIGNhbWVyYSA9IE9iamVjdC5JbnN0YW50aWF0ZShjYW1lcmFQcmVmYWIpOwovLyAgICAgICAgICAgICAgICBjYW1lcmFzW2NhbWVyYVByZWZhYi5uYW1lXSA9IGNhbWVyYTsKLy8gICAgICAgICAgICAgICAgY2FtZXJhLmdhbWVPYmplY3QuU2V0QWN0aXZlKGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCgkJCQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FtZXJhU2VydmljZS5DcmVhdGUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJc2V0IHsgIH0K</text>
+        <text encoding="base64">CQkJCXRyeQoJCQkJewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCWNhdGNoIChNaXNzaW5nUmVmZXJlbmNlRXhjZXB0aW9uIGUpCgkJCQl7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCTsK</text>
+        <text encoding="base64">CQkJCQlDcmVhdGVDYW1lcmEoa3YuS2V5KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQkJCQlDcmVhdGVDYW1lcmEoa3YuS2V5KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FtZXJhU2VydmljZS5SZWNyZWF0ZUFsbENhbWVyYXMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZm9yZWFjaCAodmFyIGtleVZhbHVlUGFpciBpbiBjYW1lcmFzKQoJCQl7CgkJCQkKCQkJfQoKCQkJZGVmYXVsdENhbWVyYS5nYW1lT2JqZWN0LlNldEFjdGl2ZSghZGVmYXVsdENhbWVyYS5nYW1lT2JqZWN0LmFjdGl2ZVNlbGYpOwo=</text>
+        <text encoding="base64">CQkJCWt2LlZhbHVlLmdhbWVPYmplY3QuU2V0QWN0aXZlKGZhbHNlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
