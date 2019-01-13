@@ -336,18 +336,18 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" timestamp="1547292785520">
         <mark key="'" line="166" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" timestamp="1546812765260">
-        <mark key="[" line="26" column="77" />
-        <mark key="]" line="26" column="86" />
-        <mark key="." line="26" column="86" />
-        <mark key="^" line="26" column="86" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" timestamp="1547421754591">
+        <mark key="[" line="241" column="35" />
+        <mark key="]" line="241" column="37" />
+        <mark key="." line="241" column="37" />
+        <mark key="^" line="241" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547418580308">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547422139032">
         <mark key="'" line="473" column="67" />
-        <mark key="[" line="545" column="59" />
-        <mark key="]" line="545" column="61" />
-        <mark key="." line="545" column="61" />
-        <mark key="^" line="545" column="61" />
+        <mark key="[" line="234" column="133" />
+        <mark key="]" line="234" column="134" />
+        <mark key="." line="234" column="134" />
+        <mark key="^" line="234" column="134" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshPushVertsAlongNormalsUtility.cs" timestamp="1547052347409">
         <mark key="[" line="9" column="62" />
@@ -494,10 +494,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sourceNeighbourCount</text>
+        <text>2048</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>2048</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWdHhFZGdlc0l0clw+</text>
