@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/GumCreationController.cs" timestamp="1547381466497">
-        <mark key="[" line="162" column="109" />
-        <mark key="]" line="162" column="108" />
-        <mark key="^" line="162" column="108" />
-        <mark key="." line="162" column="108" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/GumCreationController.cs" timestamp="1547405362054">
+        <mark key="[" line="109" column="119" />
+        <mark key="]" line="109" column="140" />
+        <mark key="^" line="109" column="140" />
+        <mark key="." line="109" column="140" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/TwoPointMarking/TwoPointMarkingTool.cs" timestamp="1547082261204">
         <mark key="[" line="59" column="30" />
@@ -108,6 +108,12 @@
         <mark key="]" line="64" column="55" />
         <mark key="." line="49" column="55" />
         <mark key="^" line="49" column="55" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Changes/ReplaceJawSoMeshChange.cs" timestamp="1547404527597">
+        <mark key="[" line="40" column="72" />
+        <mark key="]" line="40" column="84" />
+        <mark key="." line="40" column="84" />
+        <mark key="^" line="40" column="84" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/AttachmentTypeService.cs" timestamp="1547108325489">
         <mark key="[" line="89" column="0" />
@@ -326,11 +332,12 @@
         <mark key="." line="26" column="86" />
         <mark key="^" line="26" column="86" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547395623176">
-        <mark key="'" line="220" column="16" />
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="215" column="24" />
-        <mark key="." line="215" column="24" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547406219010">
+        <mark key="'" line="52" column="16" />
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="271" column="0" />
+        <mark key="." line="271" column="0" />
+        <mark key="^" line="273" column="69" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshPushVertsAlongNormalsUtility.cs" timestamp="1547052347409">
         <mark key="[" line="9" column="62" />
@@ -356,12 +363,12 @@
         <mark key="^" line="173" column="37" />
         <mark key="." line="175" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" timestamp="1547343269311">
-        <mark key="'" line="49" column="25" />
-        <mark key="[" line="255" column="44" />
-        <mark key="]" line="256" column="39" />
-        <mark key="." line="256" column="39" />
-        <mark key="^" line="256" column="39" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" timestamp="1547405029898">
+        <mark key="'" line="265" column="33" />
+        <mark key="[" line="245" column="103" />
+        <mark key="]" line="245" column="117" />
+        <mark key="." line="245" column="103" />
+        <mark key="^" line="245" column="75" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/PatientList/PatientList.cs" timestamp="1547213393642">
         <mark key="'" line="78" column="32" />
@@ -372,12 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/PatientList/PatientList.cs" />
-      <jump line="61" column="64" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/PatientList/PatientList.cs" />
-      <jump line="64" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/PatientList/PatientList.cs" />
-      <jump line="71" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/PatientList/PatientList.cs" />
-      <jump line="77" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/PatientList/PatientList.cs" />
-      <jump line="30" column="11" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/Controllers/VisualizationController.cs" />
       <jump line="78" column="76" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
       <jump line="314" column="28" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
       <jump line="55" column="28" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
@@ -472,58 +473,64 @@
       <jump line="122" column="25" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/view/CameraTracking.cs" />
       <jump line="178" column="17" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/view/CameraTracking.cs" />
       <jump line="216" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
+      <jump line="264" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
+      <jump line="63" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
+      <jump line="245" column="115" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
+      <jump line="64" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
+      <jump line="265" column="33" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
+      <jump line="52" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdG9vdGhOdW1iZXIgPSBwYWlyLktleTsK</text>
       </register>
       <register name="-" type="4">
-        <text>onCutEdgis</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1aUNhbWVyYVw+</text>
+        <text encoding="base64">XDxyb290R3VtVHJpYW5nbGVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNlcnZpY2UuR2V0PFRlZXRoU2VydmljZT4oKS5MaW5rVG9KYXcoamF3KTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICB2YXIgZWRpdG9yID0gbmV3IE1lc2hFZGl0b3IoYmFzZU1lc2gpOwovLyAgICAgICAgICAgICAgICAgICAgICAgIGVkaXRvci5SZW1vdmVUcmlhbmdsZXModGlkID0+IGludGVyaW9yVHJpYW5nbGVzLklzU2VsZWN0ZWQodGlkKSwgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdG9vdGhOdW1iZXIgPSBwYWlyLktleTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyByZW1vdmUgdHJpYW5nbGVzIGluc2lkZSB0aGUgcG9seWdvbgogICAgICAgICAgICAgICAgICAgIHZhciBlZGl0b3IgPSBuZXcgTWVzaEVkaXRvcihiYXNlTWVzaCk7CiAgICAgICAgICAgICAgICAgICAgZWRpdG9yLlJlbW92ZVRyaWFuZ2xlcyh0aWQgPT4gaW50ZXJpb3JUcmlhbmdsZXMuSXNTZWxlY3RlZCh0aWQpLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8gZmxvb2QtZmlsbCBpbnNpZGUgbG9vcCBmcm9tIHNlZWQgdHJpYW5nbGUKICAgICAgICAgICAgICAgICAgICB2YXIgaW50ZXJpb3JUcmlhbmdsZXMgPSBuZXcgTWVzaEZhY2VTZWxlY3Rpb24oYmFzZU1lc2gpOwogICAgICAgICAgICAgICAgICAgIGludGVyaW9yVHJpYW5nbGVzLkZsb29kRmlsbChzZWVkVHJpSWQsIG51bGwsIGVpZCA9PiBvbkN1dEVkZ2VzLkNvbnRhaW5zKGVpZCkgPT0gZmFsc2UpOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gcmVtb3ZlIHRyaWFuZ2xlcyBpbnNpZGUgdGhlIHBvbHlnb24KLy8gICAgICAgICAgICAgICAgICAgICAgICB2YXIgZWRpdG9yID0gbmV3IE1lc2hFZGl0b3IoYmFzZU1lc2gpOwovLyAgICAgICAgICAgICAgICAgICAgICAgIGVkaXRvci5SZW1vdmVUcmlhbmdsZXModGlkID0+IGludGVyaW9yVHJpYW5nbGVzLklzU2VsZWN0ZWQodGlkKSwgZmFsc2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIElFbnVtZXJhYmxlPEVkZ2VTcGFuPiBMaW5rVmVydGljZXMoSUVudW1lcmFibGU8aW50PiB2ZXJ0aWNlcywgRE1lc2gzIGJhc2VNZXNoKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIHNvdXJjZSA9IG5ldyBMaXN0PGludD4odmVydGljZXMpOwoKICAgICAgICAgICAgdmFyIGdldE5leHRWZXJ0ZXggPSBuZXcgRnVuYzxpbnQsIGludD4odmlkID0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBjYW5kaWRhdGVzID0gYmFzZU1lc2gKICAgICAgICAgICAgICAgICAgICAuVnR4VmVydGljZXNJdHIodmlkKQogICAgICAgICAgICAgICAgICAgIC5XaGVyZShuZ2ggPT4gc291cmNlLkNvbnRhaW5zKG5naCkpCiAgICAgICAgICAgICAgICAgICAgLlRvTGlzdCgpOwoKICAgICAgICAgICAgICAgIGlmICghY2FuZGlkYXRlcy5BbnkoKSkgcmV0dXJuIC0xOwogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB2YXIgY2xvc2VzdE5laWdoSW5Tb3VyY2VJbmRleCA9IGNhbmRpZGF0ZXMKICAgICAgICAgICAgICAgICAgICAuTWluSW5kZXgobmdoID0+IGJhc2VNZXNoLkdldFZlcnRleGYobmdoKS5EaXN0YW5jZShiYXNlTWVzaC5HZXRWZXJ0ZXhmKHZpZCkpKTsKCiAgICAgICAgICAgICAgICByZXR1cm4gY2FuZGlkYXRlc1tjbG9zZXN0TmVpZ2hJblNvdXJjZUluZGV4XTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIAogICAgICAgICAgICB2YXIgZ2V0TmV4dFZlcnRleERpcmVjdGVkID0gbmV3IEZ1bmM8aW50LCBWZWN0b3IzZiwgaW50PigodmlkLCBkaXJlY3Rpb24pID0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBjYW5kaWRhdGVzID0gYmFzZU1lc2gKICAgICAgICAgICAgICAgICAgICAuVnR4VmVydGljZXNJdHIodmlkKQogICAgICAgICAgICAgICAgICAgIC8vIHdlJ3JlIG9ubHkgaW50ZXJlc2V0ZWQgaW4gdmVydGljZXMgYWxvbmcgY3V0IGxpbmUKICAgICAgICAgICAgICAgICAgICAuV2hlcmUobmdoID0+IHNvdXJjZS5Db250YWlucyhuZ2gpKQogICAgICAgICAgICAgICAgICAgIC5XaGVyZShuZ2ggPT4KICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vIGlmIHRoaXMgaXMgdGhlIGZpcnN0IHZlcnRleCBpbiBhIHNwYW4gdGhlbiB0aGUgbGVuZ3RoIG9mIHRoZSBkaXIgdmVjdG9yIGlzIHNtYWxsZXN0CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChNYXRoLkFicyhkaXJlY3Rpb24uTGVuZ3RoKSA8IGZsb2F0LkVwc2lsb24pIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICAgICAgICAgICAvLyBtYWtlIHN1cmUgdGhhdCB0aGUgY2FuZGlkYXRlIGlzIGdvaW5nIGZvcndhcmRzIGJhc2VkIG9uIHByZXZpb3VzIHZlcnRleAogICAgICAgICAgICAgICAgICAgICAgICB2YXIgbmdoRGlyID0gYmFzZU1lc2guR2V0VmVydGV4ZihuZ2gpIC0gYmFzZU1lc2guR2V0VmVydGV4Zih2aWQpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZGlyZWN0aW9uLkRvdChuZ2hEaXIpID4gMDsKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC5Ub0xpc3QoKTsKCiAgICAgICAgICAgICAgICBpZiAoIWNhbmRpZGF0ZXMuQW55KCkpIHJldHVybiAtMTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdmFyIGNsb3Nlc3ROZWlnaEluU291cmNlSW5kZXggPSBjYW5kaWRhdGVzCiAgICAgICAgICAgICAgICAgICAgLk1pbkluZGV4KG5naCA9PiBiYXNlTWVzaC5HZXRWZXJ0ZXhmKG5naCkuRGlzdGFuY2UoYmFzZU1lc2guR2V0VmVydGV4Zih2aWQpKSk7CgogICAgICAgICAgICAgICAgcmV0dXJuIGNhbmRpZGF0ZXNbY2xvc2VzdE5laWdoSW5Tb3VyY2VJbmRleF07CiAgICAgICAgICAgIH0pOwogICAgICAgICAgICB2YXIgY3VycmVudElkID0gc291cmNlLkZpcnN0KCk7CiAgICAgICAgICAgIHZhciBwcmV2aW91c0lkID0gY3VycmVudElkOwogICAgICAgICAgICB2YXIgbGlua2VkViA9IG5ldyBMaXN0PGludD4geyBjdXJyZW50SWQgfTsKCiAgICAgICAgICAgIHdoaWxlIChzb3VyY2UuQW55KCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHNvdXJjZS5SZW1vdmUoY3VycmVudElkKTsKCiAgICAgICAgICAgICAgICB2YXIgZGlyZWN0aW9uID0gYmFzZU1lc2guR2V0VmVydGV4ZihjdXJyZW50SWQpIC0gYmFzZU1lc2guR2V0VmVydGV4ZihwcmV2aW91c0lkKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdmFyIG5laWdoID0gZ2V0TmV4dFZlcnRleERpcmVjdGVkKGN1cnJlbnRJZCwgZGlyZWN0aW9uKTsKCiAgICAgICAgICAgICAgICBpZiAobmVpZ2ggIT0gLTEpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgbGlua2VkVi5BZGQobmVpZ2gpOwogICAgICAgICAgICAgICAgICAgIGN1cnJlbnRJZCA9IG5laWdoOwogICAgICAgICAgICAgICAgICAgIHByZXZpb3VzSWQgPSBjdXJyZW50SWQ7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgU2VydmljZS5HZXQ8RGVidWdEcmF3U2VydmljZT4oKS5BZGQoKCkgPT4KLy8gICAgICAgICAgICAgICAgICAgICAgICB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBuIGluIGJhc2VNZXNoLlZ0eFZlcnRpY2VzSXRyKGN1cnJlbnRJZCkpCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHlpZWxkIHJldHVybiBFZGdlU3Bhbi5Gcm9tVmVydGljZXMoYmFzZU1lc2gsIG5ldyBbXSB7IGN1cnJlbnRJZCwgbiB9KTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKLy8gICAgICAgICAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICAgICAgaWYgKGxpbmtlZFYuQ291bnQgPiAxKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgeWllbGQgcmV0dXJuIEVkZ2VTcGFuLkZyb21WZXJ0aWNlcyhiYXNlTWVzaCwgbGlua2VkVik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGVsc2UgaWYgKGxpbmtlZFYuQ291bnQgPT0gMSkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZS5BZGQoY3VycmVudElkKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgaWYgKHNvdXJjZS5BbnkoKSkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbnRJZCA9IHNvdXJjZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLk1pblZhbHVlKG5naCA9PiBiYXNlTWVzaC5HZXRWZXJ0ZXhmKG5naCkuRGlzdGFuY2UoYmFzZU1lc2guR2V0VmVydGV4ZihjdXJyZW50SWQpKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHByZXZpb3VzSWQgPSBjdXJyZW50SWQ7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIGxpbmtlZFYuQ2xlYXIoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHRyaUNlbnRyb2lkID0gcGxhbmVGcmFtZS5Ub0ZyYW1lUChiYXNlTWVzaC5HZXRUcmlDZW50cm9pZCh0SWQpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlcnZpY2UgPSBTZXJ2aWNlLkZpbmRCeVR5cGU8U3RvcmFnZVNlcnZpY2U8VE1vZGVsPj4oKTsKICAgICAgICAgICAgaWYgKHNlcnZpY2UgPT0gbnVsbCkgcmV0dXJuIE9wU3RhdHVzLkZhaWxlZCgkIk1pc3Npbmcgc2VydmljZSBmb3Ige3R5cGVvZihUTW9kZWwpLk5hbWV9Iik7CgogICAgICAgICAgICBzZXJ2aWNlLlJlbW92ZShNb2RlbCk7CiAgICAgICAgICAgIAogICAgICAgICAgICByZXR1cm4gT3BTdGF0dXMuU3VjY2VzczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb250b3Vyc0RlYnVnUmVuZGVyZXIuRHJhd0VkZ2VzKGpvaW5lZExvb3AuRWRnZXMsIHRvb3RoLk1lc2hTbywgQ29sb3JmLlZpZGVvR3JlZW4pOwogICAgICAgICAgICAgICAgICAgIENvbnRvdXJzRGVidWdSZW5kZXJlci5EcmF3VmVydGljZXModW5vcmRlcmVkVmVydGljZXMsIHRvb3RoLk1lc2hTbywgQ29sb3JmLlZpZGVvUmVkLCBsZW5ndGg6MC4yNWYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHRocm93Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1aUNhbWVyYVw+</last-search>
+      <last-search encoding="base64">XDxyb290R3VtVHJpYW5nbGVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1aUNhbWVyYVw+</last-pattern>
+      <last-pattern encoding="base64">XDxyb290R3VtVHJpYW5nbGVzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -531,10 +538,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Debug</entry>
-        <entry encoding="base64">XDxEZWJ1Z1JlbmRlclw+</entry>
-        <entry encoding="base64">XDxKYXdGcmFtZVNcPg==</entry>
-        <entry>PickPatient</entry>
         <entry encoding="base64">XDxTaWRlSG9sZUVkZ2VzXD4=</entry>
         <entry encoding="base64">XDx2ZXJ0aWNlc1w+</entry>
         <entry>Compact</entry>
@@ -551,6 +554,10 @@
         <entry>Small</entry>
         <entry encoding="base64">XDxMaW5rVmVydGljZXNcPg==</entry>
         <entry encoding="base64">XDx1aUNhbWVyYVw+</entry>
+        <entry encoding="base64">XDxSZW1vdmVSb290R3Vtc1w+</entry>
+        <entry encoding="base64">XDxTaG91bGRSZW1lc2hcPg==</entry>
+        <entry encoding="base64">XDxTaG91bGRSZW1vdmVSb290R3Vtc1w+</entry>
+        <entry encoding="base64">XDxyb290R3VtVHJpYW5nbGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
@@ -560,8 +567,8 @@
         <entry>qa</entry>
         <entry>ww</entry>
         <entry>wwa</entry>
-        <entry>wa</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -636,6 +643,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
