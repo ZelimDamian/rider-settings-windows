@@ -161,6 +161,9 @@
         <mark key="^" line="619" column="21" />
         <mark key="." line="619" column="21" />
       </file>
+      <file name="/Dummy.txt" timestamp="1547430020843">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/TopMenuService.cs" timestamp="1547343919220">
         <mark key="[" line="116" column="21" />
         <mark key="]" line="116" column="21" />
@@ -173,8 +176,11 @@
         <mark key="." line="163" column="19" />
         <mark key="^" line="163" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" timestamp="1547292785520">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" timestamp="1547430294069">
         <mark key="'" line="166" column="14" />
+        <mark key="[" line="373" column="0" />
+        <mark key="]" line="373" column="24" />
+        <mark key="." line="373" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" timestamp="1547421754591">
         <mark key="[" line="241" column="35" />
@@ -320,7 +326,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2VydmljZS5HZXQ8RGVidWdEcmF3U2VydmljZT4oKS5BZGQoKCkgPT4KICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29udG91cnNEZWJ1Z1JlbmRlcmVyLkRyYXdFZGdlcyhsb29wLkVkZ2VzLCBTZXJ2aWNlLkdldDxKYXdzU2VydmljZT4oKS5HZXQoc2lkZSkuTWVzaFNvLCBDb2xvcmYuR29sZCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRGVidWcuTG9nRXJyb3IoZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFNlcnZpY2UuR2V0PFNjZW5lU2VydmljZT4oKS5TY2VuZS5Db250ZXh0LlRvb2xNYW5hZ2VyLkFjdGl2ZVJpZ2h0VG9vbCBpcyBHZW5lcmF0ZUd1bVN0cmV0Y2hDdXJ2ZVRvb2w7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWZ0ZXJTYXZlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>10</text>
@@ -329,7 +335,7 @@
         <text encoding="base64">XDxSb290VHJpYW5nbGVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2VydmljZS5HZXQ8RGVidWdEcmF3U2VydmljZT4oKS5BZGQoKCkgPT4KICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29udG91cnNEZWJ1Z1JlbmRlcmVyLkRyYXdFZGdlcyhsb29wLkVkZ2VzLCBTZXJ2aWNlLkdldDxKYXdzU2VydmljZT4oKS5HZXQoc2lkZSkuTWVzaFNvLCBDb2xvcmYuR29sZCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRGVidWcuTG9nRXJyb3IoZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFNlcnZpY2UuR2V0PFNjZW5lU2VydmljZT4oKS5TY2VuZS5Db250ZXh0LlRvb2xNYW5hZ2VyLkFjdGl2ZVJpZ2h0VG9vbCBpcyBHZW5lcmF0ZUd1bVN0cmV0Y2hDdXJ2ZVRvb2w7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWZ0ZXJTYXZlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU2VydmljZS5HZXQ8SmF3c1NlcnZpY2U+KCkuR2V0KHNpZGUpLk1lc2hTbywgbGVuZ3RoOiAzLjBmLCBjb2xvcjogQ29sb3JmLlJlZCk7Cg==</text>
@@ -362,7 +368,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -406,8 +412,8 @@
         <entry>ww</entry>
         <entry>wwa</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
