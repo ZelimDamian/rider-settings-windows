@@ -74,11 +74,11 @@
         <mark key="^" line="33" column="49" />
         <mark key="." line="33" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" timestamp="1547499593333">
-        <mark key="'" line="69" column="34" />
-        <mark key="[" line="89" column="39" />
-        <mark key="]" line="89" column="39" />
-        <mark key="." line="89" column="39" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" timestamp="1547502825946">
+        <mark key="'" line="89" column="20" />
+        <mark key="[" line="109" column="56" />
+        <mark key="]" line="109" column="56" />
+        <mark key="." line="109" column="56" />
         <mark key="^" line="7" column="77" />
       </file>
       <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Controllers/BaseCockpit.cs" timestamp="1547261836279">
@@ -213,12 +213,11 @@
         <mark key="[" line="490" column="20" />
         <mark key="]" line="490" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" timestamp="1547499912687">
-        <mark key="'" line="251" column="101" />
-        <mark key="[" line="245" column="20" />
-        <mark key="]" line="245" column="25" />
-        <mark key="." line="245" column="25" />
-        <mark key="^" line="245" column="25" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" timestamp="1547504165184">
+        <mark key="'" line="91" column="21" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/WebApiService.cs" timestamp="1547498314785" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/WebUploadService.cs" timestamp="1547112225941">
@@ -235,13 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
-      <jump line="133" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
-      <jump line="129" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
-      <jump line="98" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
-      <jump line="268" column="33" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" />
-      <jump line="136" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
-      <jump line="140" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" />
       <jump line="32" column="20" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/CameraService.cs" />
       <jump line="88" column="38" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/CameraService.cs" />
       <jump line="92" column="44" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/CameraService.cs" />
@@ -335,58 +327,87 @@
       <jump line="41" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
       <jump line="51" column="24" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
       <jump line="245" column="101" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
+      <jump line="89" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" />
+      <jump line="49" column="11" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
+      <jump line="225" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
+      <jump line="227" column="17" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
+      <jump line="146" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
+      <jump line="89" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
+      <jump line="92" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SmoothIterations</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHsgZ2V0OyBzZXQ7IH0=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTaG91bGRSZW1vdmVSb290R3Vtc1w+</text>
+        <text encoding="base64">XDxDcmVhdGVCYXNlTWVzaFByZXZpZXdTb1w+</text>
       </register>
       <register name="0" type="4">
         <text>SmoothIterations</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRnJhbWUgPSAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZS5TZXR1cCgpOwogICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgSmF3U2lkZSBTaWRlID0gSmF3U2lkZS5VcHBlcjsKICAgICAgICBwdWJsaWMgZmxvYXQgSGVpZ2h0ID0gMS4wZjsKICAgICAgICBwdWJsaWMgZmxvYXQgUmVzb2x1dGlvbiA9IDAuNjVmOwogICAgICAgIHB1YmxpYyBmbG9hdCBCdWxnZUFtb3VudCA9IDAuM2Y7CiAgICAgICAgcHVibGljIGJvb2wgU2hvdWxkUmVtZXNoID0gdHJ1ZTsKICAgICAgICBwdWJsaWMgYm9vbCBTaG91bGRSZW1vdmVSb290R3VtcyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      <register name="5" type="4">
+        <text>new Model
+            {
+                Side = model.Side,
+                Frame = previewSo.GetSceneFrame(),
+                Mesh = previewSo.Mesh,
+                Height = model.Height,
+                Scale = previewSo.GetLocalScale(),
+                ShouldRemesh = model.ShouldRemesh,
+                Resolution = model.Resolution,
+                BulgeAmount = model.BulgeAmount,
+                ShouldRemoveRootGums = model.ShouldRemoveRootGums,
+                RemeshIterations = model.RemeshIterations
+            }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIHNwYW4gaW4gcGxhbmVDdXRMb29wLikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNjYWxlID0gVmVjdG9yM2YuT25lLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwgPSBuZXcgTW9kZWwoKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBTaWRlID0gSmF3U2lkZS5VcHBlciwKICAgICAgICAgICAgICAgIEhlaWdodCA9IDEuMmYsCiAgICAgICAgICAgICAgICBSZXNvbHV0aW9uID0gMC44MGYsCiAgICAgICAgICAgICAgICBTY2FsZSA9IFZlY3RvcjNmLk9uZSwKICAgICAgICAgICAgICAgIFNob3VsZFJlbWVzaCA9IHRydWUsCiAgICAgICAgICAgICAgICBCdWxnZUFtb3VudCA9IDAuNWYsCiAgICAgICAgICAgICAgICBTaG91bGRSZW1vdmVSb290R3VtcyA9IGZhbHNlLAogICAgICAgICAgICAgICAgUmVtZXNoSXRlcmF0aW9ucyA9IDQKICAgICAgICAgICAgfTsKICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1lc2hQbGFuZUN1dHRpbmcuRmlsbEN1dExvb3AocGxhbmVDdXRMb29wLCBiYXNlTWVzaCwgbmV3IEZyYW1lM2Yob3JpZ2luTCwgbm9ybWFsTCkpOwo=</text>
+      <register name="9" type="4">
+        <text>= new Model
+        {
+            Side = JawSide.Upper,
+            Height = 1.2f,
+            Resolution = 0.80f,
+            Scale = Vector3f.One,
+            ShouldRemesh = true,
+            BulgeAmount = 0.5f,
+            ShouldRemoveRootGums = false,
+            RemeshIterations = 4
+        };</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTaG91bGRSZW1vdmVSb290R3Vtc1w+</last-search>
+      <last-search encoding="base64">XDxDcmVhdGVCYXNlTWVzaFByZXZpZXdTb1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTaG91bGRSZW1vdmVSb290R3Vtc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxDcmVhdGVCYXNlTWVzaFByZXZpZXdTb1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -394,9 +415,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb290R3VtVHJpYW5nbGVzXD4=</entry>
-        <entry encoding="base64">XDxEZWJ1Z0RyYXdTZXJ2aWNlXD4=</entry>
-        <entry encoding="base64">XDxwbGFuZUN1dExvb3BcPg==</entry>
         <entry encoding="base64">XDxwbGFuZUN1dExvb3BzXD4=</entry>
         <entry encoding="base64">XDxPcmRlclNwYW5zXD4=</entry>
         <entry encoding="base64">XDxFZGdlc1w+</entry>
@@ -414,6 +432,9 @@
         <entry encoding="base64">XDxvdXRlckJvdW5kYXJ5TG9vcHNcPg==</entry>
         <entry encoding="base64">XDxNb2RlbFw+</entry>
         <entry encoding="base64">XDxTaG91bGRSZW1vdmVSb290R3Vtc1w+</entry>
+        <entry encoding="base64">XDxzbW9vdGhJdGVyYXRpb25zXD4=</entry>
+        <entry>Setup</entry>
+        <entry encoding="base64">XDxDcmVhdGVCYXNlTWVzaFByZXZpZXdTb1w+</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
