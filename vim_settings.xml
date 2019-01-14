@@ -188,12 +188,12 @@
         <mark key="." line="241" column="37" />
         <mark key="^" line="241" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547428686690">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547432232346">
         <mark key="'" line="243" column="28" />
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="238" column="27" />
-        <mark key="." line="174" column="120" />
-        <mark key="^" line="174" column="120" />
+        <mark key="[" line="386" column="68" />
+        <mark key="]" line="386" column="68" />
+        <mark key="." line="386" column="68" />
+        <mark key="^" line="386" column="68" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshPushVertsAlongNormalsUtility.cs" timestamp="1547052347409">
         <mark key="[" line="9" column="62" />
@@ -325,11 +325,11 @@
       <jump line="241" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQWZ0ZXJTYXZlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSb290VHJpYW5nbGVzXD4=</text>
@@ -368,7 +368,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -412,8 +412,8 @@
         <entry>ww</entry>
         <entry>wwa</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
