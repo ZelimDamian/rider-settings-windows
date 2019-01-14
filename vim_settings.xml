@@ -15,7 +15,6 @@
         <mark key="^" line="59" column="31" />
         <mark key="." line="59" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/PatientList/PatientListImportButton.cs" timestamp="1547498680722" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Tooth.cs" timestamp="1546995186369">
         <mark key="[" line="73" column="23" />
         <mark key="]" line="73" column="23" />
@@ -67,7 +66,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/DMesh3_debug.cs" timestamp="1547470514336" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Jaw.cs" timestamp="1547426429311">
         <mark key="[" line="33" column="49" />
         <mark key="]" line="33" column="49" />
@@ -153,7 +151,6 @@
         <mark key="]" line="373" column="24" />
         <mark key="." line="373" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PatientService.cs" timestamp="1547498320046" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Changes/ReplaceJawSoMeshChange.cs" timestamp="1547404527597">
         <mark key="[" line="40" column="72" />
         <mark key="]" line="40" column="84" />
@@ -213,13 +210,13 @@
         <mark key="[" line="490" column="20" />
         <mark key="]" line="490" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" timestamp="1547504165184">
-        <mark key="'" line="91" column="21" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" timestamp="1547505257849">
+        <mark key="'" line="93" column="21" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="61" column="27" />
+        <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/WebApiService.cs" timestamp="1547498314785" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/WebUploadService.cs" timestamp="1547112225941">
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="0" />
@@ -337,10 +334,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDcmVhdGVCYXNlTWVzaFByZXZpZXdTb1w+</text>
@@ -349,56 +346,34 @@
         <text>SmoothIterations</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzZS5TZXR1cCgpOwogICAgICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgU2lkZSA9IEphd1NpZGUuVXBwZXIsCiAgICAgICAgICAgICAgICBIZWlnaHQgPSAxLjJmLAogICAgICAgICAgICAgICAgUmVzb2x1dGlvbiA9IDAuODBmLAogICAgICAgICAgICAgICAgU2hvdWxkUmVtZXNoID0gdHJ1ZSwKICAgICAgICAgICAgICAgIEJ1bGdlQW1vdW50ID0gMC41ZiwKICAgICAgICAgICAgICAgIFNob3VsZFJlbW92ZVJvb3RHdW1zID0gZmFsc2UsCiAgICAgICAgICAgICAgICBSZW1lc2hJdGVyYXRpb25zID0gNAogICAgICAgICAgICB9Owo=</text>
       </register>
-      <register name="5" type="4">
-        <text>new Model
-            {
-                Side = model.Side,
-                Frame = previewSo.GetSceneFrame(),
-                Mesh = previewSo.Mesh,
-                Height = model.Height,
-                Scale = previewSo.GetLocalScale(),
-                ShouldRemesh = model.ShouldRemesh,
-                Resolution = model.Resolution,
-                BulgeAmount = model.BulgeAmount,
-                ShouldRemoveRootGums = model.ShouldRemoveRootGums,
-                RemeshIterations = model.RemeshIterations
-            }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwgPSBuZXcgTW9kZWwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwgPSBuZXcgTW9kZWwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgU2lkZSA9IEphd1NpZGUuVXBwZXIsCiAgICAgICAgICAgICAgICBIZWlnaHQgPSAxLjJmLAogICAgICAgICAgICAgICAgUmVzb2x1dGlvbiA9IDAuODBmLAogICAgICAgICAgICAgICAgU2hvdWxkUmVtZXNoID0gdHJ1ZSwKICAgICAgICAgICAgICAgIEJ1bGdlQW1vdW50ID0gMC41ZiwKICAgICAgICAgICAgICAgIFNob3VsZFJlbW92ZVJvb3RHdW1zID0gZmFsc2UsCiAgICAgICAgICAgICAgICBSZW1lc2hJdGVyYXRpb25zID0gNAogICAgICAgICAgICB9OwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNjYWxlID0gVmVjdG9yM2YuT25lLAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwgPSBuZXcgTW9kZWwoKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBTaWRlID0gSmF3U2lkZS5VcHBlciwKICAgICAgICAgICAgICAgIEhlaWdodCA9IDEuMmYsCiAgICAgICAgICAgICAgICBSZXNvbHV0aW9uID0gMC44MGYsCiAgICAgICAgICAgICAgICBTY2FsZSA9IFZlY3RvcjNmLk9uZSwKICAgICAgICAgICAgICAgIFNob3VsZFJlbWVzaCA9IHRydWUsCiAgICAgICAgICAgICAgICBCdWxnZUFtb3VudCA9IDAuNWYsCiAgICAgICAgICAgICAgICBTaG91bGRSZW1vdmVSb290R3VtcyA9IGZhbHNlLAogICAgICAgICAgICAgICAgUmVtZXNoSXRlcmF0aW9ucyA9IDQKICAgICAgICAgICAgfTsKICAgICAgICAgICAgCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIE1vZGVsKERNZXNoU08gbWVzaFNvKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBNZXNoU28gPSBtZXNoU287CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHB1YmxpYyBETWVzaFNPIE1lc2hTbzsK</text>
       </register>
-      <register name="9" type="4">
-        <text>= new Model
-        {
-            Side = JawSide.Upper,
-            Height = 1.2f,
-            Resolution = 0.80f,
-            Scale = Vector3f.One,
-            ShouldRemesh = true,
-            BulgeAmount = 0.5f,
-            ShouldRemoveRootGums = false,
-            RemeshIterations = 4
-        };</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwgPSBuZXcgTW9kZWwocHJldmlld1NvKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBTaWRlID0gSmF3U2lkZS5VcHBlciwKICAgICAgICAgICAgICAgIEhlaWdodCA9IDEuMmYsCiAgICAgICAgICAgICAgICBSZXNvbHV0aW9uID0gMC44MGYsCiAgICAgICAgICAgICAgICBTaG91bGRSZW1lc2ggPSB0cnVlLAogICAgICAgICAgICAgICAgQnVsZ2VBbW91bnQgPSAwLjVmLAogICAgICAgICAgICAgICAgU2hvdWxkUmVtb3ZlUm9vdEd1bXMgPSBmYWxzZSwKICAgICAgICAgICAgICAgIFJlbWVzaEl0ZXJhdGlvbnMgPSA0CiAgICAgICAgICAgIH07Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
