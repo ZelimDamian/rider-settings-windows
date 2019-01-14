@@ -183,12 +183,12 @@
         <mark key="." line="241" column="37" />
         <mark key="^" line="241" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547424621050">
-        <mark key="'" line="295" column="41" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="142" column="75" />
-        <mark key="." line="311" column="61" />
-        <mark key="^" line="311" column="61" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547425913905">
+        <mark key="'" line="296" column="41" />
+        <mark key="[" line="67" column="90" />
+        <mark key="]" line="67" column="90" />
+        <mark key="." line="67" column="90" />
+        <mark key="^" line="67" column="90" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshPushVertsAlongNormalsUtility.cs" timestamp="1547052347409">
         <mark key="[" line="9" column="62" />
@@ -202,12 +202,12 @@
         <mark key="." line="53" column="11" />
         <mark key="^" line="53" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" timestamp="1547418197912">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" timestamp="1547425878846">
         <mark key="'" line="80" column="8" />
-        <mark key="[" line="102" column="92" />
-        <mark key="]" line="102" column="93" />
-        <mark key="." line="102" column="93" />
-        <mark key="^" line="82" column="125" />
+        <mark key="[" line="231" column="58" />
+        <mark key="]" line="231" column="61" />
+        <mark key="." line="231" column="61" />
+        <mark key="^" line="231" column="61" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" timestamp="1547422594325">
         <mark key="'" line="265" column="33" />
@@ -320,50 +320,50 @@
       <jump line="31" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumBulgeGenerationHelper.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB2ZXJ0cyA9IHNwYW4uVmVydGljZXMKICAgICAgICAgICAgICAgICAgICAuU2VsZWN0KHRvb3RoTWVzaC5HZXRWZXJ0ZXgpCiAgICAgICAgICAgICAgICAgICAgLlNlbGVjdCh0b290aFRvQmFzZUZyYW1lLkZyb21GcmFtZVApOwoKICAgICAgICAgICAgICAgIHZhciB2ZXJ0czJEID0gdmVydHMuU2VsZWN0KHYgPT4gdi54eSkuVG9MaXN0KCk7CgogICAgICAgICAgICAgICAgdmFyIHBvbHlnb24gPSBuZXcgR2VuZXJhbFBvbHlnb24yZChuZXcgUG9seWdvbjJkKHZlcnRzMkQpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Loop</text>
       </register>
       <register name="-" type="4">
-        <text>rootGumTriangles</text>
+        <text>Loop</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZ25vcmVkRmFjZVNlbGVjdGlvblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB2ZXJ0cyA9IHNwYW4uVmVydGljZXMKICAgICAgICAgICAgICAgICAgICAuU2VsZWN0KHRvb3RoTWVzaC5HZXRWZXJ0ZXgpCiAgICAgICAgICAgICAgICAgICAgLlNlbGVjdCh0b290aFRvQmFzZUZyYW1lLkZyb21GcmFtZVApOwoKICAgICAgICAgICAgICAgIHZhciB2ZXJ0czJEID0gdmVydHMuU2VsZWN0KHYgPT4gdi54eSkuVG9MaXN0KCk7CgogICAgICAgICAgICAgICAgdmFyIHBvbHlnb24gPSBuZXcgR2VuZXJhbFBvbHlnb24yZChuZXcgUG9seWdvbjJkKHZlcnRzMkQpKTsK</text>
+      <register name="0" type="4">
+        <text>GetLooped</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHYK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICAgICAgaWdub3JlZEZhY2VTZWxlY3Rpb24uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYXBwZW5kIHNwYW4yCiAgICAgICAgICAgIHRyYWNlLkFkZFJhbmdlKHNwYW4yLkVkZ2VzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIC8vIGFsc28gZGVzZWxlY3QgYWxsIHJvb3QgdHJpYW5nbGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc21vb3RoUm9pLgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIEVkZ2VMb29wIEpvaW5TcGFucyhETWVzaDMgbWVzaCwgSVJlYWRPbmx5Q29sbGVjdGlvbjxFZGdlU3Bhbj4gb3JpZ2luYWxTcGFucykKICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgVHplcmdpdHkuTW9kdWxlcy5TZXR1cC5Db250cm9sbGVyczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrLkNvbnN0cmFpbnRzOwo=</text>
+        <text encoding="base64">CSAgICAgICAgaWdub3JlZEZhY2VTZWxlY3Rpb24uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGphdyA9IFNlcnZpY2UuR2V0PEphd3NTZXJ2aWNlPigpLkdldChzaWRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcm9vdEd1bVRyaWFuZ2xlc1t0b290aC5Ub290aE51bWJlcl0gPSBpbnRlcmlvclRyaWFuZ2xlcy5Ub0FycmF5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIC8vIGFsc28gZGVzZWxlY3QgYWxsIHJvb3QgdHJpYW5nbGVzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -407,8 +407,8 @@
         <entry>ww</entry>
         <entry>wwa</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
