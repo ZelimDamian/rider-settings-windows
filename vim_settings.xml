@@ -171,6 +171,7 @@
         <mark key="." line="96" column="90" />
         <mark key="^" line="96" column="90" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/WireService.cs" timestamp="1547647196960" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/TwoPointMark.cs" timestamp="1546954324638">
         <mark key="[" line="41" column="9" />
         <mark key="]" line="41" column="12" />
@@ -207,8 +208,8 @@
         <mark key="." line="53" column="11" />
         <mark key="^" line="53" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" timestamp="1547621965367" />
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/UI/VisibilityPanelComponent.cs" timestamp="1547556505083">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/UI/VisibilityPanelComponent.cs" timestamp="1547647009699">
+        <mark key="'" line="22" column="22" />
         <mark key="[" line="22" column="38" />
         <mark key="]" line="22" column="37" />
         <mark key="^" line="22" column="37" />
@@ -228,8 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
-      <jump line="165" column="14" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
       <jump line="166" column="14" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
       <jump line="75" column="71" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
       <jump line="167" column="133" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
@@ -328,6 +327,8 @@
       <jump line="582" column="70" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
       <jump line="589" column="39" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
       <jump line="18" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" />
+      <jump line="63" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/UI/VisibilityPanelComponent.cs" />
+      <jump line="22" column="22" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/UI/VisibilityPanelComponent.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -337,7 +338,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxKb2luU3BhbnNcPg==</text>
+        <text encoding="base64">XDxVcHBlcldpcmVCdXR0b25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgYm9vbCBXYW50c1Rvb3RoTWFwID0+IGZhbHNlOwo=</text>
@@ -377,9 +378,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxKb2luU3BhbnNcPg==</last-search>
+      <last-search encoding="base64">XDxVcHBlcldpcmVCdXR0b25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxKb2luU3BhbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxVcHBlcldpcmVCdXR0b25cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -387,7 +388,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZXROZXh0XD4=</entry>
         <entry encoding="base64">XDxDb3VudFw+</entry>
         <entry encoding="base64">XDxWdHhFZGdlc0l0clw+</entry>
         <entry encoding="base64">XDx2YXJcPg==</entry>
@@ -407,6 +407,7 @@
         <entry encoding="base64">XDxMaW5rVmVydGljZXNcPg==</entry>
         <entry encoding="base64">XDxzb3VyY2VOZWlnaGJvdXJDb3VudFw+</entry>
         <entry encoding="base64">XDxKb2luU3BhbnNcPg==</entry>
+        <entry encoding="base64">XDxVcHBlcldpcmVCdXR0b25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
