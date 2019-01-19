@@ -164,12 +164,12 @@
         <mark key="." line="241" column="37" />
         <mark key="^" line="241" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547919803911">
-        <mark key="'" line="589" column="39" />
-        <mark key="[" line="642" column="42" />
-        <mark key="]" line="642" column="41" />
-        <mark key="." line="642" column="41" />
-        <mark key="^" line="642" column="41" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547920743988">
+        <mark key="'" line="591" column="55" />
+        <mark key="[" line="633" column="36" />
+        <mark key="]" line="634" column="40" />
+        <mark key="." line="634" column="40" />
+        <mark key="^" line="634" column="40" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/WireService.cs" timestamp="1547647196960" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/TwoPointMark.cs" timestamp="1546954324638">
@@ -229,9 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="14" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
-      <jump line="75" column="71" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
-      <jump line="167" column="133" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
       <jump line="228" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" />
       <jump line="254" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" />
       <jump line="232" column="50" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" />
@@ -329,16 +326,19 @@
       <jump line="18" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" />
       <jump line="63" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/UI/VisibilityPanelComponent.cs" />
       <jump line="22" column="22" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/UI/VisibilityPanelComponent.cs" />
+      <jump line="638" column="40" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
+      <jump line="605" column="39" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
+      <jump line="591" column="55" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>neighbours</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>neighbours</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVcHBlcldpcmVCdXR0b25cPg==</text>
+        <text encoding="base64">XDxHZXRTb3VyY2VOZWlnaGJvdXJzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJhc2VNZXNoLlZ0eFZlcnRpY2VzSXRyKHNyYykuV2hlcmUobmdoID0+IHNvdXJjZS5Db250YWlucyhuZ2gpKTsK</text>
@@ -378,9 +378,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVcHBlcldpcmVCdXR0b25cPg==</last-search>
+      <last-search encoding="base64">XDxHZXRTb3VyY2VOZWlnaGJvdXJzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVcHBlcldpcmVCdXR0b25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxHZXRTb3VyY2VOZWlnaGJvdXJzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -388,7 +388,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb3VudFw+</entry>
         <entry encoding="base64">XDxWdHhFZGdlc0l0clw+</entry>
         <entry encoding="base64">XDx2YXJcPg==</entry>
         <entry encoding="base64">XDxqYXdcPg==</entry>
@@ -408,6 +407,7 @@
         <entry encoding="base64">XDxzb3VyY2VOZWlnaGJvdXJDb3VudFw+</entry>
         <entry encoding="base64">XDxKb2luU3BhbnNcPg==</entry>
         <entry encoding="base64">XDxVcHBlcldpcmVCdXR0b25cPg==</entry>
+        <entry encoding="base64">XDxHZXRTb3VyY2VOZWlnaGJvdXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
