@@ -164,12 +164,12 @@
         <mark key="." line="241" column="37" />
         <mark key="^" line="241" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547911751698">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547916908853">
         <mark key="'" line="589" column="39" />
-        <mark key="[" line="617" column="71" />
-        <mark key="]" line="617" column="71" />
-        <mark key="." line="617" column="71" />
-        <mark key="^" line="617" column="72" />
+        <mark key="[" line="610" column="55" />
+        <mark key="]" line="610" column="58" />
+        <mark key="." line="610" column="58" />
+        <mark key="^" line="610" column="58" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/WireService.cs" timestamp="1547647196960" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/TwoPointMark.cs" timestamp="1546954324638">
@@ -332,10 +332,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVcHBlcldpcmVCdXR0b25cPg==</text>
