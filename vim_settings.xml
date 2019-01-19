@@ -164,8 +164,8 @@
         <mark key="." line="241" column="37" />
         <mark key="^" line="241" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547938482339">
-        <mark key="'" line="572" column="55" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547939784439">
+        <mark key="'" line="565" column="28" />
         <mark key="[" line="592" column="0" />
         <mark key="]" line="592" column="0" />
         <mark key="^" line="581" column="112" />
@@ -229,8 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" />
-      <jump line="254" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" />
       <jump line="232" column="50" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" />
       <jump line="236" column="69" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" />
       <jump line="233" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationRemeshHelper.cs" />
@@ -329,6 +327,8 @@
       <jump line="638" column="40" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
       <jump line="605" column="39" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
       <jump line="591" column="55" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
+      <jump line="583" column="37" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
+      <jump line="565" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -338,7 +338,7 @@
         <text>.ToList();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZXRTb3VyY2VOZWlnaGJvdXJzXD4=</text>
+        <text encoding="base64">XDxkaXN0YW5jZXNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>counter</text>
@@ -374,13 +374,13 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gdmlzdWFsaXNlIHN0YXJ0aW5nIHBvaW50Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZXRTb3VyY2VOZWlnaGJvdXJzXD4=</last-search>
+      <last-search encoding="base64">XDxkaXN0YW5jZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZXRTb3VyY2VOZWlnaGJvdXJzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkaXN0YW5jZXNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -388,7 +388,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxWdHhFZGdlc0l0clw+</entry>
         <entry encoding="base64">XDx2YXJcPg==</entry>
         <entry encoding="base64">XDxqYXdcPg==</entry>
         <entry encoding="base64">XDxKYXdSb290VHJpYW5nbGVzXD4=</entry>
@@ -408,6 +407,7 @@
         <entry encoding="base64">XDxKb2luU3BhbnNcPg==</entry>
         <entry encoding="base64">XDxVcHBlcldpcmVCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxHZXRTb3VyY2VOZWlnaGJvdXJzXD4=</entry>
+        <entry encoding="base64">XDxkaXN0YW5jZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
@@ -418,8 +418,8 @@
         <entry>wwa</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
