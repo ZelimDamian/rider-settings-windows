@@ -164,12 +164,12 @@
         <mark key="." line="241" column="37" />
         <mark key="^" line="241" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1547977847919">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1548082105174">
         <mark key="'" line="255" column="38" />
-        <mark key="[" line="563" column="94" />
-        <mark key="]" line="563" column="102" />
-        <mark key="^" line="563" column="102" />
-        <mark key="." line="563" column="102" />
+        <mark key="[" line="508" column="23" />
+        <mark key="]" line="510" column="29" />
+        <mark key="^" line="510" column="29" />
+        <mark key="." line="510" column="29" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/WireService.cs" timestamp="1547647196960" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/TwoPointMark.cs" timestamp="1546954324638">
@@ -331,47 +331,47 @@
       <jump line="255" column="38" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>HotPink</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFNlcnZpY2UuR2V0PFNjZW5lU2VydmljZT4oKS5TY2VuZS5Db250ZXh0LlRvb2xNYW5hZ2VyLkFjdGl2ZVJpZ2h0VG9vbCBpcyBHZW5lcmF0ZUd1bVN0cmV0Y2hDdXJ2ZVRvb2w7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>HotPink</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEZWJ1Z0RyYXdTZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGlkID0gY3VycmVudElkOwogICAgICAgICAgICAgICAgICAgICAgICBTZXJ2aWNlLkdldDxEZWJ1Z0RyYXdTZXJ2aWNlPigpLkFkZCgoKSA9PgogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb250b3Vyc0RlYnVnUmVuZGVyZXIuRHJhd1ZlcnRpY2VzKG5ldyBbXSB7IGlkIH0sIGRlYnVnU28sIENvbG9yZi5Ib3RQaW5rLCBsZW5ndGg6IDMuMGYpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFNlcnZpY2UuR2V0PFNjZW5lU2VydmljZT4oKS5TY2VuZS5Db250ZXh0LlRvb2xNYW5hZ2VyLkFjdGl2ZVJpZ2h0VG9vbCBpcyBHZW5lcmF0ZUd1bVN0cmV0Y2hDdXJ2ZVRvb2w7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICBTZXJ2aWNlLkdldDxTY2VuZVNlcnZpY2U+KCkuU2NlbmUuQ29udGV4dC5Ub29sTWFuYWdlci5BY3RpdmVSaWdodFRvb2wuVHlwZUlkZW50aWZpZXIgPT0gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRGVidWcuTG9nRXJyb3IoJCJ7bmFtZW9mKG1pbkluZGV4KX09e21pbkluZGV4fSB7bmFtZW9mKG1pblZhbHVlKX09e21pblZhbHVlfSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgLldoZXJlKG5naCA9PiBiYXNlTWVzaC5WdHhWZXJ0aWNlc0l0cihuZ2gpLkNvdW50KG4gPT4gc291cmNlLkNvbnRhaW5zKG4pKSA9PSAyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICB2YXIgc29ydGVkU291cmNlID0gc291cmNlLlNvcnQocyA9PiBiYXNlTWVzaC5WdHhFZGdlc0l0cihzKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIC8vIHdoZW4gd2UgaGl0IGEgc3RhcnQgb2YgYW5vdGhlciBzcGFuCi8vICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxpbmtlZFYuQ29udGFpbnMobmdoKSAmJiBuZ2ggIT0gcHJldmlvdXNJZCkKLy8gICAgICAgICAgICAgICAgICAgICAgICB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlcnZpY2UuR2V0PERlYnVnRHJhd1NlcnZpY2U+KCkuQWRkKCgpID0+Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbnRvdXJzRGVidWdSZW5kZXJlci5EcmF3VmVydGljZXMobmV3W117bmdofSwgZGVidWdTbywgQ29sb3JmLk9yYW5nZSwgbGVuZ3RoOjIuMGYpOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwovLyAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRGVidWcuTG9nRXJyb3IoJCJ7bmFtZW9mKG1pbkluZGV4KX09e21pbkluZGV4fSB7bmFtZW9mKG1pblZhbHVlKX09e21pblZhbHVlfSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgLldoZXJlKG5naCA9PiBiYXNlTWVzaC5WdHhWZXJ0aWNlc0l0cihuZ2gpLkNvdW50KG4gPT4gc291cmNlLkNvbnRhaW5zKG4pKSA9PSAyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICB2YXIgc29ydGVkU291cmNlID0gc291cmNlLlNvcnQocyA9PiBiYXNlTWVzaC5WdHhFZGdlc0l0cihzKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdmlzdWFsaXNlIHN0YXJ0aW5nIHBvaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
