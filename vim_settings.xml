@@ -116,7 +116,8 @@
         <mark key="^" line="619" column="21" />
         <mark key="." line="619" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1547470750277">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1548094924763">
+        <mark key="'" line="295" column="16" />
         <mark key="[" line="299" column="99" />
         <mark key="]" line="299" column="103" />
         <mark key="^" line="299" column="103" />
@@ -230,9 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="356" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
-      <jump line="109" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/view/CameraTracking.cs" />
-      <jump line="236" column="38" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/view/CameraTracking.cs" />
       <jump line="208" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/view/CameraTracking.cs" />
       <jump line="180" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/view/CameraTracking.cs" />
       <jump line="179" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/view/CameraTracking.cs" />
@@ -330,6 +328,9 @@
       <jump line="110" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
       <jump line="218" column="40" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
       <jump line="255" column="38" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
+      <jump line="419" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="423" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="295" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -339,7 +340,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEZWJ1Z0RyYXdTZXJ2aWNlXD4=</text>
+        <text encoding="base64">XDxGaWxsSG9sZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFNlcnZpY2UuR2V0PFNjZW5lU2VydmljZT4oKS5TY2VuZS5Db250ZXh0LlRvb2xNYW5hZ2VyLkFjdGl2ZVJpZ2h0VG9vbCBpcyBHZW5lcmF0ZUd1bVN0cmV0Y2hDdXJ2ZVRvb2w7Cg==</text>
@@ -379,9 +380,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEZWJ1Z0RyYXdTZXJ2aWNlXD4=</last-search>
+      <last-search encoding="base64">XDxGaWxsSG9sZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEZWJ1Z0RyYXdTZXJ2aWNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxGaWxsSG9sZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -389,7 +390,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZ25vcmVkRmFjZVNlbGVjdGlvblw+</entry>
         <entry encoding="base64">XDxSb290VHJpYW5nbGVzXD4=</entry>
         <entry>Scale</entry>
         <entry encoding="base64">XDxmcmFtZVw+</entry>
@@ -409,6 +409,7 @@
         <entry encoding="base64">XDxEcmF3VmVydGljZXNcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50SWRcPg==</entry>
         <entry encoding="base64">XDxEZWJ1Z0RyYXdTZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDxGaWxsSG9sZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
