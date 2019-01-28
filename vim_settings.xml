@@ -152,9 +152,9 @@
         <mark key="." line="182" column="0" />
         <mark key="^" line="190" column="67" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SavingService.cs" timestamp="1548688939438">
-        <mark key="[" line="156" column="55" />
-        <mark key="]" line="156" column="24" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SavingService.cs" timestamp="1548691875423">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="71" column="111" />
         <mark key="^" line="156" column="24" />
         <mark key="." line="156" column="24" />
       </file>
@@ -420,8 +420,8 @@
       <jump line="6" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/NativeLibraryService.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHdlYlVwbG9hZFNlcnZpY2UgPSBHZXQ8V2ViVXBsb2FkU2VydmljZT4oKTsKICAgICAgICAgICAgYXdhaXQgd2ViVXBsb2FkU2VydmljZS5VcGxvYWRGb2xkZXJHZW5lcmljKEtleURpcmVjdG9yeSwgZGlyZWN0b3J5LCBmaWxlUGF0aCwgZm9sZGVyTmFtZSwgcGF0aWVudCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -429,8 +429,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBsaWNhdGlvblw+</text>
       </register>
-      <register name="0" type="4">
-        <text>{SavingService.DataFolderName}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHdlYlVwbG9hZFNlcnZpY2UgPSBHZXQ8V2ViVXBsb2FkU2VydmljZT4oKTsKICAgICAgICAgICAgYXdhaXQgd2ViVXBsb2FkU2VydmljZS5VcGxvYWRGb2xkZXJHZW5lcmljKEtleURpcmVjdG9yeSwgZGlyZWN0b3J5LCBmaWxlUGF0aCwgZm9sZGVyTmFtZSwgcGF0aWVudCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
