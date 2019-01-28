@@ -195,11 +195,11 @@
         <mark key="." line="253" column="78" />
         <mark key="^" line="253" column="78" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Jaw.cs" timestamp="1548615198761">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Jaw.cs" timestamp="1548675054201">
         <mark key="[" line="48" column="61" />
-        <mark key="]" line="48" column="66" />
+        <mark key="]" line="48" column="61" />
         <mark key="^" line="48" column="66" />
-        <mark key="." line="48" column="66" />
+        <mark key="." line="48" column="61" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationCockpit.cs" timestamp="1548447810399">
         <mark key="[" line="65" column="0" />
@@ -415,10 +415,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>igl</text>
+        <text>Native</text>
       </register>
       <register name="-" type="4">
-        <text>igl</text>
+        <text>Native</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBsaWNhdGlvblw+</text>
