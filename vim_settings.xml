@@ -72,18 +72,13 @@
         <mark key="." line="34" column="44" />
         <mark key="^" line="34" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenericToothTool/GenericToothTool.cs" timestamp="1548446641784">
-        <mark key="'" line="20" column="28" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/TeethService.cs" timestamp="1548189260677">
         <mark key="[" line="170" column="54" />
         <mark key="]" line="170" column="54" />
         <mark key="." line="170" column="54" />
         <mark key="^" line="174" column="38" />
       </file>
+      <file name="/DrawImprintContourToolBehavior.cs" timestamp="1548772988143" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceModelBuilder/Controllers/BraceModelBuilderController.cs" timestamp="1548764960287">
         <mark key="[" line="209" column="20" />
         <mark key="]" line="209" column="20" />
@@ -116,10 +111,10 @@
         <mark key="^" line="123" column="25" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/StorageService.cs" timestamp="1548764606781">
-        <mark key="[" line="279" column="13" />
-        <mark key="]" line="280" column="39" />
-        <mark key="." line="280" column="39" />
-        <mark key="^" line="280" column="39" />
+        <mark key="[" line="277" column="13" />
+        <mark key="]" line="278" column="39" />
+        <mark key="." line="278" column="39" />
+        <mark key="^" line="278" column="39" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/TwoPointMark.cs" timestamp="1546954324638">
         <mark key="[" line="41" column="9" />
@@ -246,7 +241,7 @@
         <mark key="." line="68" column="29" />
         <mark key="^" line="68" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548415643603">
+      <file name="/Dummy.txt" timestamp="1548773136038">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
@@ -273,9 +268,9 @@
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawImprintContour/DrawImprintContourToolBehavior.cs" timestamp="1548446775458">
         <mark key="[" line="51" column="81" />
-        <mark key="]" line="52" column="11" />
-        <mark key="." line="52" column="11" />
-        <mark key="^" line="52" column="11" />
+        <mark key="]" line="51" column="11" />
+        <mark key="." line="51" column="11" />
+        <mark key="^" line="51" column="11" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/Helpers/SegmentationHelper.cs" timestamp="1548451171973" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1548083365623">
