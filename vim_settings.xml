@@ -40,11 +40,11 @@
         <mark key="." line="22" column="65" />
         <mark key="^" line="22" column="65" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Constraints/Deformers/LaplacianDeformerNative.cs" timestamp="1548455082967">
-        <mark key="[" line="118" column="82" />
-        <mark key="]" line="118" column="93" />
-        <mark key="." line="118" column="93" />
-        <mark key="^" line="118" column="93" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Constraints/Deformers/LaplacianDeformerNative.cs" timestamp="1548881692652">
+        <mark key="[" line="118" column="69" />
+        <mark key="]" line="118" column="84" />
+        <mark key="." line="118" column="51" />
+        <mark key="^" line="118" column="51" />
       </file>
       <file name="/Dummy.cs" timestamp="1547616579124">
         <mark key="[" line="0" column="0" />
@@ -103,12 +103,18 @@
         <mark key="." line="40" column="84" />
         <mark key="^" line="40" column="84" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/NativeLibraryService.cs" timestamp="1548767939555">
-        <mark key="'" line="44" column="6" />
-        <mark key="[" line="123" column="26" />
-        <mark key="]" line="123" column="49" />
-        <mark key="." line="123" column="26" />
-        <mark key="^" line="123" column="25" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/NativeLibraryService.cs" timestamp="1548881603063">
+        <mark key="'" line="125" column="6" />
+        <mark key="[" line="35" column="58" />
+        <mark key="]" line="35" column="60" />
+        <mark key="." line="35" column="60" />
+        <mark key="^" line="35" column="60" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Components/CurvatureVisualizer.cs" timestamp="1548881686169">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="51" />
+        <mark key="." line="17" column="51" />
+        <mark key="^" line="17" column="51" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/StorageService.cs" timestamp="1548764606781">
         <mark key="[" line="277" column="13" />
@@ -311,8 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
-      <jump line="330" column="36" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
       <jump line="21" column="33" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
       <jump line="353" column="30" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
       <jump line="124" column="39" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
@@ -409,21 +413,23 @@
       <jump line="22" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/StorageMeshService.cs" />
       <jump line="39" column="17" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/StorageMeshService.cs" />
       <jump line="161" column="1" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/NativeLibraryService.cs" />
-      <jump line="46" column="1" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/NativeLibraryService.cs" />
       <jump line="44" column="6" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/NativeLibraryService.cs" />
+      <jump line="13" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/NativeLibraryService.cs" />
+      <jump line="46" column="6" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/NativeLibraryService.cs" />
+      <jump line="125" column="6" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/NativeLibraryService.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PLATFORM_STANDALONE_WIN</text>
+        <text>laplacian_deform</text>
       </register>
       <register name="-" type="4">
-        <text>{ get; private set; }</text>
+        <text>/Tzergity/Modules/Setup/Plugins/igl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVTklUWV9FRElUT1JfV0lOXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>PLATFORM_STANDALONE_WIN</text>
+        <text>laplacian_deform</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CSAgICAgICAgS2V5RGlyZWN0b3J5ID0gCg==</text>
@@ -456,7 +462,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHNvID0gQ3JlYXRlU29Gcm9tTW9kZWwobW9kZWwpOwogICAgICAgICAgICBBZGQobW9kZWwsIHNvKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -500,8 +506,8 @@
         <entry>wwa</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
