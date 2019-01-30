@@ -141,6 +141,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="19" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/QuitDialogService.cs" timestamp="1548891288291">
+        <mark key="[" line="53" column="12" />
+        <mark key="]" line="53" column="19" />
+        <mark key="^" line="53" column="19" />
+        <mark key="." line="53" column="19" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawToothContour/DrawToothContourToolBehavior.cs" timestamp="1548451312635">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
@@ -420,10 +426,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>laplacian_deform</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>/Tzergity/Modules/Setup/Plugins/igl</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVTklUWV9FRElUT1JfV0lOXD4=</text>
