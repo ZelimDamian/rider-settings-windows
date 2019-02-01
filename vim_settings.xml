@@ -40,10 +40,7 @@
         <mark key="." line="22" column="65" />
         <mark key="^" line="22" column="65" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Constraints/Deformers/LaplacianDeformerNative.cs" timestamp="1548943140471">
-        <mark key="[" line="118" column="69" />
-        <mark key="]" line="118" column="84" />
-        <mark key="." line="118" column="51" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Constraints/Deformers/LaplacianDeformerNative.cs" timestamp="1549037036273">
         <mark key="^" line="118" column="51" />
       </file>
       <file name="/Dummy.cs" timestamp="1547616579124">
@@ -203,11 +200,11 @@
         <mark key="." line="253" column="78" />
         <mark key="^" line="253" column="78" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Jaw.cs" timestamp="1548882461311">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Jaw.cs" timestamp="1549037042137">
         <mark key="[" line="48" column="61" />
-        <mark key="]" line="48" column="66" />
+        <mark key="]" line="48" column="61" />
         <mark key="^" line="48" column="66" />
-        <mark key="." line="48" column="66" />
+        <mark key="." line="48" column="61" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationCockpit.cs" timestamp="1548447810399">
         <mark key="[" line="65" column="0" />
@@ -426,11 +423,11 @@
       <jump line="174" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Controllers/SceneController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI2lmIFVOSVRZX0VESVRPUgogICAgICAgICAgICBTZXJ2aWNlLkRlc3Ryb3lBbGwoKTsKICAgICAgICAgICAgI2VuZGlmCg==</text>
+      <register name="&quot;" type="4">
+        <text>Native</text>
       </register>
       <register name="-" type="4">
-        <text>UNITY_EDITOR</text>
+        <text>Native</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBsaWNhdGlvbk9uV2FudHNUb1F1aXRcPg==</text>
