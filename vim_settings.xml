@@ -164,6 +164,9 @@
         <mark key="." line="198" column="97" />
         <mark key="^" line="198" column="97" />
       </file>
+      <file name="/Clipboard.txt" timestamp="1549202894441">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/WebUploadService.cs" timestamp="1548764964602">
         <mark key="'" line="160" column="26" />
         <mark key="[" line="164" column="12" />
@@ -313,6 +316,7 @@
         <mark key="." line="593" column="56" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/WireService.cs" timestamp="1547647196960" />
+      <file name="$USER_HOME$/Data/Builds/tzergity-webgl/save_files/setup/blend-corrupted.shape" timestamp="1549203122701" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/BracePositioning/BracePositioningTool.cs" timestamp="1547645114866">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="52" />
@@ -339,9 +343,6 @@
         <mark key="^" line="53" column="11" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Constraints/LaplacianDeformerHelper.cs" timestamp="1549052242805" />
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/StorageMeshService.cs" timestamp="1548764405988">
-        <mark key="'" line="39" column="17" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="89" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
