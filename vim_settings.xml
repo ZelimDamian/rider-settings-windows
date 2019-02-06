@@ -223,11 +223,11 @@
         <mark key="." line="253" column="78" />
         <mark key="^" line="253" column="78" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Jaw.cs" timestamp="1549471326230">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Jaw.cs" timestamp="1549489102720">
         <mark key="[" line="48" column="61" />
-        <mark key="]" line="48" column="66" />
+        <mark key="]" line="48" column="61" />
         <mark key="^" line="48" column="66" />
-        <mark key="." line="48" column="66" />
+        <mark key="." line="48" column="61" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationCockpit.cs" timestamp="1548447810399">
         <mark key="[" line="65" column="0" />
@@ -439,11 +439,11 @@
       <jump line="259" column="34" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Native</text>
       </register>
       <register name="-" type="4">
-        <text>layeringSystem</text>
+        <text>Native</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb250b3Vyc0RlYnVnUmVuZGVyZXJcPg==</text>
