@@ -69,7 +69,6 @@
         <mark key="^" line="141" column="34" />
         <mark key="." line="141" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Controllers/BaseCockpit.cs" timestamp="1548451377768" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Controllers/SceneConfig.cs" timestamp="1547070782325">
         <mark key="[" line="34" column="26" />
         <mark key="]" line="34" column="44" />
@@ -82,7 +81,6 @@
         <mark key="." line="170" column="54" />
         <mark key="^" line="174" column="38" />
       </file>
-      <file name="/DrawImprintContourToolBehavior.cs" timestamp="1548772988143" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceModelBuilder/Controllers/BraceModelBuilderController.cs" timestamp="1549042786105">
         <mark key="'" line="95" column="26" />
         <mark key="[" line="209" column="20" />
@@ -158,7 +156,8 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" timestamp="1549044343600">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" timestamp="1549461123235">
+        <mark key="'" line="146" column="32" />
         <mark key="[" line="197" column="16" />
         <mark key="]" line="198" column="97" />
         <mark key="." line="198" column="97" />
@@ -280,7 +279,6 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BraceHookService.cs" timestamp="1549041744676" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/TopMenuService.cs" timestamp="1549040041297">
         <mark key="[" line="25" column="44" />
         <mark key="]" line="25" column="44" />
@@ -294,7 +292,6 @@
         <mark key="." line="185" column="24" />
         <mark key="^" line="185" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/frame3Sharp/tools/ToolManager.cs" timestamp="1548451511308" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" timestamp="1547421754591">
         <mark key="[" line="241" column="35" />
         <mark key="]" line="241" column="37" />
@@ -307,7 +304,6 @@
         <mark key="." line="51" column="11" />
         <mark key="^" line="51" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/Helpers/SegmentationHelper.cs" timestamp="1548451171973" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1548083365623">
         <mark key="'" line="255" column="38" />
         <mark key="[" line="593" column="56" />
@@ -315,8 +311,6 @@
         <mark key="^" line="510" column="29" />
         <mark key="." line="593" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/WireService.cs" timestamp="1547647196960" />
-      <file name="$USER_HOME$/Data/Builds/tzergity-webgl/save_files/setup/blend-corrupted.shape" timestamp="1549203122701" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/BracePositioning/BracePositioningTool.cs" timestamp="1547645114866">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="52" />
@@ -329,7 +323,6 @@
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="67" />
       </file>
-      <file name="/ToothSegmentationService.cs" timestamp="1548092400693" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothTextAttachmentService.cs" timestamp="1548188320081">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="8" />
@@ -342,14 +335,8 @@
         <mark key="." line="53" column="11" />
         <mark key="^" line="53" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Constraints/LaplacianDeformerHelper.cs" timestamp="1549052242805" />
     </filemarks>
     <jumps>
-      <jump line="89" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
-      <jump line="92" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenerateGumStretch/GenerateGumStretchTool.cs" />
-      <jump line="93" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
-      <jump line="474" column="44" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
-      <jump line="582" column="70" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
       <jump line="589" column="39" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
       <jump line="18" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" />
       <jump line="63" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/UI/VisibilityPanelComponent.cs" />
@@ -445,6 +432,11 @@
       <jump line="93" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceModelBuilder/Controllers/BraceModelBuilderController.cs" />
       <jump line="106" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceModelBuilder/Controllers/BraceModelBuilderController.cs" />
       <jump line="95" column="26" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceModelBuilder/Controllers/BraceModelBuilderController.cs" />
+      <jump line="123" column="34" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
+      <jump line="133" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
+      <jump line="212" column="26" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
+      <jump line="135" column="26" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
+      <jump line="146" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -454,7 +446,7 @@
         <text>layeringSystem</text>
       </register>
       <register name="/" type="4">
-        <text>Stl</text>
+        <text>Root</text>
       </register>
       <register name="0" type="4">
         <text>lastLayer</text>
@@ -494,9 +486,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Stl</last-search>
+      <last-search>Root</last-search>
       <last-offset />
-      <last-pattern>Stl</last-pattern>
+      <last-pattern>Root</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -504,8 +496,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Remove</entry>
-        <entry encoding="base64">XDxGaW5kQnlOdW1iZXJcPg==</entry>
         <entry encoding="base64">XDxjdXJ2ZVRvb2xIZWxwZXJcPg==</entry>
         <entry>Allow</entry>
         <entry encoding="base64">XDxEZWZhdWx0U3VyZmFjZU9mZnNldFw+</entry>
@@ -522,8 +512,10 @@
         <entry encoding="base64">XDxBcHBsaWNhdGlvbk9uV2FudHNUb1F1aXRcPg==</entry>
         <entry>Next</entry>
         <entry>Blend</entry>
-        <entry>Export</entry>
         <entry>Stl</entry>
+        <entry>ExportStl</entry>
+        <entry>Export</entry>
+        <entry>Root</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
