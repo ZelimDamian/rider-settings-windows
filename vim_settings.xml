@@ -90,12 +90,12 @@
         <mark key="." line="170" column="54" />
         <mark key="^" line="174" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/JawsService.cs" timestamp="1549571322155">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/JawsService.cs" timestamp="1549656869621">
         <mark key="'" line="192" column="39" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
-        <mark key="^" line="168" column="35" />
+        <mark key="[" line="169" column="21" />
+        <mark key="]" line="169" column="23" />
+        <mark key="." line="169" column="23" />
+        <mark key="^" line="169" column="23" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceModelBuilder/Controllers/BraceModelBuilderController.cs" timestamp="1549494348781">
         <mark key="'" line="66" column="61" />
@@ -483,11 +483,11 @@
       <jump line="192" column="39" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/JawsService.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgaGVpZ2h0ID0gKGZsb2F0KSBtZXNoLkNhY2hlZEJvdW5kcy5EZXB0aDsK</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZWxlY3RUb3BWZXJ0aWNlc1w+</text>
@@ -526,7 +526,7 @@
         <text encoding="base64">CSAgICAgICAgICAgIG5ldyBTdG9yYWdlU2VydmljZUJhc2UuU2hvdWxkU2VyaWFsaXplQ29udHJhY3RSZXNvbHZlcigpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -570,8 +570,8 @@
         <entry>wwa</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
