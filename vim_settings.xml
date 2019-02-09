@@ -247,11 +247,11 @@
         <mark key="." line="253" column="78" />
         <mark key="^" line="253" column="78" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Jaw.cs" timestamp="1549489102720">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Jaw.cs" timestamp="1549751529751">
         <mark key="[" line="48" column="61" />
-        <mark key="]" line="48" column="61" />
+        <mark key="]" line="48" column="66" />
         <mark key="^" line="48" column="66" />
-        <mark key="." line="48" column="61" />
+        <mark key="." line="48" column="66" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationCockpit.cs" timestamp="1548447810399">
         <mark key="[" line="65" column="0" />
@@ -525,7 +525,7 @@
         <text encoding="base64">CSAgICAgICAgICAgIG5ldyBTdG9yYWdlU2VydmljZUJhc2UuU2hvdWxkU2VyaWFsaXplQ29udHJhY3RSZXNvbHZlcigpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -569,8 +569,8 @@
         <entry>wwa</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
