@@ -41,11 +41,11 @@
         <mark key="." line="67" column="16" />
         <mark key="^" line="67" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/Helpers/TestExportHelper.cs" timestamp="1549811263273">
-        <mark key="[" line="48" column="35" />
-        <mark key="]" line="48" column="44" />
-        <mark key="^" line="48" column="44" />
-        <mark key="." line="48" column="44" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/Helpers/TestExportHelper.cs" timestamp="1549813306671">
+        <mark key="[" line="57" column="59" />
+        <mark key="]" line="57" column="86" />
+        <mark key="^" line="57" column="59" />
+        <mark key="." line="57" column="59" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Extensions/DMesh3Extensions.cs" timestamp="1547411823713">
         <mark key="[" line="20" column="29" />
@@ -515,16 +515,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Path.DirectorySeparatorChar</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>PathSeparator</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVbml0eUVuZ2luZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>exportConstraintsMap</text>
+        <text>Path.DirectorySeparatorChar</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgU2V0Q29uc3RyYWludCh2SWQsIHZlcnRleCwgMS4wZik7Cg==</text>
