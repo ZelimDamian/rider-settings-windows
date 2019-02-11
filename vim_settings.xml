@@ -165,11 +165,11 @@
       <file name="/Dummy.txt" timestamp="1549840217090">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Bone.cs" timestamp="1549836528409">
-        <mark key="[" line="31" column="62" />
-        <mark key="]" line="31" column="62" />
-        <mark key="." line="31" column="62" />
-        <mark key="^" line="31" column="62" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Bone.cs" timestamp="1549879413999">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="8" />
+        <mark key="." line="28" column="8" />
+        <mark key="^" line="28" column="31" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BraceHookService.cs" timestamp="1549836596160">
         <mark key="'" line="267" column="19" />
@@ -243,11 +243,7 @@
         <mark key="." line="25" column="54" />
       </file>
       <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/States/Bone.cs" timestamp="1549844294295">
-        <mark key="'" line="33" column="15" />
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
+        <mark key="'" line="32" column="15" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Constraints/LaplacianDeformerHelper.cs" timestamp="1549827382919">
         <mark key="'" line="17" column="26" />
