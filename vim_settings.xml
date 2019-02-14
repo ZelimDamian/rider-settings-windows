@@ -48,11 +48,11 @@
         <mark key="^" line="35" column="103" />
         <mark key="." line="35" column="103" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SdfUnionAlignerMeshGenerationService.cs" timestamp="1550182693145">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="84" />
-        <mark key="^" line="31" column="79" />
-        <mark key="." line="31" column="80" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SdfUnionAlignerMeshGenerationService.cs" timestamp="1550185457385">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="27" column="53" />
       </file>
       <file name="/Dummy.txt" timestamp="1549840217090">
         <mark key="[" line="0" column="0" />
@@ -152,6 +152,12 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/ImplicitFunctions/PWNImplicitFunction3d.cs" timestamp="1550185345888">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="18" />
+        <mark key="^" line="21" column="18" />
+        <mark key="." line="21" column="18" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" timestamp="1550173337796">
         <mark key="'" line="322" column="61" />
@@ -279,47 +285,47 @@
       <jump line="13" column="40" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/math/AxisAlignedBox3d.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>jawSo.Mesh.CachedBounds</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>jawSo.Mesh.CachedBounds</text>
+        <text>toothMesh</text>
       </register>
       <register name="/" type="4">
         <text>Min</text>
       </register>
-      <register name="0" type="4">
-        <text>jawMesh</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHB3biA9IG5ldyBQV05JbXBsaWNpdEZ1bmN0aW9uM2QodG9vdGhNZXNoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBtZXNoID0gbmV3IERNZXNoMyhqYXdTby5NZXNoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgdmFyIGphd01lc2hDb3B5ID0gbmV3IERNZXNoMyhqYXdTby5NZXNoLCBmYWxzZSwgZmFsc2UsIGZhbHNlKTsKLy8gICAgICAgICAgICBNZXNoVHJhbnNmb3Jtcy5Gcm9tRnJhbWUoamF3TWVzaENvcHksIGphd1NvLkdldFNjZW5lRnJhbWUoKSk7CiAgICAgICAgICAgIAovLyAgICAgICAgICAgIHZhciBtZXNoRWRpdG9yID0gbmV3IE1lc2hFZGl0b3IoamF3TWVzaENvcHkpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ1BhcmFsbGVsLkZvckVhY2gobGlzdF9vZl9wb2ludHMsIChwKSA9PiB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRlZXRoU2VydmljZSA9IEdldDxUZWV0aFNlcnZpY2U+KCk7CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciB0b290aCBpbiBqYXdTby5Nb2RlbC5UZWV0aCkKICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICB2YXIgdG9vdGhDYXBNZXNoID0gdGVldGhTZXJ2aWNlLkNyZWF0ZVRvb3RoQ2FwTWVzaCh0b290aC5Ub290aE51bWJlcik7Ci8vICAgICAgICAgICAgICAgIHZhciBmcmFtZSA9IHRvb3RoLk1lc2hTby5HZXRTY2VuZUZyYW1lKCk7Ci8vICAgICAgICAgICAgICAgIE1lc2hUcmFuc2Zvcm1zLkZyb21GcmFtZSh0b290aENhcE1lc2gsIGZyYW1lKTsKLy8gICAgICAgICAgICAgICAgbWVzaEVkaXRvci5BcHBlbmRNZXNoKHRvb3RoQ2FwTWVzaCk7Ci8vCQkJICAgIHZhciB0TWFwcGluZyA9IG5ldyBEaWN0aW9uYXJ5PGludCwgaW50PigpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRE1lc2hBQUJCVHJlZTMgYnZ0cmVlID0gbmV3IERNZXNoQUFCQlRyZWUzKG1lc2gsIHRydWUpOwogICAgICAgICAgICBidnRyZWUuRmFzdFdpbmRpbmdOdW1iZXIoVmVjdG9yM2QuWmVybyk7ICAgLy8gYnVpbGQgYXBwcm94aW1hdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJICAgIE1lc2hDb3B5U2VsZWN0aW9uLkNvcHlXZWxkaW5nKG1lc2gsIGphd01lc2hDb3B5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBtZXNoID0gbmV3IERNZXNoMyhqYXdTby5NZXNoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaW50IG51bUNlbGxzID0gMTI4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
