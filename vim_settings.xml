@@ -45,11 +45,11 @@
         <mark key="^" line="35" column="103" />
         <mark key="." line="35" column="103" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SdfUnionAlignerMeshGenerationService.cs" timestamp="1550173097752">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="10" column="44" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SdfUnionAlignerMeshGenerationService.cs" timestamp="1550175808051">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="35" />
+        <mark key="^" line="18" column="35" />
+        <mark key="." line="18" column="35" />
       </file>
       <file name="/Dummy.txt" timestamp="1549840217090">
         <mark key="[" line="0" column="0" />
@@ -277,16 +277,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jawMeshCopy</text>
+        <text>128</text>
       </register>
       <register name="-" type="4">
-        <text>jawMeshCopy</text>
+        <text>128</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCdWlsZE1vZGVsXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBtZXNoID0gU2RmVW5pb25BbGlnbmVyTWVzaEdlbmVyYXRpb25TZXJ2aWNlLkdlbmVyYXRlKHNpZGUpOwo=</text>
+      <register name="0" type="4">
+        <text>toothCellSize</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBtZXNoID0gU2RmVW5pb25BbGlnbmVyTWVzaEdlbmVyYXRpb25TZXJ2aWNlLkdlbmVyYXRlKGphd1NvLk1vZGVsKTsK</text>
