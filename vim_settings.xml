@@ -45,9 +45,9 @@
         <mark key="^" line="35" column="103" />
         <mark key="." line="35" column="103" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SdfUnionAlignerMeshGenerationService.cs" timestamp="1550181504689">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="82" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SdfUnionAlignerMeshGenerationService.cs" timestamp="1550182693145">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="84" />
         <mark key="^" line="31" column="79" />
         <mark key="." line="31" column="80" />
       </file>
@@ -127,11 +127,11 @@
         <mark key="." line="109" column="23" />
         <mark key="^" line="109" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ModelBuilderService.cs" timestamp="1550181717762">
-        <mark key="[" line="107" column="78" />
-        <mark key="]" line="107" column="82" />
-        <mark key="." line="107" column="82" />
-        <mark key="^" line="107" column="82" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ModelBuilderService.cs" timestamp="1550182815448">
+        <mark key="[" line="156" column="34" />
+        <mark key="]" line="156" column="46" />
+        <mark key="." line="156" column="46" />
+        <mark key="^" line="156" column="46" />
       </file>
       <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/SavingService.cs" timestamp="1549839738375">
         <mark key="[" line="7" column="0" />
@@ -276,47 +276,47 @@
       <jump line="322" column="61" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gCg==</text>
+      <register name="&quot;" type="4">
+        <text>jawSo.Mesh.CachedBounds</text>
       </register>
       <register name="-" type="4">
-        <text>numCells</text>
+        <text>jawSo.Mesh.CachedBounds</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCdWlsZE1vZGVsXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzbyA9IFNkZlVuaW9uQWxpZ25lck1lc2hHZW5lcmF0aW9uU2VydmljZQogICAgICAgICAgICAgICAgICAgIC5BcHBlbmRJbXBsaWNpdFVuaW9uKGlzbywgbWVzaCwgRnJhbWUzZi5JZGVudGl0eSwgMzIpOwo=</text>
+      <register name="0" type="4">
+        <text>jawMesh</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBtZXNoID0gbmV3IERNZXNoMyhqYXdTby5NZXNoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgdmFyIGphd01lc2hDb3B5ID0gbmV3IERNZXNoMyhqYXdTby5NZXNoLCBmYWxzZSwgZmFsc2UsIGZhbHNlKTsKLy8gICAgICAgICAgICBNZXNoVHJhbnNmb3Jtcy5Gcm9tRnJhbWUoamF3TWVzaENvcHksIGphd1NvLkdldFNjZW5lRnJhbWUoKSk7CiAgICAgICAgICAgIAovLyAgICAgICAgICAgIHZhciBtZXNoRWRpdG9yID0gbmV3IE1lc2hFZGl0b3IoamF3TWVzaENvcHkpOwoK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRlZXRoU2VydmljZSA9IEdldDxUZWV0aFNlcnZpY2U+KCk7CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciB0b290aCBpbiBqYXdTby5Nb2RlbC5UZWV0aCkKICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICB2YXIgdG9vdGhDYXBNZXNoID0gdGVldGhTZXJ2aWNlLkNyZWF0ZVRvb3RoQ2FwTWVzaCh0b290aC5Ub290aE51bWJlcik7Ci8vICAgICAgICAgICAgICAgIHZhciBmcmFtZSA9IHRvb3RoLk1lc2hTby5HZXRTY2VuZUZyYW1lKCk7Ci8vICAgICAgICAgICAgICAgIE1lc2hUcmFuc2Zvcm1zLkZyb21GcmFtZSh0b290aENhcE1lc2gsIGZyYW1lKTsKLy8gICAgICAgICAgICAgICAgbWVzaEVkaXRvci5BcHBlbmRNZXNoKHRvb3RoQ2FwTWVzaCk7Ci8vCQkJICAgIHZhciB0TWFwcGluZyA9IG5ldyBEaWN0aW9uYXJ5PGludCwgaW50PigpOwogICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJICAgIE1lc2hDb3B5U2VsZWN0aW9uLkNvcHlXZWxkaW5nKG1lc2gsIGphd01lc2hDb3B5KTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ci8vICAgICAgICAgICAgdmFyIGphd01lc2hDb3B5ID0gbmV3IERNZXNoMyhqYXdTby5NZXNoLCBmYWxzZSwgZmFsc2UsIGZhbHNlKTsKLy8gICAgICAgICAgICBNZXNoVHJhbnNmb3Jtcy5Gcm9tRnJhbWUoamF3TWVzaENvcHksIGphd1NvLkdldFNjZW5lRnJhbWUoKSk7CiAgICAgICAgICAgIAovLyAgICAgICAgICAgIHZhciBtZXNoRWRpdG9yID0gbmV3IE1lc2hFZGl0b3IoamF3TWVzaENvcHkpOwoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRlZXRoU2VydmljZSA9IEdldDxUZWV0aFNlcnZpY2U+KCk7CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciB0b290aCBpbiBqYXdTby5Nb2RlbC5UZWV0aCkKICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICB2YXIgdG9vdGhDYXBNZXNoID0gdGVldGhTZXJ2aWNlLkNyZWF0ZVRvb3RoQ2FwTWVzaCh0b290aC5Ub290aE51bWJlcik7Ci8vICAgICAgICAgICAgICAgIHZhciBmcmFtZSA9IHRvb3RoLk1lc2hTby5HZXRTY2VuZUZyYW1lKCk7Ci8vICAgICAgICAgICAgICAgIE1lc2hUcmFuc2Zvcm1zLkZyb21GcmFtZSh0b290aENhcE1lc2gsIGZyYW1lKTsKLy8gICAgICAgICAgICAgICAgbWVzaEVkaXRvci5BcHBlbmRNZXNoKHRvb3RoQ2FwTWVzaCk7Ci8vCQkJICAgIHZhciB0TWFwcGluZyA9IG5ldyBEaWN0aW9uYXJ5PGludCwgaW50PigpOwogICAgICAgICAgICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaW50IG51bUNlbGxzID0gMTI4Owo=</text>
+        <text encoding="base64">CQkJICAgIE1lc2hDb3B5U2VsZWN0aW9uLkNvcHlXZWxkaW5nKG1lc2gsIGphd01lc2hDb3B5KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBmcmFtZSA9IHRvb3RoLk1lc2hTby5HZXRTY2VuZUZyYW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0b290aE1lc2ggPSBuZXcgRE1lc2gzKHRvb3RoLk1lc2hTby5NZXNoKTsKICAgICAgICAgICAgICAgIHZhciBmcmFtZSA9IHRvb3RoLk1lc2hTby5HZXRTY2VuZUZyYW1lKCk7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIE1lc2hUcmFuc2Zvcm1VdGlsaXR5LkFwcGx5VHJhbnNmb3JtYXRpb24odG9vdGhNZXNoLCBmcmFtZSwgVmVjdG9yM2YuT25lKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgY29uc3QgaW50IHRvb3RoTnVtQ2VsbHMgPSAxMjg7CiAgICAgICAgICAgICAgICB2YXIgdG9vdGhDZWxsU2l6ZSA9IG1lc2guQ2FjaGVkQm91bmRzLk1heERpbSAvIHRvb3RoTnVtQ2VsbHM7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIHZhciBzZGYgPSBuZXcgTWVzaFNpZ25lZERpc3RhbmNlR3JpZCh0b290aE1lc2gsIHRvb3RoQ2VsbFNpemUpOwogICAgICAgICAgICAgICAgc2RmLkNvbXB1dGUoKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdmFyIGlzbyA9IG5ldyBEZW5zZUdyaWRUcmlsaW5lYXJJbXBsaWNpdChzZGYuR3JpZCwgc2RmLkdyaWRPcmlnaW4sIHNkZi5DZWxsU2l6ZSk7CiAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaW50IG51bUNlbGxzID0gMTI4Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
