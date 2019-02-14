@@ -26,6 +26,9 @@
         <mark key="^" line="48" column="66" />
         <mark key="." line="48" column="61" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/math/AxisAlignedBox3d.cs" timestamp="1550183799930">
+        <mark key="'" line="13" column="40" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/OriginSetup/Controllers/OriginSetupController.cs" timestamp="1550171635562">
         <mark key="'" line="161" column="29" />
         <mark key="[" line="203" column="0" />
@@ -174,11 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="52" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceCreation/Controllers/BraceCreationController.cs" />
-      <jump line="174" column="37" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceCreation/Controllers/BraceCreationController.cs" />
-      <jump line="64" column="59" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceCreation/Controllers/BraceCreationController.cs" />
-      <jump line="231" column="8" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceModelBuilder/Controllers/BraceModelBuilderController.cs" />
-      <jump line="93" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceModelBuilder/Controllers/BraceModelBuilderController.cs" />
       <jump line="106" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceModelBuilder/Controllers/BraceModelBuilderController.cs" />
       <jump line="95" column="26" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceModelBuilder/Controllers/BraceModelBuilderController.cs" />
       <jump line="123" column="34" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
@@ -274,6 +272,11 @@
       <jump line="186" column="59" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
       <jump line="309" column="57" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
       <jump line="322" column="61" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
+      <jump line="86" column="22" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/math/AxisAlignedBox3d.cs" />
+      <jump line="92" column="61" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/math/AxisAlignedBox3d.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/math/AxisAlignedBox3d.cs" />
+      <jump line="6" column="24" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/math/AxisAlignedBox3d.cs" />
+      <jump line="13" column="40" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/math/AxisAlignedBox3d.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -283,7 +286,7 @@
         <text>jawSo.Mesh.CachedBounds</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCdWlsZE1vZGVsXD4=</text>
+        <text>Min</text>
       </register>
       <register name="0" type="4">
         <text>jawMesh</text>
@@ -323,9 +326,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCdWlsZE1vZGVsXD4=</last-search>
+      <last-search>Min</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCdWlsZE1vZGVsXD4=</last-pattern>
+      <last-pattern>Min</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -333,7 +336,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2FkRnJvbUZpbGVcPg==</entry>
         <entry>Behavi</entry>
         <entry>Material</entry>
         <entry>Parent</entry>
@@ -353,6 +355,7 @@
         <entry encoding="base64">XDxQcmVzZXJ2ZVw+</entry>
         <entry encoding="base64">XDxtZXNoXD4=</entry>
         <entry encoding="base64">XDxCdWlsZE1vZGVsXD4=</entry>
+        <entry>Min</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
