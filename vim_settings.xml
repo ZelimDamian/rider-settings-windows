@@ -89,7 +89,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/AttachmentService.cs" timestamp="1548764695295">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/AttachmentService.cs" timestamp="1550240816568">
         <mark key="'" line="105" column="99" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -176,7 +176,8 @@
         <mark key="^" line="35" column="103" />
         <mark key="." line="35" column="103" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SdfUnionAlignerMeshGenerationService.cs" timestamp="1550226849996">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SdfUnionAlignerMeshGenerationService.cs" timestamp="1550241358276">
+        <mark key="'" line="12" column="26" />
         <mark key="[" line="12" column="42" />
         <mark key="]" line="12" column="43" />
         <mark key="." line="12" column="43" />
@@ -270,12 +271,12 @@
         <mark key="." line="83" column="32" />
         <mark key="^" line="83" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ModelBuilderService.cs" timestamp="1550223366307">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ModelBuilderService.cs" timestamp="1550240719796">
         <mark key="'" line="102" column="16" />
-        <mark key="[" line="150" column="31" />
-        <mark key="]" line="150" column="38" />
-        <mark key="^" line="150" column="38" />
-        <mark key="." line="150" column="38" />
+        <mark key="[" line="150" column="49" />
+        <mark key="]" line="150" column="96" />
+        <mark key="^" line="150" column="97" />
+        <mark key="." line="151" column="67" />
       </file>
       <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/SavingService.cs" timestamp="1549839738375">
         <mark key="[" line="7" column="0" />
@@ -295,11 +296,11 @@
         <mark key="^" line="25" column="54" />
         <mark key="." line="25" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/ImplicitFunctions/PWNImplicitFunction3d.cs" timestamp="1550185345888">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="18" />
-        <mark key="^" line="21" column="18" />
-        <mark key="." line="21" column="18" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/ImplicitFunctions/PWNImplicitFunction3d.cs" timestamp="1550240540046">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+        <mark key="^" line="16" column="26" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Constraints/LaplacianDeformerHelper.cs" timestamp="1550226761523">
         <mark key="'" line="17" column="26" />
@@ -316,10 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="39" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/JawsService.cs" />
-      <jump line="45" column="38" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/SetupTooth/SetupToothTool.cs" />
-      <jump line="85" column="18" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/SetupTooth/SetupToothTool.cs" />
-      <jump line="96" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/SetupTooth/SetupToothTool.cs" />
       <jump line="105" column="34" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/SetupTooth/SetupToothTool.cs" />
       <jump line="98" column="34" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/SetupTooth/SetupToothTool.cs" />
       <jump line="18" column="26" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Constraints/LaplacianDeformerHelper.cs" />
@@ -416,58 +413,62 @@
       <jump line="245" column="41" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/LaplacianMeshDeformer.cs" />
       <jump line="54" column="98" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/LaplacianMeshDeformer.cs" />
       <jump line="23" column="24" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/LaplacianMeshDeformer.cs" />
+      <jump line="52" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SdfUnionAlignerMeshGenerationService.cs" />
+      <jump line="29" column="30" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SdfUnionAlignerMeshGenerationService.cs" />
+      <jump line="37" column="77" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SdfUnionAlignerMeshGenerationService.cs" />
+      <jump line="12" column="26" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SdfUnionAlignerMeshGenerationService.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>128</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>128</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQb3N0Rml4XD4=</text>
+        <text encoding="base64">XDxUb290aE51bUNlbGxzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>iso</text>
+        <text>SdfUnionAlignerMeshGenerationService.JawNumCells</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGphd01lc2ggPSBuZXcgRE1lc2gzKGphd1NvLk1lc2gpOwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgZnJhbWUgPSBqYXdTby5HZXRTY2VuZUZyYW1lKCk7CiAgICAgICAgICAgICAgICBNZXNoVHJhbnNmb3JtVXRpbGl0eS5BcHBseVRyYW5zZm9ybWF0aW9uKGphd01lc2gsIGZyYW1lLCBWZWN0b3IzZi5PbmUpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgc3BhdGlhbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaW50IG51bUNlbGxzID0gMjU2Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJ2dHJlZS5GYXN0V2luZGluZ051bWJlcihwdCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGphd01lc2ggPSBuZXcgRE1lc2gzKGphd1NvLk1lc2gpOwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgZnJhbWUgPSBqYXdTby5HZXRTY2VuZUZyYW1lKCk7CiAgICAgICAgICAgICAgICBNZXNoVHJhbnNmb3JtVXRpbGl0eS5BcHBseVRyYW5zZm9ybWF0aW9uKGphd01lc2gsIGZyYW1lLCBWZWN0b3IzZi5PbmUpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YXIgcHduID0gbmV3IFBXTkltcGxpY2l0RnVuY3Rpb24zZCh0b290aE1lc2gpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaW50IG51bUNlbGxzID0gMjU2Owo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQb3N0Rml4XD4=</last-search>
+      <last-search encoding="base64">XDxUb290aE51bUNlbGxzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQb3N0Rml4XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxUb290aE51bUNlbGxzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -475,8 +476,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Brace</entry>
-        <entry>Before</entry>
         <entry encoding="base64">XDxWaXNpYmlsaXR5Q2hhbmdlZFw+</entry>
         <entry encoding="base64">XDxCZWZvcmVTYXZlXD4=</entry>
         <entry encoding="base64">XDxTYXZlQWxsU3RhdGVcPg==</entry>
@@ -495,6 +494,8 @@
         <entry encoding="base64">XDxNYXhJdGVyYXRpb25zXD4=</entry>
         <entry encoding="base64">XDxiRm9yY2VUb0ZpeGVkUG9zXD4=</entry>
         <entry encoding="base64">XDxQb3N0Rml4XD4=</entry>
+        <entry encoding="base64">XDxQV05JbXBsaWNpdEZ1bmN0aW9uM2RcPg==</entry>
+        <entry encoding="base64">XDxUb290aE51bUNlbGxzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
