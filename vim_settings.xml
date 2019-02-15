@@ -17,6 +17,11 @@
         <mark key="." line="18" column="61" />
         <mark key="^" line="18" column="61" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Tooth.cs" timestamp="1550244813145">
+        <mark key="'" line="16" column="21" />
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="39" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Importing/Controllers/ImportingController.cs" timestamp="1549835025551">
         <mark key="'" line="248" column="12" />
         <mark key="[" line="104" column="24" />
@@ -101,6 +106,9 @@
         <mark key="]" line="18" column="24" />
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/ToothContour.cs" timestamp="1550244920537">
+        <mark key="'" line="46" column="25" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/JawDisplacementService.cs" timestamp="1549837829031">
         <mark key="'" line="73" column="16" />
@@ -317,8 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="34" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/SetupTooth/SetupToothTool.cs" />
-      <jump line="98" column="34" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/SetupTooth/SetupToothTool.cs" />
       <jump line="18" column="26" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Constraints/LaplacianDeformerHelper.cs" />
       <jump line="9" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/Helpers/TestExportHelper.cs" />
       <jump line="1" column="6" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/Helpers/TestExportHelper.cs" />
@@ -417,19 +423,21 @@
       <jump line="29" column="30" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SdfUnionAlignerMeshGenerationService.cs" />
       <jump line="37" column="77" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SdfUnionAlignerMeshGenerationService.cs" />
       <jump line="12" column="26" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SdfUnionAlignerMeshGenerationService.cs" />
+      <jump line="16" column="21" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Tooth.cs" />
+      <jump line="46" column="25" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/ToothContour.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>ContourLoopVertices</text>
       </register>
       <register name="-" type="4">
         <text>6</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUb290aE51bUNlbGxzXD4=</text>
+        <text encoding="base64">XDxSb290VHJpYW5nbGVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>SdfUnionAlignerMeshGenerationService.JawNumCells</text>
+        <text>ContourLoopVertices</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -466,9 +474,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUb290aE51bUNlbGxzXD4=</last-search>
+      <last-search encoding="base64">XDxSb290VHJpYW5nbGVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUb290aE51bUNlbGxzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxSb290VHJpYW5nbGVzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -476,8 +484,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxWaXNpYmlsaXR5Q2hhbmdlZFw+</entry>
-        <entry encoding="base64">XDxCZWZvcmVTYXZlXD4=</entry>
         <entry encoding="base64">XDxTYXZlQWxsU3RhdGVcPg==</entry>
         <entry>reset</entry>
         <entry>Reset</entry>
@@ -496,6 +502,8 @@
         <entry encoding="base64">XDxQb3N0Rml4XD4=</entry>
         <entry encoding="base64">XDxQV05JbXBsaWNpdEZ1bmN0aW9uM2RcPg==</entry>
         <entry encoding="base64">XDxUb290aE51bUNlbGxzXD4=</entry>
+        <entry encoding="base64">XDxDb250b3VyTG9vcFZlcnRpY2VzXD4=</entry>
+        <entry encoding="base64">XDxSb290VHJpYW5nbGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
@@ -505,8 +513,8 @@
         <entry>wwa</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>qa</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
