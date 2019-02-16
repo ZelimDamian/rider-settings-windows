@@ -293,7 +293,6 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/WaypointCurves/SegmentationContoursHelper.cs" timestamp="1550324402214" />
     </filemarks>
     <jumps>
-      <jump line="92" column="30" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/JawsService.cs" />
       <jump line="242" column="0" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BraceHookService.cs" />
       <jump line="267" column="19" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BraceHookService.cs" />
       <jump line="94" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BoneService.cs" />
@@ -393,6 +392,7 @@
       <jump line="102" column="24" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" />
       <jump line="45" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" />
       <jump line="139" column="120" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" />
+      <jump line="158" column="35" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshEditor.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
