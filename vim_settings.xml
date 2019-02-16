@@ -160,10 +160,10 @@
         <mark key="]" line="230" column="122" />
         <mark key="." line="230" column="122" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1550323725670">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1550354854820">
         <mark key="'" line="55" column="16" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="233" column="52" />
         <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/PlaceAttachment/PlaceAttachmentTool.cs" timestamp="1548185715273">
@@ -396,8 +396,8 @@
       <jump line="158" column="35" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshEditor.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>shouldAddNewPointOverRed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0b290aEVkZ2VzID0gamF3U2VnbWVudFNwYW4uU3Bhbi5FZGdlcwogICAgICAgICAgICAgICAgICAgIC5TZWxlY3QoZUlkID0+IGVNYXBwaW5nLkNvbnRhaW5zS2V5KGVJZCkgPyBlTWFwcGluZ1tlSWRdIDogLTEpCiAgICAgICAgICAgICAgICAgICAgLldoZXJlKGVJZCA9PiBlSWQgIT0gLTEpCi8vICAgICAgICAgICAgICAgICAgICAuV2hlcmUodG9vdGhNZXNoLklzQm91bmRhcnlFZGdlKQogICAgICAgICAgICAgICAgICAgIC5SZXZlcnNlKCkKICAgICAgICAgICAgICAgICAgICAuVG9MaXN0KCk7CgogICAgICAgICAgICAgICAgaWYgKHRvb3RoRWRnZXMuQ291bnQgPD0gMCkgY29udGludWU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -405,8 +405,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzaG91bGRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>shouldAddNewPointOverRed</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0b290aEVkZ2VzID0gamF3U2VnbWVudFNwYW4uU3Bhbi5FZGdlcwogICAgICAgICAgICAgICAgICAgIC5TZWxlY3QoZUlkID0+IGVNYXBwaW5nLkNvbnRhaW5zS2V5KGVJZCkgPyBlTWFwcGluZ1tlSWRdIDogLTEpCiAgICAgICAgICAgICAgICAgICAgLldoZXJlKGVJZCA9PiBlSWQgIT0gLTEpCi8vICAgICAgICAgICAgICAgICAgICAuV2hlcmUodG9vdGhNZXNoLklzQm91bmRhcnlFZGdlKQogICAgICAgICAgICAgICAgICAgIC5SZXZlcnNlKCkKICAgICAgICAgICAgICAgICAgICAuVG9MaXN0KCk7CgogICAgICAgICAgICAgICAgaWYgKHRvb3RoRWRnZXMuQ291bnQgPD0gMCkgY29udGludWU7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
