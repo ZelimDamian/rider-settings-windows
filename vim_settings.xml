@@ -120,9 +120,12 @@
         <mark key="." line="249" column="0" />
         <mark key="^" line="248" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" timestamp="1550331780005">
-        <mark key="'" line="102" column="24" />
-        <mark key="[" line="338" column="66" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" timestamp="1550332405852">
+        <mark key="'" line="140" column="120" />
+        <mark key="[" line="127" column="45" />
+        <mark key="]" line="127" column="45" />
+        <mark key="." line="127" column="45" />
+        <mark key="^" line="127" column="45" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/SetupTooth/SetupToothTool.cs" timestamp="1549810373002">
         <mark key="'" line="98" column="34" />
@@ -150,7 +153,7 @@
         <mark key="^" line="203" column="13" />
         <mark key="." line="203" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshSmoothEdgesAlongCurveUtilities.cs" timestamp="1550324197609">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshSmoothEdgesAlongCurveUtilities.cs" timestamp="1550332535988">
         <mark key="[" line="230" column="122" />
         <mark key="]" line="230" column="122" />
         <mark key="." line="230" column="122" />
@@ -289,8 +292,6 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/WaypointCurves/SegmentationContoursHelper.cs" timestamp="1550324402214" />
     </filemarks>
     <jumps>
-      <jump line="104" column="42" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/JawsService.cs" />
-      <jump line="85" column="18" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/JawsService.cs" />
       <jump line="92" column="30" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/JawsService.cs" />
       <jump line="242" column="0" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BraceHookService.cs" />
       <jump line="267" column="19" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BraceHookService.cs" />
@@ -389,58 +390,60 @@
       <jump line="112" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" />
       <jump line="103" column="24" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" />
       <jump line="102" column="24" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" />
+      <jump line="45" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" />
+      <jump line="139" column="120" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>shouldAddNewPointOverRed</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>Debug</text>
+        <text encoding="base64">XDxzaG91bGRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>DrawContourSegmentEdges</text>
+        <text>shouldAddNewPointOverRed</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERyYXdFZGdlcyhzZWdtZW50U3Bhbi5TcGFuLkVkZ2VzLCB0b290aENvbnRvdXIuSmF3Lk1lc2hTbywgZ3JhZGllbnQuRXZhbHVhdGUoaSsrIC8gY291bnQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBZGRXYXlwb2ludEF0KHdvcmxkUmF5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdzsKICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHZhciBkZWJ1ZyA9IFNlcnZpY2UuR2V0PERlYnVnRHJhd1NlcnZpY2U+KCk7CiAgICAgICAgICAgIGRlYnVnLkFkZCgoKSA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb250b3Vyc0RlYnVnUmVuZGVyZXIuRHJhd0NvbnRvdXJTZWdtZW50RWRnZXModG9vdGhDb250b3VyKTsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9KTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERyYXdFZGdlcyhzZWdtZW50U3Bhbi5TcGFuLkVkZ2VzLCB0b290aENvbnRvdXIuSmF3Lk1lc2hTbywgZ3JhZGllbnQuRXZhbHVhdGUoaSsrIC8gY291bnQpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdzsKICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyB2b2lkIERlYnVnRHJhd1NlZ21lbnRzKFRvb3RoQ29udG91ciB0b290aENvbnRvdXIpCiAgICAgICAgewogICAgICAgICAgICBmb3JlYWNoICh2YXIgc2lkZSBpbiBuZXdbXSB7U2VnbWVudFNpZGUuTmVnLCBTZWdtZW50U2lkZS5Qb3N9KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgamF3U2VnbWVudFNwYW4gPQogICAgICAgICAgICAgICAgICAgIHRvb3RoQ29udG91ci5KYXdJbnNlcnRDdXJ2ZVJlc3VsdC5TZWdtZW50U3BhbnMuRmlyc3RPckRlZmF1bHQoc3MgPT4gc3MuU2lkZSA9PSBzaWRlKTsKCiAgICAgICAgICAgICAgICBpZiAoamF3U2VnbWVudFNwYW4gPT0gbnVsbCkgY29udGludWU7CgogICAgICAgICAgICAgICAgdmFyIHRvb3RoRWRnZXMgPSBqYXdTZWdtZW50U3Bhbi5TcGFuLkVkZ2VzOwoKICAgICAgICAgICAgICAgIGlmICh0b290aEVkZ2VzLkxlbmd0aCA8PSAwKSBjb250aW51ZTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHZhciBkZWJ1ZyA9IFNlcnZpY2UuR2V0PERlYnVnRHJhd1NlcnZpY2U+KCk7CiAgICAgICAgICAgIGRlYnVnLkFkZCgoKSA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb250b3Vyc0RlYnVnUmVuZGVyZXIuRHJhd0NvbnRvdXJTZWdtZW50RWRnZXModG9vdGhDb250b3VyKTsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWdEcmF3U2VnbWVudHModG9vdGhDb250b3VyKTsKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Debug</last-search>
+      <last-search encoding="base64">XDxzaG91bGRcPg==</last-search>
       <last-offset />
-      <last-pattern>Debug</last-pattern>
+      <last-pattern encoding="base64">XDxzaG91bGRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -448,7 +451,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQcmVzZXJ2ZVw+</entry>
         <entry encoding="base64">XDxtZXNoXD4=</entry>
         <entry encoding="base64">XDxCdWlsZE1vZGVsXD4=</entry>
         <entry>Min</entry>
@@ -468,6 +470,7 @@
         <entry encoding="base64">XDxyaWRnZVNwYW5cPg==</entry>
         <entry>ContourDebug</entry>
         <entry>Debug</entry>
+        <entry encoding="base64">XDxzaG91bGRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
