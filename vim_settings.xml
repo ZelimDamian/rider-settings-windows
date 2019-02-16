@@ -127,6 +127,7 @@
         <mark key="." line="127" column="45" />
         <mark key="^" line="127" column="45" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshEditor.cs" timestamp="1550335498685" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/SetupTooth/SetupToothTool.cs" timestamp="1549810373002">
         <mark key="'" line="98" column="34" />
         <mark key="[" line="105" column="0" />
@@ -153,7 +154,7 @@
         <mark key="^" line="203" column="13" />
         <mark key="." line="203" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshSmoothEdgesAlongCurveUtilities.cs" timestamp="1550332535988">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshSmoothEdgesAlongCurveUtilities.cs" timestamp="1550335375004">
         <mark key="[" line="230" column="122" />
         <mark key="]" line="230" column="122" />
         <mark key="." line="230" column="122" />
