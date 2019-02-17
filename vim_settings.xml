@@ -157,12 +157,12 @@
         <mark key="]" line="230" column="122" />
         <mark key="." line="230" column="122" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1550431629722">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1550432324613">
         <mark key="'" line="763" column="30" />
-        <mark key="[" line="248" column="24" />
-        <mark key="]" line="248" column="19" />
-        <mark key="." line="248" column="19" />
-        <mark key="^" line="248" column="19" />
+        <mark key="[" line="244" column="59" />
+        <mark key="]" line="244" column="63" />
+        <mark key="." line="244" column="63" />
+        <mark key="^" line="244" column="63" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/PlaceAttachment/PlaceAttachmentTool.cs" timestamp="1548185715273">
         <mark key="'" line="196" column="16" />
@@ -373,17 +373,17 @@
       <jump line="763" column="30" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>Length</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;);(&quot;&quot;);</text>
+        <text>Length</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb3B5V2VsZGluZ1w+</text>
       </register>
       <register name="0" type="4">
-        <text>tMapping</text>
+        <text>toothEdges</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
