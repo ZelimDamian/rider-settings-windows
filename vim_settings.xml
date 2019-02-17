@@ -157,12 +157,12 @@
         <mark key="]" line="230" column="122" />
         <mark key="." line="230" column="122" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1550432324613">
-        <mark key="'" line="763" column="30" />
-        <mark key="[" line="244" column="59" />
-        <mark key="]" line="244" column="63" />
-        <mark key="." line="244" column="63" />
-        <mark key="^" line="244" column="63" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1550437089671">
+        <mark key="'" line="454" column="42" />
+        <mark key="[" line="446" column="0" />
+        <mark key="]" line="446" column="0" />
+        <mark key="." line="446" column="0" />
+        <mark key="^" line="531" column="76" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/PlaceAttachment/PlaceAttachmentTool.cs" timestamp="1548185715273">
         <mark key="'" line="196" column="16" />
@@ -271,23 +271,6 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/WaypointCurves/SegmentationContoursHelper.cs" timestamp="1550324402214" />
     </filemarks>
     <jumps>
-      <jump line="210" column="66" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/WebGLTemplates/BetterTemplate/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/WebGLTemplates/BetterTemplate/index.html" />
-      <jump line="21" column="19" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/WebGLTemplates/BetterTemplate/index.html" />
-      <jump line="26" column="19" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/WebGLTemplates/BetterTemplate/index.html" />
-      <jump line="29" column="18" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/WebGLTemplates/BetterTemplate/index.html" />
-      <jump line="30" column="19" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/WebGLTemplates/BetterTemplate/index.html" />
-      <jump line="67" column="25" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/WebGLTemplates/BetterTemplate/index.html" />
-      <jump line="84" column="9" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/WebGLTemplates/BetterTemplate/index.html" />
-      <jump line="87" column="11" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/WebGLTemplates/BetterTemplate/index.html" />
-      <jump line="111" column="17" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/WebGLTemplates/BetterTemplate/index.html" />
-      <jump line="124" column="14" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/WebGLTemplates/BetterTemplate/index.html" />
-      <jump line="129" column="15" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/WebGLTemplates/BetterTemplate/index.html" />
-      <jump line="135" column="13" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/WebGLTemplates/BetterTemplate/index.html" />
-      <jump line="154" column="13" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/WebGLTemplates/BetterTemplate/index.html" />
-      <jump line="155" column="31" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/WebGLTemplates/BetterTemplate/index.html" />
-      <jump line="206" column="15" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/WebGLTemplates/BetterTemplate/index.html" />
-      <jump line="17" column="46" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/States/Jaw.cs" />
       <jump line="60" column="15" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/States/Jaw.cs" />
       <jump line="80" column="57" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/States/Jaw.cs" />
       <jump line="69" column="27" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/States/Jaw.cs" />
@@ -371,58 +354,75 @@
       <jump line="657" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="576" column="38" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="763" column="30" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="385" column="43" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="531" column="76" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="700" column="57" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="469" column="75" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="456" column="42" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="447" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="446" column="0" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="259" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="271" column="24" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="274" column="75" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="275" column="85" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="278" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="281" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="284" column="55" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="698" column="57" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="467" column="75" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
+      <jump line="454" column="42" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Length</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHZlcnRpY2VzID0gbmV3TG9vcFZlcnRpY2VzOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Length</text>
+        <text>vertices</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb3B5V2VsZGluZ1w+</text>
+        <text encoding="base64">XDx2ZXJ0aWNlc1w+</text>
       </register>
       <register name="0" type="4">
         <text>toothEdges</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHZlcnRpY2VzID0gbmV3TG9vcFZlcnRpY2VzOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaG9sZU1lc2hFZGl0b3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250b3VyID09IG51bGwpIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhvbGVNZXNoID0gbmV3IERNZXNoMygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JCQkgICAgY2F0Y2ggKEV4Y2VwdGlvbiBlKQovLwkJCSAgICB7Ci8vCQkJCSAgICBEZWJ1Zy5Mb2dFcnJvcihlLk1lc3NhZ2UpOwovLwkJCSAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhvbGVNZXNoID0gbmV3IERNZXNoMygpOwogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250b3VyID09IG51bGwpIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIHN0aXRjaCB0cmlhbmdsZXMKLy8gICAgICAgICAgICB2YXIgaG9sZU1lc2hWZXJ0SW5kaWNlc0lubmVyID0gdmVydGljZXMKLy8gICAgICAgICAgICAgICAgLlNlbGVjdChtZXNoLkdldFZlcnRleCkKLy8gICAgICAgICAgICAgICAgLlNlbGVjdCh2ZXJ0ZXggPT4gY2VudHJvaWQgKyAodmVydGV4IC0gY2VudHJvaWQpIC8gMi4wKQovLyAgICAgICAgICAgICAgICAuU2VsZWN0KHZlcnRleCA9PiBob2xlTWVzaC5BcHBlbmRWZXJ0ZXgodmVydGV4KSkKLy8gICAgICAgICAgICAgICAgLlRvQXJyYXkoKTsKLy8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8JCQkgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8JCQkgICAgewovLwkJCQkgICAgRGVidWcuTG9nRXJyb3IoZS5NZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSAgICAKLy8JCQkgICAgY2F0Y2ggKEV4Y2VwdGlvbiBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250b3VyID09IG51bGwpIGNvbnRpbnVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb3B5V2VsZGluZ1w+</last-search>
+      <last-search encoding="base64">XDx2ZXJ0aWNlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb3B5V2VsZGluZ1w+</last-pattern>
+      <last-pattern encoding="base64">XDx2ZXJ0aWNlc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -430,8 +430,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQV05JbXBsaWNpdEZ1bmN0aW9uM2RcPg==</entry>
-        <entry encoding="base64">XDxUb290aE51bUNlbGxzXD4=</entry>
         <entry encoding="base64">XDxDb250b3VyTG9vcFZlcnRpY2VzXD4=</entry>
         <entry encoding="base64">XDxSb290VHJpYW5nbGVzXD4=</entry>
         <entry encoding="base64">XDw7XD4=</entry>
@@ -450,6 +448,8 @@
         <entry>DrawFaceEdges</entry>
         <entry encoding="base64">XDxjb250b3VyXD4=</entry>
         <entry encoding="base64">XDxDb3B5V2VsZGluZ1w+</entry>
+        <entry>var vertices</entry>
+        <entry encoding="base64">XDx2ZXJ0aWNlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
