@@ -50,10 +50,11 @@
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/math/AxisAlignedBox3d.cs" timestamp="1550183799930">
         <mark key="'" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/TeethService.cs" timestamp="1550250203750">
-        <mark key="[" line="340" column="0" />
-        <mark key="]" line="340" column="0" />
-        <mark key="." line="340" column="0" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/TeethService.cs" timestamp="1550417458279">
+        <mark key="[" line="49" column="40" />
+        <mark key="]" line="49" column="43" />
+        <mark key="." line="49" column="43" />
+        <mark key="^" line="49" column="43" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/JawsService.cs" timestamp="1550249199299">
         <mark key="'" line="92" column="30" />
@@ -161,12 +162,12 @@
         <mark key="]" line="230" column="122" />
         <mark key="." line="230" column="122" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1550362813580">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1550417537997">
         <mark key="'" line="286" column="44" />
-        <mark key="[" line="248" column="17" />
-        <mark key="]" line="249" column="15" />
-        <mark key="." line="249" column="15" />
-        <mark key="^" line="249" column="15" />
+        <mark key="[" line="571" column="75" />
+        <mark key="]" line="571" column="87" />
+        <mark key="." line="571" column="87" />
+        <mark key="^" line="571" column="87" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/PlaceAttachment/PlaceAttachmentTool.cs" timestamp="1548185715273">
         <mark key="'" line="196" column="16" />
@@ -399,49 +400,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXdUcmlhbmdsZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>segmentSpan</text>
+        <text>neighbour</text>
       </register>
       <register name="/" type="4">
         <text>DrawFaceEdges</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNoYXJlZEphd0VkZ2VzID0gc2VnbWVudFNwYW4uU3Bhbi5FZGdlcwogICAgICAgICAgICAgICAgLldoZXJlKGVJZCA9PiBlTWFwcGluZy5Db250YWluc0tleShlSWQpICYmIGVNYXBwaW5nW2VJZF0gIT0gLTEpCi8vICAgICAgICAgICAgICAgIC5SZXZlcnNlKCkKICAgICAgICAgICAgICAgIC5Ub0xpc3QoKTsK</text>
+        <text encoding="base64">CQlwdWJsaWMgVG9vdGggTmV4dFRvb3RoKFRvb3RoIHRvb3RoMSkKCQl7CgkJCXZhciBuZXh0VG9vdGhOdW1iZXIgPSBUb290aC5OZXh0VG9vdGhOdW1iZXIodG9vdGgxLlRvb3RoTnVtYmVyKTsKCQkJcmV0dXJuIEZpbmRCeU51bWJlcihuZXh0VG9vdGhOdW1iZXIpOwoJCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXdUcmlhbmdsZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNoYXJlZEphd0VkZ2VzID0gamF3U2VnbWVudFNwYW4uU3Bhbi5FZGdlcwogICAgICAgICAgICAgICAgLldoZXJlKGVJZCA9PiBlTWFwcGluZy5Db250YWluc0tleShlSWQpICYmIGVNYXBwaW5nW2VJZF0gIT0gLTEpCi8vICAgICAgICAgICAgICAgIC5SZXZlcnNlKCkKICAgICAgICAgICAgICAgIC5Ub0xpc3QoKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICBTZXJ2aWNlLkdldDxEZWJ1Z0RyYXdTZXJ2aWNlPigpLkFkZCgoKSA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb250b3Vyc0RlYnVnUmVuZGVyZXIuRHJhd0VkZ2VzKHNoYXJlZEphd0VkZ2VzLCB0b290aENvbnRvdXIuSmF3Lk1lc2hTbywgQ29sb3JmLkJsdWUpOwogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0pOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNoYXJlZEphd0VkZ2VzID0gamF3U2VnbWVudFNwYW4uU3Bhbi5FZGdlcwogICAgICAgICAgICAgICAgLldoZXJlKGVJZCA9PiBlTWFwcGluZy5Db250YWluc0tleShlSWQpICYmIGVNYXBwaW5nW2VJZF0gIT0gLTEpCi8vICAgICAgICAgICAgICAgIC5SZXZlcnNlKCkKICAgICAgICAgICAgICAgIC5Ub0xpc3QoKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICBTZXJ2aWNlLkdldDxEZWJ1Z0RyYXdTZXJ2aWNlPigpLkFkZCgoKSA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb250b3Vyc0RlYnVnUmVuZGVyZXIuRHJhd0VkZ2VzKHNoYXJlZEphd0VkZ2VzLCB0b290aENvbnRvdXIuSmF3Lk1lc2hTbywgQ29sb3JmLkJsdWUpOwogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0pOwoK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGRlYnVnID0gU2VydmljZS5HZXQ8RGVidWdEcmF3U2VydmljZT4oKTsKICAgICAgICAgICAgICAgIGRlYnVnLkFkZCgoKSA9PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIENvbnRvdXJzRGVidWdSZW5kZXJlci5EcmF3VmVydGljZXMocmlkZ2VTdGFydC5Db25jYXQocmlkZ2VFbmQpLCBqYXdTbyk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGRlYnVnID0gU2VydmljZS5HZXQ8RGVidWdEcmF3U2VydmljZT4oKTsKICAgICAgICAgICAgICAgIGRlYnVnLkFkZCgoKSA9PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIENvbnRvdXJzRGVidWdSZW5kZXJlci5EcmF3VmVydGljZXMocmlkZ2VTdGFydC5Db25jYXQocmlkZ2VFbmQpLCBqYXdTbyk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5XaGVyZSh0b290aE1lc2guSXNCb3VuZGFyeUVkZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5TZWxlY3QoZUlkID0+ICA/IGVNYXBwaW5nW2VJZF0gOiAtMSkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5XaGVyZSh0b290aE1lc2guSXNCb3VuZGFyeUVkZ2UpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -485,8 +486,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>qa</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
