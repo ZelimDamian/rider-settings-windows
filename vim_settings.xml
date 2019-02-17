@@ -161,12 +161,12 @@
         <mark key="]" line="230" column="122" />
         <mark key="." line="230" column="122" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1550361014217">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1550362813580">
         <mark key="'" line="286" column="44" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="246" column="46" />
+        <mark key="[" line="248" column="17" />
+        <mark key="]" line="249" column="15" />
+        <mark key="." line="249" column="15" />
+        <mark key="^" line="249" column="15" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/PlaceAttachment/PlaceAttachmentTool.cs" timestamp="1548185715273">
         <mark key="'" line="196" column="16" />
@@ -417,28 +417,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGRlYnVnID0gU2VydmljZS5HZXQ8RGVidWdEcmF3U2VydmljZT4oKTsKICAgICAgICAgICAgICAgIGRlYnVnLkFkZCgoKSA9PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIENvbnRvdXJzRGVidWdSZW5kZXJlci5EcmF3VmVydGljZXMocmlkZ2VTdGFydC5Db25jYXQocmlkZ2VFbmQpLCBqYXdTbyk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNoYXJlZEphd0VkZ2VzID0gamF3U2VnbWVudFNwYW4uU3Bhbi5FZGdlcwogICAgICAgICAgICAgICAgLldoZXJlKGVJZCA9PiBlTWFwcGluZy5Db250YWluc0tleShlSWQpICYmIGVNYXBwaW5nW2VJZF0gIT0gLTEpCi8vICAgICAgICAgICAgICAgIC5SZXZlcnNlKCkKICAgICAgICAgICAgICAgIC5Ub0xpc3QoKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICBTZXJ2aWNlLkdldDxEZWJ1Z0RyYXdTZXJ2aWNlPigpLkFkZCgoKSA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb250b3Vyc0RlYnVnUmVuZGVyZXIuRHJhd0VkZ2VzKHNoYXJlZEphd0VkZ2VzLCB0b290aENvbnRvdXIuSmF3Lk1lc2hTbywgQ29sb3JmLkJsdWUpOwogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0pOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5XaGVyZSh0b290aE1lc2guSXNCb3VuZGFyeUVkZ2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5TZWxlY3QoZUlkID0+ICA/IGVNYXBwaW5nW2VJZF0gOiAtMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGRlYnVnID0gU2VydmljZS5HZXQ8RGVidWdEcmF3U2VydmljZT4oKTsKICAgICAgICAgICAgICAgIGRlYnVnLkFkZCgoKSA9PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIENvbnRvdXJzRGVidWdSZW5kZXJlci5EcmF3VmVydGljZXMocmlkZ2VTdGFydC5Db25jYXQocmlkZ2VFbmQpLCBqYXdTbyk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5XaGVyZSh0b290aE1lc2guSXNCb3VuZGFyeUVkZ2UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBZGRXYXlwb2ludEF0KHdvcmxkUmF5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5TZWxlY3QoZUlkID0+ICA/IGVNYXBwaW5nW2VJZF0gOiAtMSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
