@@ -314,11 +314,11 @@
         <mark key="^" line="111" column="75" />
         <mark key="." line="111" column="75" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" timestamp="1550497784755">
-        <mark key="[" line="184" column="76" />
-        <mark key="]" line="184" column="76" />
-        <mark key="." line="184" column="76" />
-        <mark key="^" line="184" column="76" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" timestamp="1550501643715">
+        <mark key="[" line="69" column="50" />
+        <mark key="]" line="69" column="50" />
+        <mark key="." line="69" column="50" />
+        <mark key="^" line="69" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -467,7 +467,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -511,8 +511,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>qa</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
