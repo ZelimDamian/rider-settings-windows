@@ -40,6 +40,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Segments.cs" timestamp="1550358238708" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshLinkVerticesIntoSpan.cs" timestamp="1550482263005">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationController.cs" timestamp="1548451482951">
         <mark key="'" line="54" column="44" />
         <mark key="[" line="8" column="0" />
@@ -155,11 +160,6 @@
         <mark key="." line="98" column="82" />
         <mark key="^" line="98" column="82" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1550250102408">
-        <mark key="'" line="66" column="35" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="88" />
-      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/OriginSetup/Controllers/OriginSetupController.cs" timestamp="1550171635562">
         <mark key="'" line="161" column="29" />
         <mark key="[" line="203" column="0" />
@@ -228,12 +228,12 @@
         <mark key="]" line="10" column="67" />
         <mark key="." line="10" column="67" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSideHoleFillingService.cs" timestamp="1550447332455">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSideHoleFillingService.cs" timestamp="1550483826579">
         <mark key="'" line="106" column="8" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="92" column="88" />
-        <mark key="^" line="29" column="65" />
-        <mark key="." line="29" column="65" />
+        <mark key="[" line="32" column="50" />
+        <mark key="]" line="32" column="55" />
+        <mark key="^" line="32" column="55" />
+        <mark key="." line="32" column="55" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/OcclusionService.cs" timestamp="1550170372251">
         <mark key="[" line="71" column="0" />
@@ -254,12 +254,12 @@
         <mark key="^" line="253" column="20" />
         <mark key="." line="253" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1549463917934">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1550482293910">
         <mark key="'" line="259" column="34" />
-        <mark key="[" line="593" column="56" />
-        <mark key="]" line="593" column="56" />
-        <mark key="^" line="510" column="29" />
-        <mark key="." line="593" column="56" />
+        <mark key="[" line="94" column="28" />
+        <mark key="]" line="94" column="52" />
+        <mark key="." line="94" column="52" />
+        <mark key="^" line="94" column="52" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Attachment.cs" timestamp="1549881726977">
         <mark key="[" line="28" column="0" />
@@ -306,23 +306,20 @@
         <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/WaypointCurves/SegmentationContoursHelper.cs" timestamp="1550324402214" />
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" timestamp="1550448562971">
-        <mark key="'" line="180" column="40" />
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="47" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" timestamp="1550483796973">
+        <mark key="'" line="219" column="27" />
+        <mark key="[" line="64" column="83" />
+        <mark key="]" line="64" column="86" />
+        <mark key="." line="64" column="86" />
+        <mark key="^" line="64" column="86" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" timestamp="1550449119736">
-        <mark key="'" line="173" column="24" />
-        <mark key="[" line="171" column="24" />
-        <mark key="]" line="171" column="41" />
-        <mark key="." line="171" column="41" />
-        <mark key="^" line="171" column="41" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" timestamp="1550483936541">
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="20" />
+        <mark key="." line="178" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="71" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs" />
-      <jump line="158" column="38" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/spatial/MeshSignedDistanceGrid.cs" />
-      <jump line="102" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ModelBuilderService.cs" />
       <jump line="72" column="34" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" />
       <jump line="98" column="26" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" />
       <jump line="161" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" />
@@ -410,7 +407,6 @@
       <jump line="37" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" />
       <jump line="41" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" />
       <jump line="148" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" />
-      <jump line="26" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" />
       <jump line="180" column="40" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" />
       <jump line="153" column="38" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" />
       <jump line="151" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" />
@@ -420,58 +416,62 @@
       <jump line="161" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" />
       <jump line="175" column="69" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" />
       <jump line="173" column="24" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" />
+      <jump line="26" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" />
+      <jump line="183" column="48" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" />
+      <jump line="191" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" />
+      <jump line="214" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>foundSharedEdges</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>foundSharedEdges</text>
+        <text>jawInterfaceEdges</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaGFyZWRFZGdlc1w+</text>
+        <text encoding="base64">XDxHZXROZXh0SW5kZXhcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>sharedEdges</text>
+        <text>span</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgamF3TWVzaCA9IHRvb3RoQ29udG91ci5KYXcuTWVzaFNvLk1lc2g7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpvaW5lZFNwYW4gPSBFZGdlU3BhbkpvaW5pbmdVdGlsaXRpZXMuSm9pblNwYW5zKGphd01lc2gsIGpvaW5lZFNwYW4sIHNoYXJlZFNwYW4pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNwYW4uRWRnZXM7CiAgICAgICAgICAgIGoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGxvb3AgPSBFZGdlU3BhbkpvaW5pbmdVdGlsaXRpZXMuSm9pblNwYW5zKGphd01lc2gsIG5ld1tdIHtzcGFuLCBzaGFyZWRTcGFufSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBsb29wLkVkZ2VzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNwYW4gPSBFZGdlU3Bhbi5Gcm9tRWRnZXMoamF3U28uTWVzaCwgamF3SW50ZXJmYWNlRWRnZXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGFsc28gdXNlIHRoZSBuZXcgdHJpYW5nbGVzIGFzIHRoZSBzaWRlIGhvbGUgb2YgdGhlIG5laWdoYm91ciB0b290aAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIHJldHVybiBFZGdlU3Bhbi5Gcm9tRWRnZXMobWVzaCwgdHJhY2UuRGlzdGluY3QoKS5Ub0xpc3QoKSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaGFyZWRFZGdlc1w+</last-search>
+      <last-search encoding="base64">XDxHZXROZXh0SW5kZXhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaGFyZWRFZGdlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxHZXROZXh0SW5kZXhcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -479,8 +479,6 @@
     </search>
     <history>
       <history-search>
-        <entry>GenerateRidge</entry>
-        <entry encoding="base64">XDxlTWFwcGluZ1w+</entry>
         <entry>GenerateSid</entry>
         <entry encoding="base64">XDxEcmF3RWRnZXNcPg==</entry>
         <entry>DrawFaceEdges</entry>
@@ -499,6 +497,8 @@
         <entry encoding="base64">XDxlZGdlc1w+</entry>
         <entry encoding="base64">XDxqYXdNZXNoXD4=</entry>
         <entry encoding="base64">XDxzaGFyZWRFZGdlc1w+</entry>
+        <entry encoding="base64">XDxKb2luU3BhbnNcPg==</entry>
+        <entry encoding="base64">XDxHZXROZXh0SW5kZXhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
