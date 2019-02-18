@@ -308,21 +308,20 @@
         <mark key="." line="110" column="40" />
         <mark key="^" line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" timestamp="1550493944554">
-        <mark key="'" line="219" column="27" />
-        <mark key="[" line="207" column="23" />
-        <mark key="]" line="207" column="26" />
-        <mark key="." line="207" column="26" />
-        <mark key="^" line="207" column="26" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" timestamp="1550497399099">
+        <mark key="[" line="113" column="12" />
+        <mark key="]" line="113" column="18" />
+        <mark key="^" line="113" column="18" />
+        <mark key="." line="113" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" timestamp="1550483936541">
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="178" column="20" />
-        <mark key="." line="178" column="20" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" timestamp="1550497784755">
+        <mark key="[" line="184" column="76" />
+        <mark key="]" line="184" column="76" />
+        <mark key="." line="184" column="76" />
+        <mark key="^" line="184" column="76" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" />
       <jump line="198" column="26" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" />
       <jump line="241" column="19" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" />
       <jump line="327" column="34" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" />
@@ -422,58 +421,59 @@
       <jump line="214" column="27" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" />
       <jump line="212" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
       <jump line="96" column="20" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" />
+      <jump line="114" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>EdgeSpanJoiningUtilities.JoinSpans(baseMesh, spans);</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqb2luZWRTcGFuXD4=</text>
+        <text encoding="base64">XDxGcm9tVmVydGljZXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>outerInsertJoinedSpan</text>
+        <text>span2Vertices</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNwYW5zLkNvdW50ID09IDEpIHJldHVybjsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRGVidWcuTG9nKCJFcnJvciIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc2hhcmVkU3Bhbi5WZXJ0aWNlcy5BbnkodklkID0+IHZJZCA9PSAtMSkpCiAgICAgICAgICAgICAgICAgICAgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpvaW5lZFNwYW4gPSBFZGdlU3BhbkpvaW5pbmdVdGlsaXRpZXMuSm9pblNwYW5zKGphd01lc2gsIGpvaW5lZFNwYW4sIHNoYXJlZFNwYW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzaGFyZWRTcGFuLlZlcnRpY2VzLkFueSh2SWQgPT4gdklkID09IC0xKSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBEZWJ1Zy5Mb2coIkVycm9yIik7CiAgICAgICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNwYW4gPSBFZGdlU3Bhbi5Gcm9tRWRnZXMoamF3U28uTWVzaCwgamF3SW50ZXJmYWNlRWRnZXMpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHQgPSBFZGdlU3Bhbi5Gcm9tVmVydGljZXMobWVzaCwgbmV4dC5WZXJ0aWNlcy5SZXZlcnNlKCkuVG9MaXN0KCkpOwogICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN3YXApCiAgICAgICAgICAgIHsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIHJldHVybiBFZGdlU3Bhbi5Gcm9tRWRnZXMobWVzaCwgdHJhY2UuRGlzdGluY3QoKS5Ub0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqb2luZWRTcGFuXD4=</last-search>
+      <last-search encoding="base64">XDxGcm9tVmVydGljZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqb2luZWRTcGFuXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxGcm9tVmVydGljZXNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -481,7 +481,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEcmF3RWRnZXNcPg==</entry>
         <entry>DrawFaceEdges</entry>
         <entry encoding="base64">XDxjb250b3VyXD4=</entry>
         <entry encoding="base64">XDxDb3B5V2VsZGluZ1w+</entry>
@@ -501,6 +500,7 @@
         <entry encoding="base64">XDxKb2luU3BhbnNcPg==</entry>
         <entry encoding="base64">XDxHZXROZXh0SW5kZXhcPg==</entry>
         <entry encoding="base64">XDxqb2luZWRTcGFuXD4=</entry>
+        <entry encoding="base64">XDxGcm9tVmVydGljZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
