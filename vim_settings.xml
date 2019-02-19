@@ -92,12 +92,13 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/ToothContour.cs" timestamp="1550429157015">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/ToothContour.cs" timestamp="1550600276136">
         <mark key="'" line="46" column="25" />
-        <mark key="[" line="48" column="47" />
-        <mark key="]" line="48" column="47" />
-        <mark key="^" line="48" column="47" />
-        <mark key="." line="48" column="47" />
+        <mark key="[" line="68" column="28" />
+        <mark key="]" line="68" column="43" />
+        <mark key="^" line="68" column="43" />
+        <mark key="." line="68" column="43" />
+        <mark key="n" line="62" column="30" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/JawDisplacementService.cs" timestamp="1549837829031">
         <mark key="'" line="73" column="16" />
@@ -415,10 +416,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>W</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>W</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlZGdlTG9vcFw+</text>
