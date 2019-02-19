@@ -34,6 +34,12 @@
       <file name="/Dummy.cs" timestamp="1550573434473">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Segments.cs" timestamp="1550614860712">
+        <mark key="[" line="55" column="58" />
+        <mark key="]" line="55" column="57" />
+        <mark key="." line="55" column="57" />
+        <mark key="^" line="55" column="57" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshLinkVerticesIntoSpan.cs" timestamp="1550492895410">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
@@ -92,6 +98,7 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="19" column="35" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AC823E2B-B42B-41BD-A679-24A45A0173C3/08/d2547db9/IReadOnlyCollection`1.cs" timestamp="1550614490014" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/ToothContour.cs" timestamp="1550613650344">
         <mark key="'" line="46" column="25" />
         <mark key="[" line="68" column="28" />
@@ -136,10 +143,6 @@
         <mark key="]" line="127" column="45" />
         <mark key="." line="127" column="45" />
         <mark key="^" line="127" column="45" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshCopySelection.cs" timestamp="1550429506281">
-        <mark key="[" line="34" column="33" />
-        <mark key="]" line="34" column="40" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/SetupTooth/SetupToothTool.cs" timestamp="1549810373002">
         <mark key="'" line="98" column="34" />
@@ -416,49 +419,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>W</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>W</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlZGdlTG9vcFw+</text>
       </register>
       <register name="0" type="4">
-        <text>jawsService</text>
+        <text>curveCount</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBJRW51bWVyYWJsZTxWZWN0b3IzZj4gVmVydGljZXMgPT4gSGVybWl0ZS5Qb2ludHMoUG9zaXRpb25zLlRvTGlzdCgpLCBDdXJ2ZVN1YmRpdmlvbnMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzIGNhbiBiZSBuZWdhdGl2ZSBiYXNlZCBvbiB0aGUgb3JpZW50YXRpb24gb2YgdGhlIHNlZ21lbnQKICAgICAgICBwdWJsaWMgaW50IERpZmZlcmVuY2UgPT4gRW5kIC0gU3RhcnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoZWRnZUxvb3AuRWRnZXMuTGVuZ3RoID09IDMpCiAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBJRW51bWVyYWJsZTxWZWN0b3IzZj4gVmVydGljZXMgPT4gSGVybWl0ZS5Qb2ludHMoUG9zaXRpb25zLlRvTGlzdCgpLCBDdXJ2ZVN1YmRpdmlvbnMpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc2hIb2xlRmlsbGluZ1NpbXBsZS5GaWxsSG9sZShqYXdNZXNoQ29weSwgZWRnZUxvb3AuRWRnZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoZWRnZUxvb3AuRWRnZXMuTGVuZ3RoID09IDMpCiAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBlZGdlTG9vcCA9IEVkZ2VMb29wLkZyb21FZGdlcyh0b290aE1lc2gsIHRvb3RoRWRnZXMpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc2hIb2xlRmlsbGluZ1NpbXBsZS5GaWxsSG9sZShqYXdNZXNoQ29weSwgZWRnZUxvb3AuRWRnZXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVkZ2VMb29wID0gRWRnZUxvb3AuRnJvbUVkZ2VzKHRvb3RoTWVzaCwgdG9vdGhFZGdlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEZWJ1Zy5Mb2dXYXJuaW5nKCQiVG9vdGhOdW1iZXI6IHt0b290aENvbnRvdXIuVG9vdGhOdW1iZXJ9IGludmFsaWQgdmVydGV4LiBDbGVhbmluZy4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBlZGdlTG9vcCA9IEVkZ2VMb29wLkZyb21FZGdlcyh0b290aE1lc2gsIHRvb3RoRWRnZXMpOwoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -503,8 +506,8 @@
         <entry>q</entry>
         <entry>qa</entry>
         <entry>aw</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
