@@ -34,16 +34,11 @@
       <file name="/Dummy.cs" timestamp="1550573434473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Segments.cs" timestamp="1550614860712">
-        <mark key="[" line="55" column="58" />
-        <mark key="]" line="55" column="57" />
-        <mark key="." line="55" column="57" />
-        <mark key="^" line="55" column="57" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshLinkVerticesIntoSpan.cs" timestamp="1550492895410">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Segments.cs" timestamp="1550615828495">
+        <mark key="[" line="130" column="57" />
+        <mark key="]" line="130" column="57" />
+        <mark key="." line="130" column="61" />
+        <mark key="^" line="127" column="61" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationController.cs" timestamp="1548451482951">
         <mark key="'" line="54" column="44" />
@@ -151,12 +146,12 @@
         <mark key="." line="253" column="78" />
         <mark key="^" line="253" column="78" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" timestamp="1550445181071">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/Contours/ContoursDebugRenderer.cs" timestamp="1550616353403">
         <mark key="'" line="178" column="71" />
-        <mark key="[" line="98" column="78" />
-        <mark key="]" line="98" column="82" />
-        <mark key="." line="98" column="82" />
-        <mark key="^" line="98" column="82" />
+        <mark key="[" line="123" column="71" />
+        <mark key="]" line="123" column="71" />
+        <mark key="." line="123" column="71" />
+        <mark key="^" line="123" column="71" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothRootGenerationService.cs" timestamp="1550507013175">
         <mark key="'" line="36" column="34" />
@@ -167,6 +162,12 @@
         <mark key="]" line="203" column="8" />
         <mark key="^" line="203" column="13" />
         <mark key="." line="203" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshSmoothEdgesAlongCurveUtilities.cs" timestamp="1550616247150">
+        <mark key="'" line="253" column="47" />
+        <mark key="[" line="230" column="100" />
+        <mark key="]" line="230" column="100" />
+        <mark key="." line="230" column="100" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" timestamp="1550520500482">
         <mark key="'" line="140" column="29" />
@@ -192,10 +193,11 @@
       <file name="/Dummy.txt" timestamp="1549840217090">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/Helpers/DrawWaypointSurfaceCurveToolHelper.cs" timestamp="1550577284579">
-        <mark key="[" line="112" column="82" />
-        <mark key="]" line="112" column="83" />
-        <mark key="." line="112" column="83" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/Helpers/DrawWaypointSurfaceCurveToolHelper.cs" timestamp="1550615873720">
+        <mark key="[" line="112" column="75" />
+        <mark key="]" line="112" column="79" />
+        <mark key="." line="112" column="79" />
+        <mark key="^" line="112" column="79" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BraceHookService.cs" timestamp="1549836596160">
         <mark key="'" line="267" column="19" />
@@ -308,6 +310,12 @@
         <mark key="^" line="111" column="75" />
         <mark key="." line="111" column="75" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/WaypointCurves/SegmentationContoursHelper.cs" timestamp="1550616320881">
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="46" column="37" />
+        <mark key="." line="46" column="37" />
+        <mark key="^" line="16" column="25" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" timestamp="1550518960149">
         <mark key="[" line="153" column="24" />
         <mark key="]" line="153" column="24" />
@@ -316,8 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="19" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" />
-      <jump line="52" column="83" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/LaplacianMeshDeformer.cs" />
       <jump line="296" column="41" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/LaplacianMeshDeformer.cs" />
       <jump line="245" column="41" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/LaplacianMeshDeformer.cs" />
       <jump line="54" column="98" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/LaplacianMeshDeformer.cs" />
@@ -416,16 +422,18 @@
       <jump line="97" column="135" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSideHoleFillingService.cs" />
       <jump line="8" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshHoleFillingSimple.cs" />
       <jump line="94" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshHoleFillingSimple.cs" />
+      <jump line="251" column="53" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshSmoothEdgesAlongCurveUtilities.cs" />
+      <jump line="253" column="47" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshSmoothEdgesAlongCurveUtilities.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlZGdlTG9vcFw+</text>
+        <text encoding="base64">XDxhbGxXYXlwb2ludHNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>curveCount</text>
@@ -461,13 +469,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBlZGdlTG9vcCA9IEVkZ2VMb29wLkZyb21FZGdlcyh0b290aE1lc2gsIHRvb3RoRWRnZXMpOwoK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlZGdlTG9vcFw+</last-search>
+      <last-search encoding="base64">XDxhbGxXYXlwb2ludHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlZGdlTG9vcFw+</last-pattern>
+      <last-pattern encoding="base64">XDxhbGxXYXlwb2ludHNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -475,7 +483,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb3B5V2VsZGluZ1w+</entry>
         <entry>var vertices</entry>
         <entry encoding="base64">XDx2ZXJ0aWNlc1w+</entry>
         <entry>FillHole</entry>
@@ -495,6 +502,7 @@
         <entry encoding="base64">XDxGcm9tVmVydGljZXNcPg==</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZVJvb3RzXD4=</entry>
         <entry encoding="base64">XDxlZGdlTG9vcFw+</entry>
+        <entry encoding="base64">XDxhbGxXYXlwb2ludHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
@@ -506,8 +514,8 @@
         <entry>q</entry>
         <entry>qa</entry>
         <entry>aw</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
