@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawToothContour/DrawToothContourTool.cs" timestamp="1550620588823">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawToothContour/DrawToothContourTool.cs" timestamp="1550651501776">
         <mark key="'" line="30" column="54" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="12" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="54" column="0" />
         <mark key="." line="46" column="12" />
         <mark key="^" line="40" column="11" />
       </file>
@@ -447,7 +447,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzZWVkUG9pbnQgPSBHZXRTZWVkUG9pbnRGdW5jPy5JbnZva2UoQ3VycmVudFRvb3RoTnVtYmVyKTsKICAgICAgICAgICAgICAgIGlmIChzZWVkUG9pbnQuSGFzVmFsdWUpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFyIHBvcyA9IFRhcmdldE1lc2guR2V0U2NlbmVGcmFtZSgpLkZyb21GcmFtZVAoc2VlZFBvaW50LlZhbHVlKTsKICAgICAgICAgICAgICAgICAgICBTY2VuZS5BY3RpdmVDYW1lcmEuQW5pbWF0b3IoKS5BbmltYXRlUGFuRm9jdXMocG9zLCBDb29yZFNwYWNlLlNjZW5lQ29vcmRzLCAwLjBmKTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlZWRQb2ludCA9IEdldFNlZWRQb2ludEZ1bmM/Lkludm9rZShDdXJyZW50VG9vdGhOdW1iZXIpOwogICAgICAgICAgICBpZiAoc2VlZFBvaW50Lkhhc1ZhbHVlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgcG9zID0gVGFyZ2V0TWVzaC5HZXRTY2VuZUZyYW1lKCkuRnJvbUZyYW1lUChzZWVkUG9pbnQuVmFsdWUpOwogICAgICAgICAgICAgICAgU2NlbmUuQWN0aXZlQ2FtZXJhLkFuaW1hdG9yKCkuQW5pbWF0ZVBhbkZvY3VzKHBvcywgQ29vcmRTcGFjZS5TY2VuZUNvb3JkcywgMC4wZik7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHB1YmxpYyBvdmVycmlkZSB2b2lkIFByZVJlbmRlcigpCiAgICAgICAgewogICAgICAgICAgICBiYXNlLlByZVJlbmRlcigpOwogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name="-" type="4">
         <text>HasValue</text>
@@ -456,7 +456,7 @@
         <text encoding="base64">XDxHZXRTZWVkUG9pbnRGdW5jXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNlbnRyb2lkID0gR2V0U2VlZFBvaW50RnVuYz8uSW52b2tlKEN1cnJlbnRUb290aE51bWJlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlZWRQb2ludCA9IEdldFNlZWRQb2ludEZ1bmM/Lkludm9rZShDdXJyZW50VG9vdGhOdW1iZXIpOwogICAgICAgICAgICBpZiAoc2VlZFBvaW50Lkhhc1ZhbHVlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgcG9zID0gVGFyZ2V0TWVzaC5HZXRTY2VuZUZyYW1lKCkuRnJvbUZyYW1lUChzZWVkUG9pbnQuVmFsdWUpOwogICAgICAgICAgICAgICAgU2NlbmUuQWN0aXZlQ2FtZXJhLkFuaW1hdG9yKCkuQW5pbWF0ZVBhbkZvY3VzKHBvcywgQ29vcmRTcGFjZS5TY2VuZUNvb3JkcywgMC4wZik7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHB1YmxpYyBvdmVycmlkZSB2b2lkIFByZVJlbmRlcigpCiAgICAgICAgewogICAgICAgICAgICBiYXNlLlByZVJlbmRlcigpOwogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzZWVkUG9pbnQgPSBHZXRTZWVkUG9pbnRGdW5jPy5JbnZva2UoQ3VycmVudFRvb3RoTnVtYmVyKTsKICAgICAgICAgICAgICAgIGlmIChzZWVkUG9pbnQuSGFzVmFsdWUpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFyIHBvcyA9IFRhcmdldE1lc2guR2V0U2NlbmVGcmFtZSgpLkZyb21GcmFtZVAoc2VlZFBvaW50LlZhbHVlKTsKICAgICAgICAgICAgICAgICAgICBTY2VuZS5BY3RpdmVDYW1lcmEuQW5pbWF0b3IoKS5BbmltYXRlUGFuRm9jdXMocG9zLCBDb29yZFNwYWNlLlNjZW5lQ29vcmRzLCAwLjBmKTsKICAgICAgICAgICAgICAgIH0K</text>
