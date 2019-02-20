@@ -37,7 +37,7 @@
         <mark key="^" line="104" column="34" />
         <mark key="." line="104" column="34" />
       </file>
-      <file name="/Dummy.cs" timestamp="1550702430503">
+      <file name="/Dummy.cs" timestamp="1550705948138">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Segments.cs" timestamp="1550615828495">
@@ -66,6 +66,12 @@
         <mark key="]" line="205" column="11" />
         <mark key="." line="205" column="11" />
         <mark key="^" line="205" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/SceneObjects/WaypointContourSo.cs" timestamp="1550705724450">
+        <mark key="[" line="129" column="25" />
+        <mark key="]" line="129" column="31" />
+        <mark key="." line="129" column="31" />
+        <mark key="^" line="129" column="31" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BraceModelBuilder/Controllers/BraceModelBuilderController.cs" timestamp="1550698568218">
         <mark key="'" line="66" column="61" />
@@ -175,6 +181,9 @@
         <mark key="]" line="72" column="70" />
         <mark key="." line="72" column="70" />
         <mark key="^" line="72" column="70" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" timestamp="1550705555219">
+        <mark key="'" line="52" column="29" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/OriginSetup/Controllers/OriginSetupController.cs" timestamp="1550171635562">
         <mark key="'" line="161" column="29" />
@@ -293,6 +302,7 @@
         <mark key="." line="200" column="79" />
         <mark key="^" line="200" column="79" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/SavingService.cs" timestamp="1550705904070" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/WireExportService.cs" timestamp="1549495161540">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="25" column="46" />
@@ -315,7 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" />
       <jump line="103" column="24" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" />
       <jump line="102" column="24" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" />
       <jump line="45" column="31" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" />
@@ -415,16 +424,17 @@
       <jump line="90" column="54" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/SetupTooth/SetupToothTool.cs" />
       <jump line="92" column="45" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/SetupTooth/SetupToothTool.cs" />
       <jump line="93" column="38" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/SetupTooth/SetupToothTool.cs" />
+      <jump line="52" column="29" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2UuU2V0VGFyZ2V0KHRhcmdldCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Error</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Error</text>
       </register>
       <register name="/" type="4">
-        <text>Place</text>
+        <text encoding="base64">XDxUb290aFRleHRBdHRhY2htZW50U2VydmljZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2UuU2V0VGFyZ2V0KHRhcmdldCk7Cg==</text>
@@ -464,9 +474,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Place</last-search>
+      <last-search encoding="base64">XDxUb290aFRleHRBdHRhY2htZW50U2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern>Place</last-pattern>
+      <last-pattern encoding="base64">XDxUb290aFRleHRBdHRhY2htZW50U2VydmljZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -474,7 +484,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaGFyZWRKYXdFZGdlc1w+</entry>
         <entry encoding="base64">XDxzcGFuXD4=</entry>
         <entry encoding="base64">XDxzZWdtZW50U3BhbnNcPg==</entry>
         <entry>Ordered</entry>
@@ -494,6 +503,7 @@
         <entry>FdinPair</entry>
         <entry>PlaceOn</entry>
         <entry>Place</entry>
+        <entry encoding="base64">XDxUb290aFRleHRBdHRhY2htZW50U2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
