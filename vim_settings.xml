@@ -266,11 +266,11 @@
         <mark key="." line="241" column="37" />
         <mark key="^" line="241" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/Helpers/SegmentationHelper.cs" timestamp="1550507017336">
-        <mark key="[" line="253" column="16" />
-        <mark key="]" line="253" column="19" />
-        <mark key="^" line="253" column="19" />
-        <mark key="." line="253" column="19" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/Helpers/SegmentationHelper.cs" timestamp="1550680214396">
+        <mark key="[" line="355" column="16" />
+        <mark key="]" line="355" column="19" />
+        <mark key="^" line="355" column="19" />
+        <mark key="." line="355" column="19" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/GumCreation/Controllers/Helpers/GumCreationStretchToolHelper.cs" timestamp="1550494055454">
         <mark key="'" line="96" column="20" />
@@ -446,11 +446,11 @@
       <jump line="121" column="25" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlZWRQb2ludCA9IEdldFNlZWRQb2ludEZ1bmM/Lkludm9rZShDdXJyZW50VG9vdGhOdW1iZXIpOwogICAgICAgICAgICBpZiAoc2VlZFBvaW50Lkhhc1ZhbHVlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgcG9zID0gVGFyZ2V0TWVzaC5HZXRTY2VuZUZyYW1lKCkuRnJvbUZyYW1lUChzZWVkUG9pbnQuVmFsdWUpOwogICAgICAgICAgICAgICAgU2NlbmUuQWN0aXZlQ2FtZXJhLkFuaW1hdG9yKCkuQW5pbWF0ZVBhbkZvY3VzKHBvcywgQ29vcmRTcGFjZS5TY2VuZUNvb3JkcywgMC4wZik7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHB1YmxpYyBvdmVycmlkZSB2b2lkIFByZVJlbmRlcigpCiAgICAgICAgewogICAgICAgICAgICBiYXNlLlByZVJlbmRlcigpOwogICAgICAgIH0KICAgIH0KfQo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>HasValue</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRTZWVkUG9pbnRGdW5jXD4=</text>
@@ -489,7 +489,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -534,8 +534,8 @@
         <entry>q</entry>
         <entry>qa</entry>
         <entry>aw</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
