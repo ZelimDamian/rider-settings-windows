@@ -227,10 +227,12 @@
         <mark key="." line="72" column="70" />
         <mark key="^" line="72" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" timestamp="1550828219171">
-        <mark key="'" line="96" column="60" />
-        <mark key="[" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" timestamp="1550834926617">
+        <mark key="'" line="102" column="60" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="50" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/OriginSetup/Controllers/OriginSetupController.cs" timestamp="1550171635562">
         <mark key="'" line="161" column="29" />
@@ -485,7 +487,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8VG9vdGhDb250b3VyU2VydmljZT4oKTsK</text>
       </register>
       <register name="-" type="4">
         <text>IsVisible</text>
@@ -497,34 +499,34 @@
         <text>model.Tooth.MeshSo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8VG9vdGhDb250b3VyU2VydmljZT4oKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIENyZWF0ZVR1YmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8R3JpZFNlcnZpY2U+KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTZXJ2aWNlLkNyZWF0ZTxMaWdhdHVyZVR5cGVTZXJ2aWNlPigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3BoZXJlcyA9IFZlcnRpY2VzLlNlbGVjdChDcmVhdGVTcGhlcmUpLlRvTGlzdCgpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTZXJ2aWNlLkNyZWF0ZTxUb290aFRleHRBdHRhY2htZW50U2VydmljZT4oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8SmF3c1NlcnZpY2U+KCk7CiAgICAgICAgICAgIFNlcnZpY2UuQ3JlYXRlPFRlZXRoU2VydmljZT4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8SmF3RGlzcGxhY2VtZW50U2VydmljZT4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8SmF3c1NlcnZpY2U+KCk7CiAgICAgICAgICAgIFNlcnZpY2UuQ3JlYXRlPFRlZXRoU2VydmljZT4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8UGF0aWVudFNlcnZpY2U+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8SmF3c1NlcnZpY2U+KCk7CiAgICAgICAgICAgIFNlcnZpY2UuQ3JlYXRlPFRlZXRoU2VydmljZT4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8TGF5ZXJpbmdTZXJ2aWNlPigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8VGVldGhTZXJ2aWNlPigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8QWxpZ25lck51bWJlclNlcnZpY2U+KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8UHJvZ3Jlc3NCYXJTZXJ2aWNlPigpOwogICAgICAgICAgICBTZXJ2aWNlLkNyZWF0ZTxVaVNlcnZpY2U+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
