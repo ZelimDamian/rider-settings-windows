@@ -227,12 +227,11 @@
         <mark key="." line="72" column="70" />
         <mark key="^" line="72" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" timestamp="1550834926617">
-        <mark key="'" line="102" column="60" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="50" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="60" column="0" />
+      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" timestamp="1550837101800">
+        <mark key="'" line="288" column="40" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="53" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/OriginSetup/Controllers/OriginSetupController.cs" timestamp="1550171635562">
         <mark key="'" line="161" column="29" />
@@ -384,8 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="120" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" />
-      <jump line="158" column="35" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh/MeshEditor.cs" />
       <jump line="583" column="48" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="32" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="37" column="48" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
@@ -484,58 +481,60 @@
       <jump line="96" column="60" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
       <jump line="50" column="128" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/DownloadingService.cs" />
       <jump line="62" column="16" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/DownloadingService.cs" />
+      <jump line="27" column="34" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
+      <jump line="288" column="40" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8VG9vdGhDb250b3VyU2VydmljZT4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8SmF3RGlzcGxhY2VtZW50U2VydmljZT4oKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>IsVisible</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub0NhY2hlXD4=</text>
+        <text>Link</text>
       </register>
       <register name="0" type="4">
         <text>model.Tooth.MeshSo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8VG9vdGhDb250b3VyU2VydmljZT4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8SmF3RGlzcGxhY2VtZW50U2VydmljZT4oKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8R3JpZFNlcnZpY2U+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8VG9vdGhDb250b3VyU2VydmljZT4oKTsKICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8SmF3RGlzcGxhY2VtZW50U2VydmljZT4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTZXJ2aWNlLkNyZWF0ZTxMaWdhdHVyZVR5cGVTZXJ2aWNlPigpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTZXJ2aWNlLkNyZWF0ZTxUb290aFRleHRBdHRhY2htZW50U2VydmljZT4oKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8SmF3RGlzcGxhY2VtZW50U2VydmljZT4oKTsK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBTZXJ2aWNlLkNyZWF0ZTxUd29Qb2ludE1hcmtTZXJ2aWNlPigpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBTZXJ2aWNlLkNyZWF0ZTxMaWdhdHVyZVR5cGVTZXJ2aWNlPigpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8UGF0aWVudFNlcnZpY2U+KCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTZXJ2aWNlLkNyZWF0ZTxBdHRhY2htZW50VHlwZVNlcnZpY2U+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8TGF5ZXJpbmdTZXJ2aWNlPigpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTZXJ2aWNlLkNyZWF0ZTxBdHRhY2htZW50VHlwZVNlcnZpY2U+KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8QWxpZ25lck51bWJlclNlcnZpY2U+KCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTZXJ2aWNlLkNyZWF0ZTxJcnBTZXJ2aWNlPigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZS5DcmVhdGU8UHJvZ3Jlc3NCYXJTZXJ2aWNlPigpOwogICAgICAgICAgICBTZXJ2aWNlLkNyZWF0ZTxVaVNlcnZpY2U+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub0NhY2hlXD4=</last-search>
+      <last-search>Link</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub0NhY2hlXD4=</last-pattern>
+      <last-pattern>Link</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -543,7 +542,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWdtZW50U3BhbnNcPg==</entry>
         <entry>Ordered</entry>
         <entry encoding="base64">XDxlZGdlc1w+</entry>
         <entry encoding="base64">XDxqYXdNZXNoXD4=</entry>
@@ -563,6 +561,7 @@
         <entry>Place</entry>
         <entry encoding="base64">XDxUb290aFRleHRBdHRhY2htZW50U2VydmljZVw+</entry>
         <entry encoding="base64">XDxub0NhY2hlXD4=</entry>
+        <entry>Link</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
