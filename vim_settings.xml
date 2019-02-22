@@ -154,7 +154,7 @@
         <mark key="." line="141" column="72" />
         <mark key="^" line="141" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" timestamp="1550839945073">
+      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" timestamp="1550841177467">
         <mark key="'" line="292" column="40" />
         <mark key="[" line="121" column="56" />
         <mark key="]" line="121" column="61" />
@@ -418,8 +418,8 @@
         <entry>q</entry>
         <entry>qa</entry>
         <entry>aw</entry>
-        <entry>w</entry>
         <entry>wea</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
