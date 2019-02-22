@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/PlaceIrp/PlaceIrpTool.cs" timestamp="1550700097870">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-        <mark key="^" line="97" column="42" />
-      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Importing/Controllers/ImportingController.cs" timestamp="1550841972166">
         <mark key="'" line="248" column="12" />
         <mark key="[" line="27" column="0" />
@@ -19,34 +13,16 @@
       <file name="/Dummy.cs" timestamp="1550828561545">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Segments.cs" timestamp="1550615828495">
-        <mark key="[" line="130" column="57" />
-        <mark key="]" line="130" column="57" />
-        <mark key="." line="130" column="61" />
-        <mark key="^" line="127" column="61" />
-      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" timestamp="1550828526926">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="27" column="43" />
         <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/SceneObjects/TwoPoinMarkSO.cs" timestamp="1550762547559">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="16" />
-        <mark key="." line="44" column="16" />
-        <mark key="^" line="48" column="33" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/TeethService.cs" timestamp="1550845213350">
         <mark key="[" line="333" column="32" />
         <mark key="]" line="333" column="58" />
         <mark key="^" line="333" column="58" />
         <mark key="." line="333" column="58" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/SceneObjects/WaypointContourSo.cs" timestamp="1550705724450">
-        <mark key="[" line="129" column="25" />
-        <mark key="]" line="129" column="31" />
-        <mark key="." line="129" column="31" />
-        <mark key="^" line="129" column="31" />
       </file>
       <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/States/Attachment.cs" timestamp="1550839898293">
         <mark key="[" line="46" column="0" />
@@ -57,12 +33,6 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="35" />
         <mark key="." line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothContourService.cs" timestamp="1550699213833">
-        <mark key="[" line="119" column="16" />
-        <mark key="]" line="119" column="25" />
-        <mark key="^" line="119" column="25" />
-        <mark key="." line="119" column="25" />
       </file>
       <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/States/Jaw.cs" timestamp="1550839812680">
         <mark key="[" line="62" column="0" />
@@ -79,12 +49,6 @@
         <mark key="]" line="278" column="32" />
         <mark key="." line="278" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" timestamp="1550698742492">
-        <mark key="[" line="294" column="85" />
-        <mark key="]" line="294" column="85" />
-        <mark key="." line="294" column="85" />
-        <mark key="^" line="294" column="85" />
-      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/FileService.cs" timestamp="1550828349371">
         <mark key="[" line="131" column="52" />
         <mark key="]" line="131" column="59" />
@@ -98,18 +62,6 @@
       </file>
       <file name="/Clipboard.txt" timestamp="1549202894441">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/AlignerNumberService.cs" timestamp="1550698849482">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="13" />
-        <mark key="." line="24" column="13" />
-        <mark key="^" line="24" column="13" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/AttachmentTypeService.cs" timestamp="1550744618454">
-        <mark key="[" line="59" column="13" />
-        <mark key="]" line="61" column="23" />
-        <mark key="." line="61" column="23" />
-        <mark key="^" line="61" column="23" />
       </file>
       <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/States/Tooth.cs" timestamp="1550839750333">
         <mark key="[" line="30" column="0" />
@@ -130,12 +82,6 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="35" />
         <mark key="." line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/FileService.cs" timestamp="1550744604509">
-        <mark key="[" line="164" column="41" />
-        <mark key="]" line="162" column="25" />
-        <mark key="^" line="162" column="25" />
-        <mark key="." line="162" column="25" />
       </file>
       <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/States/ToothTextAttachment.cs" timestamp="1550839729524">
         <mark key="[" line="30" column="0" />
@@ -160,18 +106,6 @@
         <mark key="." line="27" column="61" />
         <mark key="^" line="27" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/PlaceLigature/PlaceLigatureTool.cs" timestamp="1550702915502">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="39" />
-        <mark key="^" line="104" column="37" />
-        <mark key="." line="105" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/Controllers/VisualizationController.cs" timestamp="1550698822936">
-        <mark key="[" line="141" column="69" />
-        <mark key="]" line="141" column="72" />
-        <mark key="." line="141" column="72" />
-        <mark key="^" line="141" column="72" />
-      </file>
       <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" timestamp="1550841177467">
         <mark key="'" line="292" column="40" />
         <mark key="[" line="121" column="56" />
@@ -182,52 +116,23 @@
       <file name="/Dummy.txt" timestamp="1550845338795">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/Helpers/DrawWaypointSurfaceCurveToolHelper.cs" timestamp="1550615873720">
-        <mark key="[" line="112" column="75" />
-        <mark key="]" line="112" column="79" />
-        <mark key="." line="112" column="79" />
-        <mark key="^" line="112" column="79" />
-      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/SceneObjects/TwoPoinMarkSO.cs" timestamp="1550829239189">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="16" />
         <mark key="." line="44" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/Helpers/SegmentationHelper.cs" timestamp="1550680214396">
-        <mark key="[" line="355" column="16" />
-        <mark key="]" line="355" column="19" />
-        <mark key="^" line="355" column="19" />
-        <mark key="." line="355" column="19" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/VirtualBase/VirtualBaseTool.cs" timestamp="1550617211727">
-        <mark key="[" line="464" column="50" />
-        <mark key="]" line="464" column="65" />
-        <mark key="." line="464" column="65" />
-        <mark key="^" line="464" column="65" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" timestamp="1550846046016">
+        <mark key="'" line="72" column="34" />
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="21" column="38" />
+        <mark key="." line="21" column="38" />
+        <mark key="^" line="21" column="38" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/SceneObjects/WaypointContourSo.cs" timestamp="1550828779816">
         <mark key="[" line="129" column="25" />
         <mark key="]" line="129" column="32" />
         <mark key="." line="129" column="32" />
         <mark key="^" line="129" column="32" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/TwoPoinMarkService.cs" timestamp="1550762367827">
-        <mark key="[" line="85" column="48" />
-        <mark key="]" line="85" column="16" />
-        <mark key="^" line="85" column="16" />
-        <mark key="." line="85" column="16" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/States/Wire.cs" timestamp="1550839694552">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="35" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="86" column="33" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/LayeringService.cs" timestamp="1550698669038">
-        <mark key="[" line="200" column="79" />
-        <mark key="]" line="200" column="79" />
-        <mark key="." line="200" column="79" />
-        <mark key="^" line="200" column="79" />
       </file>
       <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/States/Bone.cs" timestamp="1550839889831">
         <mark key="[" line="21" column="0" />
@@ -239,12 +144,6 @@
         <mark key="]" line="63" column="35" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/WaypointCurves/SegmentationContoursHelper.cs" timestamp="1550616320881">
-        <mark key="[" line="46" column="37" />
-        <mark key="]" line="46" column="37" />
-        <mark key="." line="46" column="37" />
-        <mark key="^" line="16" column="25" />
-      </file>
       <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/States/Brace.cs" timestamp="1550839880320">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="35" />
@@ -252,13 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="12" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
-      <jump line="37" column="48" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
-      <jump line="60" column="30" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
-      <jump line="248" column="48" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
-      <jump line="61" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
-      <jump line="66" column="54" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
-      <jump line="246" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="562" column="46" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="70" column="38" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
       <jump line="253" column="38" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSegmentationService.cs" />
@@ -352,16 +244,23 @@
       <jump line="27" column="34" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
       <jump line="288" column="40" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
       <jump line="55" column="0" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/States/ToothContour.cs" />
+      <jump line="368" column="26" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" />
+      <jump line="327" column="34" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" />
+      <jump line="241" column="19" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" />
+      <jump line="198" column="26" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" />
+      <jump line="161" column="28" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" />
+      <jump line="98" column="26" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" />
+      <jump line="72" column="34" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Unable to find nearest triangle</text>
+        <text>512</text>
       </register>
       <register name="-" type="4">
-        <text>Unable to find nearest triangle</text>
+        <text>512</text>
       </register>
       <register name="/" type="4">
-        <text>Link</text>
+        <text encoding="base64">XDxNYXhJdGVyYXRpb25zXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAgICAgICAgaWYgKHNlZWRUcmlJZCA9PSAtMSkKCSAgICAgICAgewoJCSAgICAgICAgRGVidWcuTG9nRXJyb3IoIlVuYWJsZSB0byBmaW5kIG5lYXJlc3QgdHJpYW5nbGUiKTsKCQkgICAgICAgIHJldHVybiBuZXcgRE1lc2gzKG1lc2gpOwoJICAgICAgICB9Cg==</text>
@@ -401,9 +300,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Link</last-search>
+      <last-search encoding="base64">XDxNYXhJdGVyYXRpb25zXD4=</last-search>
       <last-offset />
-      <last-pattern>Link</last-pattern>
+      <last-pattern encoding="base64">XDxNYXhJdGVyYXRpb25zXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -411,7 +310,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Ordered</entry>
         <entry encoding="base64">XDxlZGdlc1w+</entry>
         <entry encoding="base64">XDxqYXdNZXNoXD4=</entry>
         <entry encoding="base64">XDxzaGFyZWRFZGdlc1w+</entry>
@@ -431,6 +329,7 @@
         <entry encoding="base64">XDxUb290aFRleHRBdHRhY2htZW50U2VydmljZVw+</entry>
         <entry encoding="base64">XDxub0NhY2hlXD4=</entry>
         <entry>Link</entry>
+        <entry encoding="base64">XDxNYXhJdGVyYXRpb25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
