@@ -36,6 +36,12 @@
         <mark key="." line="44" column="16" />
         <mark key="^" line="48" column="33" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/TeethService.cs" timestamp="1550845213350">
+        <mark key="[" line="333" column="32" />
+        <mark key="]" line="333" column="58" />
+        <mark key="^" line="333" column="58" />
+        <mark key="." line="333" column="58" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/SceneObjects/WaypointContourSo.cs" timestamp="1550705724450">
         <mark key="[" line="129" column="25" />
         <mark key="]" line="129" column="31" />
@@ -78,6 +84,12 @@
         <mark key="]" line="294" column="85" />
         <mark key="." line="294" column="85" />
         <mark key="^" line="294" column="85" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/FileService.cs" timestamp="1550828349371">
+        <mark key="[" line="131" column="52" />
+        <mark key="]" line="131" column="59" />
+        <mark key="^" line="131" column="59" />
+        <mark key="." line="131" column="59" />
       </file>
       <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/States/Irp.cs" timestamp="1550839823794">
         <mark key="[" line="36" column="0" />
@@ -130,6 +142,12 @@
         <mark key="]" line="30" column="35" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/IrpService.cs" timestamp="1550828962428">
+        <mark key="[" line="42" column="61" />
+        <mark key="]" line="42" column="79" />
+        <mark key="^" line="42" column="60" />
+        <mark key="." line="42" column="61" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/States/ToothContour.cs" timestamp="1550839699113">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="35" />
@@ -161,7 +179,7 @@
         <mark key="." line="121" column="61" />
         <mark key="^" line="121" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550841927833">
+      <file name="/Dummy.txt" timestamp="1550845338795">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/Helpers/DrawWaypointSurfaceCurveToolHelper.cs" timestamp="1550615873720">
@@ -186,6 +204,12 @@
         <mark key="]" line="464" column="65" />
         <mark key="." line="464" column="65" />
         <mark key="^" line="464" column="65" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/SceneObjects/WaypointContourSo.cs" timestamp="1550828779816">
+        <mark key="[" line="129" column="25" />
+        <mark key="]" line="129" column="32" />
+        <mark key="." line="129" column="32" />
+        <mark key="^" line="129" column="32" />
       </file>
       <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/TwoPoinMarkService.cs" timestamp="1550762367827">
         <mark key="[" line="85" column="48" />
@@ -330,17 +354,17 @@
       <jump line="55" column="0" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/States/ToothContour.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBbSnNvbkNvbnN0cnVjdG9yLCBQcmVzZXJ2ZV0K</text>
+      <register name="&quot;" type="4">
+        <text>Unable to find nearest triangle</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Unable to find nearest triangle</text>
       </register>
       <register name="/" type="4">
         <text>Link</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbSnNvbkNvbnN0cnVjdG9yLCBQcmVzZXJ2ZV0K</text>
+        <text encoding="base64">CSAgICAgICAgaWYgKHNlZWRUcmlJZCA9PSAtMSkKCSAgICAgICAgewoJCSAgICAgICAgRGVidWcuTG9nRXJyb3IoIlVuYWJsZSB0byBmaW5kIG5lYXJlc3QgdHJpYW5nbGUiKTsKCQkgICAgICAgIHJldHVybiBuZXcgRE1lc2gzKG1lc2gpOwoJICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBbSnNvbkNvbnN0cnVjdG9yXQogICAgICAgIFtQcmVzZXJ2ZV0K</text>
@@ -373,7 +397,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -419,8 +443,8 @@
         <entry>qa</entry>
         <entry>aw</entry>
         <entry>wea</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
