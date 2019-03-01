@@ -64,6 +64,7 @@
         <mark key="]" line="27" column="43" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/SegmentationController.cs" timestamp="1551455063006" />
       <file name="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" timestamp="1550841177467">
         <mark key="'" line="292" column="40" />
         <mark key="[" line="121" column="56" />
@@ -85,6 +86,7 @@
         <mark key="]" line="46" column="35" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Segmentation/Controllers/Helpers/DrawWaypointSurfaceCurveToolHelper.cs" timestamp="1551455254339" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/SceneObjects/TwoPoinMarkSO.cs" timestamp="1550829239189">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="16" />
