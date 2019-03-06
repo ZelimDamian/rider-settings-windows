@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1550878441887">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawPlatformContour/DrawWaypointSurfaceCurveTool.cs" timestamp="1551863069352">
         <mark key="[" line="72" column="19" />
         <mark key="]" line="72" column="18" />
@@ -17,11 +14,36 @@
         <mark key="]" line="55" column="40" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BracePlatformService.cs" timestamp="1551865055227">
+        <mark key="[" line="190" column="42" />
+        <mark key="]" line="190" column="42" />
+        <mark key="^" line="190" column="42" />
+        <mark key="." line="190" column="42" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Tooth.cs" timestamp="1551799581801">
         <mark key="[" line="72" column="35" />
         <mark key="]" line="72" column="37" />
         <mark key="." line="72" column="37" />
         <mark key="^" line="72" column="37" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" timestamp="1551863081879">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="102" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/TeethService.cs" timestamp="1551792346186">
+        <mark key="'" line="346" column="92" />
+        <mark key="[" line="346" column="63" />
+        <mark key="]" line="346" column="86" />
+        <mark key="^" line="346" column="86" />
+        <mark key="." line="346" column="86" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PlatformSegmentationService.cs" timestamp="1551864502166">
+        <mark key="[" line="25" column="71" />
+        <mark key="]" line="25" column="71" />
+        <mark key="^" line="25" column="71" />
+        <mark key="." line="25" column="71" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/solvers/SparseSymmetricCG.cs" timestamp="1551804120874">
         <mark key="'" line="72" column="34" />
@@ -36,15 +58,6 @@
         <mark key="^" line="191" column="15" />
         <mark key="." line="191" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/StorageService.cs" timestamp="1551454267509">
-        <mark key="'" line="91" column="16" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" timestamp="1551863081879">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="102" column="16" />
-      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/SceneObjects/WaypointContourSo.cs" timestamp="1550828779816">
         <mark key="[" line="129" column="25" />
         <mark key="]" line="129" column="32" />
@@ -57,24 +70,17 @@
         <mark key="^" line="38" column="19" />
         <mark key="." line="38" column="12" />
       </file>
-      <file name="/Dummy.cs" timestamp="1551791881553">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/BracePlatformCreation/Controllers/BracePlatformCreationController.cs" timestamp="1551864858301">
+        <mark key="[" line="179" column="81" />
+        <mark key="]" line="179" column="90" />
+        <mark key="^" line="179" column="90" />
+        <mark key="." line="179" column="81" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/FileService.cs" timestamp="1550828349371">
         <mark key="[" line="131" column="52" />
         <mark key="]" line="131" column="59" />
         <mark key="^" line="131" column="59" />
         <mark key="." line="131" column="59" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1549202894441">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/TeethService.cs" timestamp="1551792346186">
-        <mark key="'" line="346" column="92" />
-        <mark key="[" line="346" column="63" />
-        <mark key="]" line="346" column="86" />
-        <mark key="^" line="346" column="86" />
-        <mark key="." line="346" column="86" />
       </file>
     </filemarks>
     <jumps>
@@ -180,17 +186,17 @@
       <jump line="346" column="92" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/TeethService.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChQcmV2aWV3ID09IG51bGwpIHJldHVybjsK</text>
+      <register name="&quot;" type="4">
+        <text>.ToList()</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>.ToList()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDcmVhdGVTb0FuZFN0b3JlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFByZXZpZXcgPT0gbnVsbCkgcmV0dXJuOwo=</text>
+      <register name="0" type="4">
+        <text>loopedPositions</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAgICAgIGlmIChQcmV2aWV3ID09IG51bGwpIHJldHVybjsK</text>
@@ -223,7 +229,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9vcCA9IEVkZ2VMb29wLkZyb21WZXJ0aWNlcyhtZXNoLCB0b290aC5Db250b3VyTG9vcFZlcnRpY2VzKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -269,8 +275,8 @@
         <entry>qa</entry>
         <entry>aw</entry>
         <entry>wea</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
