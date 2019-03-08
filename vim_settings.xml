@@ -45,6 +45,9 @@
         <mark key="^" line="191" column="15" />
         <mark key="." line="191" column="15" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Importing/Controllers/ImportingController.cs" timestamp="1552047314659">
+        <mark key="'" line="242" column="39" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawWaypointCurve/DrawWaypointSurfaceCurveTool.cs" timestamp="1551863081879">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
@@ -75,7 +78,6 @@
         <mark key="." line="137" column="0" />
         <mark key="^" line="136" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/WaypointCurves/CollapseHelper.cs" timestamp="1551885355018" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/SceneObjects/WireSO.cs" timestamp="1551866203749">
         <mark key="'" line="229" column="29" />
         <mark key="[" line="232" column="0" />
@@ -96,12 +98,9 @@
         <mark key="^" line="346" column="86" />
         <mark key="." line="346" column="86" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/JawsService.cs" timestamp="1552047349747" />
     </filemarks>
     <jumps>
-      <jump line="108" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSideHoleFillingService.cs" />
-      <jump line="29" column="40" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSideHoleFillingService.cs" />
-      <jump line="106" column="8" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ToothSideHoleFillingService.cs" />
-      <jump line="32" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" />
       <jump line="37" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" />
       <jump line="41" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" />
       <jump line="148" column="16" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" />
@@ -198,6 +197,10 @@
       <jump line="346" column="92" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/TeethService.cs" />
       <jump line="183" column="32" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/SceneObjects/WireSO.cs" />
       <jump line="228" column="29" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/SceneObjects/WireSO.cs" />
+      <jump line="157" column="4" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Importing/Controllers/ImportingController.cs" />
+      <jump line="167" column="35" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Importing/Controllers/ImportingController.cs" />
+      <jump line="241" column="39" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Importing/Controllers/ImportingController.cs" />
+      <jump line="242" column="39" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Importing/Controllers/ImportingController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -207,7 +210,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>PreRender</text>
+        <text>Load</text>
       </register>
       <register name="0" type="4">
         <text>loopedPositions</text>
@@ -243,13 +246,13 @@
         <text encoding="base64">CQkgICAgICAgIGxvb3AgPSBFZGdlTG9vcC5Gcm9tVmVydGljZXMobWVzaCwgdG9vdGguQ29udG91ckxvb3BWZXJ0aWNlcyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>PreRender</last-search>
+      <last-search>Load</last-search>
       <last-offset />
-      <last-pattern>PreRender</last-pattern>
+      <last-pattern>Load</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -257,7 +260,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZW5lcmF0ZVJvb3RzXD4=</entry>
         <entry encoding="base64">XDxlZGdlTG9vcFw+</entry>
         <entry encoding="base64">XDxhbGxXYXlwb2ludHNcPg==</entry>
         <entry encoding="base64">XDxkdXJhdGlvblw+</entry>
@@ -277,6 +279,7 @@
         <entry>Side</entry>
         <entry encoding="base64">XDxDcmVhdGVTb0FuZFN0b3JlXD4=</entry>
         <entry>PreRender</entry>
+        <entry>Load</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
@@ -286,11 +289,11 @@
         <entry>wwa</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>qa</entry>
         <entry>aw</entry>
         <entry>wea</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
