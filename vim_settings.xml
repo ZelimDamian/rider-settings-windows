@@ -9,11 +9,10 @@
         <mark key="^" line="25" column="71" />
         <mark key="." line="25" column="71" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SettingsService.cs" timestamp="1552048041337">
-        <mark key="[" line="19" column="57" />
-        <mark key="]" line="19" column="57" />
-        <mark key="." line="19" column="57" />
-        <mark key="^" line="19" column="57" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SettingsService.cs" timestamp="1552082254155">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="34" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawPlatformContour/DrawWaypointSurfaceCurveTool.cs" timestamp="1552051484373">
         <mark key="[" line="72" column="19" />
@@ -112,12 +111,12 @@
         <mark key="^" line="346" column="86" />
         <mark key="." line="346" column="86" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/JawsService.cs" timestamp="1552048558647">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/JawsService.cs" timestamp="1552082280518">
         <mark key="'" line="144" column="53" />
-        <mark key="[" line="151" column="47" />
-        <mark key="]" line="151" column="57" />
-        <mark key="." line="151" column="47" />
-        <mark key="^" line="142" column="25" />
+        <mark key="[" line="142" column="29" />
+        <mark key="]" line="142" column="35" />
+        <mark key="." line="142" column="35" />
+        <mark key="^" line="142" column="35" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SavingService.cs" timestamp="1552051601689" />
     </filemarks>
@@ -224,8 +223,8 @@
       <jump line="142" column="53" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/JawsService.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>D</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGpzb24gPSAKICAgICAgICAgICAgcm9vdCA9IAo=</text>
       </register>
       <register name="-" type="4">
         <text>D</text>
@@ -237,37 +236,37 @@
         <text>edgeLength</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGpzb24gPSAKICAgICAgICAgICAgcm9vdCA9IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFQgaXMgZmxvYXQpCiAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0IHsgcmV0dXJuIHJvb3Rba2V5XTsgfQogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIHRoaXNbc3RyaW5nIGtleV0KICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJQ29udG91cnNEZWJ1Z1JlbmRlcmVyLkRyYXdTZWdtZW50cygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIENvbnRvdXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChQcmV2aWV3ID09IG51bGwpIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFQgaXMgZmxvYXQpCiAgICAgICAgICAgIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -313,8 +312,8 @@
         <entry>aw</entry>
         <entry>wea</entry>
         <entry>qa</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
