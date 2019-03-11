@@ -40,28 +40,27 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="102" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshPlaneCut.cs" timestamp="1552322945223" />
       <file name="/Dummy.cs" timestamp="1552237244493">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="42" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/SceneObjects/GridSO.cs" timestamp="1552323188403" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" timestamp="1552049349020">
         <mark key="[" line="100" column="67" />
         <mark key="]" line="100" column="73" />
         <mark key="^" line="100" column="73" />
         <mark key="." line="100" column="73" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Waypoint.cs" timestamp="1552323111492" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/SceneObjects/WireSO.cs" timestamp="1551866203749">
         <mark key="'" line="229" column="29" />
         <mark key="[" line="232" column="0" />
         <mark key="]" line="232" column="0" />
         <mark key="." line="232" column="0" />
         <mark key="^" line="233" column="36" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/GenericToothTool/GenericToothTool.cs" timestamp="1552167680221">
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="191" column="38" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/TeethService.cs" timestamp="1552167801786">
         <mark key="'" line="346" column="92" />
@@ -136,7 +135,7 @@
         <mark key="^" line="191" column="15" />
         <mark key="." line="191" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/SceneObjects/WaypointContourSo.cs" timestamp="1550828779816">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/SceneObjects/WaypointContourSo.cs" timestamp="1552323148109">
         <mark key="[" line="129" column="25" />
         <mark key="]" line="129" column="32" />
         <mark key="." line="129" column="32" />
@@ -160,6 +159,7 @@
         <mark key="^" line="179" column="90" />
         <mark key="." line="211" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/WaypointContour.cs" timestamp="1552323106201" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/BracePositioning/BracePositioningTool.cs" timestamp="1551865857238">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
