@@ -40,21 +40,18 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/geometry3Sharp/mesh_ops/MeshPlaneCut.cs" timestamp="1552322945223" />
       <file name="/Dummy.cs" timestamp="1552237244493">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/SceneObjects/GridSO.cs" timestamp="1552323188403" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" timestamp="1552049349020">
         <mark key="[" line="100" column="67" />
         <mark key="]" line="100" column="73" />
         <mark key="^" line="100" column="73" />
         <mark key="." line="100" column="73" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Waypoint.cs" timestamp="1552323111492" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/SceneObjects/WireSO.cs" timestamp="1551866203749">
         <mark key="'" line="229" column="29" />
         <mark key="[" line="232" column="0" />
@@ -159,7 +156,6 @@
         <mark key="^" line="179" column="90" />
         <mark key="." line="211" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/WaypointContour.cs" timestamp="1552323106201" />
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/BracePositioning/BracePositioningTool.cs" timestamp="1551865857238">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
@@ -173,6 +169,12 @@
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/ToothContour.cs" timestamp="1552167300580">
         <mark key="'" line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/Helpers/EdgeSpans/EdgeSpanJoiningUtilities.cs" timestamp="1552571626121">
+        <mark key="[" line="168" column="57" />
+        <mark key="]" line="168" column="57" />
+        <mark key="." line="168" column="57" />
+        <mark key="^" line="168" column="57" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/FileService.cs" timestamp="1550828349371">
         <mark key="[" line="131" column="52" />
@@ -299,10 +301,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>Link</text>
