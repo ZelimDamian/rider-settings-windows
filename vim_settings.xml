@@ -105,12 +105,12 @@
         <mark key="." line="63" column="58" />
         <mark key="^" line="63" column="58" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" timestamp="1552302486686">
-        <mark key="'" line="30" column="8" />
-        <mark key="[" line="45" column="4" />
-        <mark key="]" line="45" column="4" />
-        <mark key="^" line="46" column="45" />
-        <mark key="." line="45" column="4" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" timestamp="1552661076238">
+        <mark key="'" line="483" column="63" />
+        <mark key="[" line="322" column="34" />
+        <mark key="]" line="323" column="19" />
+        <mark key="." line="323" column="19" />
+        <mark key="^" line="323" column="19" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/PatientService.cs" timestamp="1552238479230">
         <mark key="[" line="152" column="0" />
@@ -198,9 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="29" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
-      <jump line="96" column="60" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
-      <jump line="50" column="128" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/DownloadingService.cs" />
       <jump line="62" column="16" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Common/Services/DownloadingService.cs" />
       <jump line="27" column="34" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
       <jump line="288" column="40" filename="$USER_HOME$/Code/Unity/tzergity-webgl/Assets/Tzergity/Modules/Visualization/Controllers/PreloadingController.cs" />
@@ -298,58 +295,61 @@
       <jump line="141" column="40" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
       <jump line="277" column="40" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" />
       <jump line="30" column="8" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
+      <jump line="50" column="11" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
+      <jump line="303" column="58" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
+      <jump line="463" column="63" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/Controllers/SetupController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>color</text>
       </register>
       <register name="/" type="4">
-        <text>Link</text>
+        <text>PreRender</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I2lmICFQTEFURk9STV9XRUJHTAo=</text>
+      <register name="0" type="4">
+        <text>transparency</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICAgICAgCgkgICAgICAgIERlYnVnLkxvZygkIlN1Y2Nlc3NmdWxseSBsb2FkZWQge3BhdGllbnRzLkNvdW50fSBwYXRpZW50cy4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIHBhdGllbnRzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIERNZXNoU08gRHJhdyhETWVzaDMgbWVzaCwgQ29sb3JmIGNvbG9yLCBkb3VibGUgdHJhbnNwYXJhbmN5ID0gMC41KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaHR0cCBlcnJvcgogICAgICAgICAgICBpZiAod3d3LmlzSHR0cEVycm9yKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKHd3dy5lcnJvcik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIG5ldHdvcmsgY29ubmVjdGlvbiBwcm9ibGVtCiAgICAgICAgICAgIGlmICh3d3cuaXNOZXR3b3JrRXJyb3IpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24od3d3LmVycm9yKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaHR0cCBlcnJvcgogICAgICAgICAgICBpZiAod3d3LmlzSHR0cEVycm9yKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKHd3dy5lcnJvcik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIG5ldHdvcmsgY29ubmVjdGlvbiBwcm9ibGVtCiAgICAgICAgICAgIGlmICh3d3cuaXNOZXR3b3JrRXJyb3IpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24od3d3LmVycm9yKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAK</text>
+        <text encoding="base64">CSAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CSAgICAgICAgCgkgICAgICAgIERlYnVnLkxvZygkIlN1Y2Nlc3NmdWxseSBsb2FkZWQge3BhdGllbnRzLkNvdW50fSBwYXRpZW50cy4iKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZ0Vycm9yKHd3dy5lcnJvcik7Cg==</text>
+        <text encoding="base64">CSAgICAgICAgICAgIHBhdGllbnRzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Link</last-search>
+      <last-search>PreRender</last-search>
       <last-offset />
-      <last-pattern>Link</last-pattern>
+      <last-pattern>PreRender</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -357,7 +357,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUb290aFRleHRBdHRhY2htZW50U2VydmljZVw+</entry>
         <entry encoding="base64">XDxub0NhY2hlXD4=</entry>
         <entry encoding="base64">XDxNYXhJdGVyYXRpb25zXD4=</entry>
         <entry>Project</entry>
@@ -366,7 +365,6 @@
         <entry>Stage</entry>
         <entry>Side</entry>
         <entry encoding="base64">XDxDcmVhdGVTb0FuZFN0b3JlXD4=</entry>
-        <entry>PreRender</entry>
         <entry>Load</entry>
         <entry encoding="base64">XDxUb290aENvbnRvdXJJbnRlcmZhY2VcPg==</entry>
         <entry>DebugContour</entry>
@@ -377,6 +375,8 @@
         <entry>Pick</entry>
         <entry encoding="base64">XDxQaWNrRGlyZWN0b3J5XD4=</entry>
         <entry>Link</entry>
+        <entry>Update</entry>
+        <entry>PreRender</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
@@ -389,10 +389,10 @@
         <entry>aw</entry>
         <entry>wea</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>Link</entry>
         <entry>.,.+9!ink</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
