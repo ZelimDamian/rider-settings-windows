@@ -3,21 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/DownloadingService.cs" timestamp="1552238157636">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawPlatformContour/DrawWaypointSurfaceCurveTool.cs" timestamp="1552051484373">
         <mark key="[" line="72" column="19" />
         <mark key="]" line="72" column="18" />
         <mark key="^" line="72" column="18" />
         <mark key="." line="72" column="18" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Tools/DrawToothContour/DrawToothContourTool.cs" timestamp="1551863074212">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="40" />
-        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/BracePlatformService.cs" timestamp="1551865055227">
         <mark key="[" line="190" column="42" />
@@ -25,7 +15,7 @@
         <mark key="^" line="190" column="42" />
         <mark key="." line="190" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Tooth.cs" timestamp="1551799581801">
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/Tooth.cs" timestamp="1552923534128">
         <mark key="[" line="72" column="35" />
         <mark key="]" line="72" column="37" />
         <mark key="." line="72" column="37" />
@@ -90,6 +80,7 @@
         <mark key="." line="25" column="51" />
         <mark key="^" line="25" column="51" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Utilities/MeshOps/MeshTransformUtility.cs" timestamp="1552923696968" />
       <file name="/Dummy.txt" timestamp="1552664163204">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="71" />
@@ -101,11 +92,6 @@
         <mark key="]" line="25" column="71" />
         <mark key="^" line="25" column="71" />
         <mark key="." line="25" column="71" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/SettingsService.cs" timestamp="1552082254155">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="34" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Setup/UI/Layers/DynamicLayerList/DynamicLayerList.cs" timestamp="1552241988164">
         <mark key="[" line="63" column="58" />
@@ -183,11 +169,6 @@
         <mark key="." line="137" column="0" />
         <mark key="^" line="136" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/ModelBuilderService.cs" timestamp="1552166605272">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/States/ToothContour.cs" timestamp="1552167300580">
         <mark key="'" line="13" column="17" />
       </file>
@@ -202,11 +183,6 @@
         <mark key="]" line="131" column="59" />
         <mark key="^" line="131" column="59" />
         <mark key="." line="131" column="59" />
-      </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/GumRidgeGenerationService.cs" timestamp="1552168193565">
-        <mark key="[" line="123" column="25" />
-        <mark key="]" line="123" column="25" />
-        <mark key="." line="123" column="25" />
       </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/ModelBuilder/Controllers/ModelBuilderController.cs" timestamp="1552242066128">
         <mark key="'" line="277" column="40" />
