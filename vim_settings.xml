@@ -30,12 +30,12 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/IrpService.cs" timestamp="1552764624901">
-        <mark key="'" line="240" column="75" />
-        <mark key="[" line="26" column="33" />
-        <mark key="]" line="26" column="33" />
-        <mark key="." line="26" column="33" />
-        <mark key="^" line="23" column="57" />
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/IrpService.cs" timestamp="1553029289121">
+        <mark key="'" line="133" column="23" />
+        <mark key="[" line="144" column="38" />
+        <mark key="]" line="145" column="26" />
+        <mark key="." line="145" column="26" />
+        <mark key="^" line="145" column="26" />
       </file>
       <file name="/Dummy.cs" timestamp="1552237244493">
         <mark key="[" line="0" column="0" />
@@ -126,6 +126,10 @@
         <mark key="^" line="191" column="15" />
         <mark key="." line="191" column="15" />
       </file>
+      <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/WireService.cs" timestamp="1553029158889">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="66" />
+      </file>
       <file name="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/SceneObjects/WaypointContourSo.cs" timestamp="1552323148109">
         <mark key="[" line="129" column="25" />
         <mark key="]" line="129" column="32" />
@@ -195,9 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="8" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/IrpService.cs" />
-      <jump line="72" column="59" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/IrpService.cs" />
-      <jump line="75" column="72" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/IrpService.cs" />
       <jump line="77" column="78" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/IrpService.cs" />
       <jump line="80" column="46" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/IrpService.cs" />
       <jump line="82" column="42" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/IrpService.cs" />
@@ -295,58 +296,61 @@
       <jump line="81" column="53" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/AttachmentService.cs" />
       <jump line="97" column="45" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/AttachmentService.cs" />
       <jump line="100" column="65" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/AttachmentService.cs" />
+      <jump line="55" column="48" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/IrpService.cs" />
+      <jump line="130" column="53" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/IrpService.cs" />
+      <jump line="133" column="23" filename="$USER_HOME$/Code/Unity/Tzergity/Assets/Tzergity/Modules/Common/Services/IrpService.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgkJCXZhciBzaWRlTW9kZWxzID0gRmluZEJ5U2lkZShsYXllci5TaWRlKS5Ub0xpc3QoKTsKCgkJCWZvcmVhY2ggKHZhciBtb2RlbCBpbiBzaWRlTW9kZWxzKQoJCQl7CgkJCQlpZiAobW9kZWwuTGF5ZXJJbmRleCA+IGxheWVyLkluZGV4KQoJCQkJewoJCQkJCXZhciBjb3B5ID0gbW9kZWwuRHVwbGljYXRlKG1vZGVsLkxheWVySW5kZXggLSAxKTsKCQkJCQlSZW1vdmUobW9kZWwpOwoJCQkJCUNyZWF0ZVNvQW5kU3RvcmUoY29weSk7CgkJCQl9CgkJCX0K</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>wire</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMYXllckluZGV4XD4=</text>
+        <text>LayerRemoved</text>
       </register>
-      <register name="0" type="4">
-        <text>scene</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJLy8gcmVtb3ZlIGxheWVyIGFuZCBzaGlmdCBhbGwgd2lyZSBsYXllciBpbmRpY2VzIGlmIGEgbGF5ZXIgaXMgcmVtb3ZlZAoJCQlHZXQ8TGF5ZXJpbmdTZXJ2aWNlPigpLkxheWVyUmVtb3ZlZCArPSBPbkxheWVyUmVtb3ZlZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CgkJCXZhciBzaWRlTW9kZWxzID0gRmluZEJ5U2lkZShsYXllci5TaWRlKS5Ub0xpc3QoKTsKCgkJCWZvcmVhY2ggKHZhciBtb2RlbCBpbiBzaWRlTW9kZWxzKQoJCQl7CgkJCQlpZiAobW9kZWwuTGF5ZXJJbmRleCA+IGxheWVyLkluZGV4KQoJCQkJewoJCQkJCXZhciBjb3B5ID0gbW9kZWwuRHVwbGljYXRlKG1vZGVsLkxheWVySW5kZXggLSAxKTsKCQkJCQlSZW1vdmUobW9kZWwpOwoJCQkJCUNyZWF0ZVNvQW5kU3RvcmUoY29weSk7CgkJCQl9CgkJCX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJUmV2ZXJ0SXJwKCk7Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICAgICAgLy8gZG9uJ3QgYWxsb3cgcGxhY2luZyBtb2RlbHMgaW4gdGhlIGJhc2UgbGF5ZXIK</text>
+        <text encoding="base64">CQkJUmV2ZXJ0SXJwKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+        <text encoding="base64">CSAgICAgICAgLy8gZG9uJ3QgYWxsb3cgcGxhY2luZyBtb2RlbHMgaW4gdGhlIGJhc2UgbGF5ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLy8gCg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJaWYgKG1vZGVsLkxheWVySW5kZXggPT0gMCkKCQkJewoJCQkJcmV0dXJuOwoJCQl9Cg==</text>
+        <text encoding="base64">CQkJLy8gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB1bnNhZmUgdmVyc2lvbiB3aWxsIGFsbG93IGNvbGxlY3RpbmcgZnJhbWVzIGZvciBiYXNlIGxheWVyIGFzIHdlbGwK</text>
+        <text encoding="base64">CQkJaWYgKG1vZGVsLkxheWVySW5kZXggPT0gMCkKCQkJewoJCQkJcmV0dXJuOwoJCQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB1bnNhZmUgdmVyc2lvbiB3aWxsIGFsbG93IGNvbGxlY3RpbmcgZnJhbWVzIGZvciBiYXNlIGxheWVyIGFzIHdlbGwK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMYXllckluZGV4XD4=</last-search>
+      <last-search>LayerRemoved</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMYXllckluZGV4XD4=</last-pattern>
+      <last-pattern>LayerRemoved</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxVbFV0VlVsTExUQXdNVFV4THpBd01ETXhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -354,7 +358,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNYXhJdGVyYXRpb25zXD4=</entry>
         <entry>Project</entry>
         <entry encoding="base64">XDxzaG91bGRQcm9qZWN0XD4=</entry>
         <entry>SetStage</entry>
@@ -374,6 +377,7 @@
         <entry>Update</entry>
         <entry>PreRender</entry>
         <entry encoding="base64">XDxMYXllckluZGV4XD4=</entry>
+        <entry>LayerRemoved</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
